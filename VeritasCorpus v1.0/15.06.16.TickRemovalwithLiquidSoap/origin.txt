@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  One study compared several different techniques for removing ticks. Application of petroleum jelly, fingernail polish, 70% isopropyl alcohol, or a hot kitchen match failed to induce detachment of adult American dog ticks.
+ </p>
+ <p>
+  Experimental evidence suggests that chemical irritants are ineffective at persuading ticks to detach, and risk triggering injection of salivary fluids and possible transmission of disease-causing microbes. In addition, suffocating ticks by smothering them with petroleum jelly is an ineffective method of killing them because they have such a low respiratory rate (only requiring
+  <nobr>
+   3-15
+  </nobr>
+  breaths per hour) that by the time they die, there may have been sufficient time for pathogens to be transmitted.
+ </p>
+</blockquote>

@@ -1,0 +1,6 @@
+Title: Million Error
+Claim: A customer closed out his million-dollar account after his bank refused to validate a 50-cent parking ticket.
+Date: 17.05.10
+Link: https://www.snopes.com/business/bank/barrier.asp
+Verdict: true
+

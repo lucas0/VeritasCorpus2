@@ -1,0 +1,6 @@
+Title: John F. Kennedy Donated His Entire Presidential Salary to Charity
+Claim: JFK donated his entire presidential salary to charity.							See Example( s )
+Date: 16.08.05
+Link: https://www.snopes.com/jfk-presidential-salary/
+Verdict: true
+

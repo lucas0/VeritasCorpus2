@@ -1,0 +1,6 @@
+Title: Delivery Courier Scam
+Claim: Scammers use debit card information gleaned during delivery of gifts to make unauthorized ATM withdrawals.
+Date: 13.12.10
+Link: https://www.snopes.com/fraud/sales/express.asp
+Verdict: attribution-false
+

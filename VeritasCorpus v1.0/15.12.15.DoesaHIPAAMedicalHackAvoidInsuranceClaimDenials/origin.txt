@@ -1,0 +1,53 @@
+<blockquote>
+ <p>
+  MEDICAL HACK:
+ </p>
+ <p>
+  So, your
+  <strong>
+   doctor ordered a medical test or treatment
+  </strong>
+  and your insurance company
+  <strong>
+   denied it
+  </strong>
+  . That is a typical cost saving method.
+ </p>
+ <p>
+  OK, here is what you do:
+ </p>
+ <ol>
+  <li>
+   Call the insurance company and tell them you want to speak with the
+   <strong>
+    “HIPAA Compliance/Privacy Officer”
+   </strong>
+   (By federal law, they have to have one)
+  </li>
+  <li>
+   Then ask them for the NAMES and CREDENTIALS of every person
+   <strong>
+    accessing your record
+   </strong>
+   to make that decision of denial. By law you have a
+   <strong>
+    right
+   </strong>
+   to that information.
+  </li>
+  <li>
+   They will almost always
+   <strong>
+    reverse the decision
+   </strong>
+   very shortly rather than admit that the committee is made of low paid HS graduates, looking at “criteria words,” making the medical decision to deny your care. Even in the rare case it is made by medical personnel, it is unlikely it is made by a board certified doctor in that specialty and they DO NOT WANT YOU TO KNOW THIS!
+  </li>
+  <li>
+   Any refusal [to comply with such a request for documentation] should be reported to the US Office of Civil Rights (
+   <strong>
+    OCR.gov
+   </strong>
+   ) as a HIPAA violation.
+  </li>
+ </ol>
+</blockquote>

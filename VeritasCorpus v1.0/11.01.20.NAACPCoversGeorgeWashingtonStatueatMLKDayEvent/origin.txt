@@ -1,0 +1,15 @@
+<blockquote>
+ <p>
+  The annual MLK observance at the state house in Columbia SC had an interesting twist this year. The event is held on the north side steps of the statehouse. Prominent at that location is a large bronze statue of George Washington. This year, the NAACP constructed a “box” to conceal the Father of His Country from view so that participants would not be offended by his presence.
+ </p>
+ <p>
+  <center>
+   <a href="graphics/mlkstatue.jpg">
+    <img alt="Click photo to enlarge" border="1" class="border" data-src="https://www.snopes.com/uploads/images/photos/politics/graphics/mlkstatue.jpg" height="393" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="border: 1px solid black;" title="Click photo to enlarge" width="500"/>
+    <noscript>
+     <img alt="Click photo to enlarge" border="1" class="border" data-recalc-dims="1" src="https://us-east-1.tchyn.io/snopes-production/uploads/images/photos/politics/graphics/mlkstatue.jpg?resize=500,393" style="border: 1px solid black;" title="Click photo to enlarge"/>
+    </noscript>
+   </a>
+  </center>
+ </p>
+</blockquote>

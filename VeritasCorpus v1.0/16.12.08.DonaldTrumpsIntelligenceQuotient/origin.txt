@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  In the conventional approach to measuring IQ, a person is given a standardized test, such as the Wechsler Adult Intelligence Scale, and their score on the test is assumed to reflect their level of intelligence (with some amount of random error). By contrast, in the historiometric approach, a person’s IQ is quantitatively estimated based on variables having known correlations with IQ, such as highest level of education, academic honors, scores on college admissions exams, occupation, and preferences.
+ </p>
+</blockquote>

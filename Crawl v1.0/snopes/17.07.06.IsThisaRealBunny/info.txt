@@ -1,0 +1,6 @@
+Title: Is This a Real Bunny?
+Claim: A photograph shows a palm-sized rabbit.
+Date: 17.07.06
+Link: https://www.snopes.com/bunny-toy-photograph/
+Verdict: false
+

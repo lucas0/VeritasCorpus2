@@ -1,0 +1,6 @@
+Title: What Is Cinco de Mayo?
+Claim: The Cinco de Mayo holiday is a celebration of Mexico's achieving independence from Spain.
+Date: 17.05.04
+Link: https://www.snopes.com/holidays/other/cincodemayo.asp
+Verdict: false
+

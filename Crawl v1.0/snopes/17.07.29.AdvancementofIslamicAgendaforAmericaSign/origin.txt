@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  This photo was posted on Facebook, with a description saying it was a sign outside of a Dearborn Michigan Mosque. I suspect it is a case of hateful photoshopping! Can you verify if this photo is legit?
+ </p>
+ <p>
+  <center>
+   <img data-src="https://www.snopes.com/uploads/images/photos/signs/graphics/islamicagenda.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+   <noscript>
+    <img data-recalc-dims="1" src="https://us-east-1.tchyn.io/snopes-production/uploads/images/photos/signs/graphics/islamicagenda.jpg"/>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

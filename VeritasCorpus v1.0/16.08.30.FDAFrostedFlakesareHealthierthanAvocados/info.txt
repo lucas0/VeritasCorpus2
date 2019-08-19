@@ -1,0 +1,6 @@
+Title: FDA: Frosted Flakes are Healthier than Avocados
+Claim: The FDA said Frosted Flakes are healthier than avocados.							See Example( s )
+Date: 16.08.30
+Link: https://www.snopes.com/fda-frosted-flakes-are-healthier-than-avocados/
+Verdict: mfalse
+

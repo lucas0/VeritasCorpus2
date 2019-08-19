@@ -1,0 +1,21 @@
+<blockquote>
+ <p>
+  <iframe allowfullscreen="" data-src="//players.brightcove.net/5107476400001/B1xUkhW8i_default/index.html?videoId=5198024708001" frameborder="0" height="520" width="640">
+  </iframe>
+  <noscript>
+   <iframe allowfullscreen="" frameborder="0" height="520" src="//players.brightcove.net/5107476400001/B1xUkhW8i_default/index.html?videoId=5198024708001" width="640">
+   </iframe>
+  </noscript>
+ </p>
+ <p>
+  “We talk about training, we talk about having officers. I was talking to the city councilman last week who was saying, ‘Brooke, these people have to live in the community. There’s a lack of emotional investment.’ And a lot of these young
+  <nobr>
+   people — and
+  </nobr>
+  I’ve been talking about them so much. A lot of young
+  <nobr>
+   people — and
+  </nobr>
+  I love our nation’s veterans, but some of them are coming back from war, they don’t know the communities, and they’re ready to do battle.”
+ </p>
+</blockquote>

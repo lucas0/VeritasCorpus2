@@ -1,0 +1,6 @@
+Title: Solar Eclipse in the South Pacific
+Claim: A photograph show a solar eclipse over the ocean in the South Pacific.
+Date: 17.08.22
+Link: https://www.snopes.com/eclipse-over-south-pacific/
+Verdict: false
+

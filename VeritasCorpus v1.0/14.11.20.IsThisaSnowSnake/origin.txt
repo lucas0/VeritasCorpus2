@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  This is the deadly snow snake. It has bitten 3 people in the state of Ohio and one in Pennsylvania. It’s been spotted in other states. It comes out in the cold weather and at this time there is no cure for it’s bite. One bite and your blood starts to freeze. Scientist are trying to find a cure. Your body temperature start to fall once bitten. Please stay clear if you have see it. Please forward this and try to save as many people as we can from this deadly snow snake.
+ </p>
+ <p>
+  <center>
+   <img data-src="https://www.snopes.com/uploads/images/photos/animals/graphics/snowsnake.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+   <noscript>
+    <img data-recalc-dims="1" src="https://us-east-1.tchyn.io/snopes-production/uploads/images/photos/animals/graphics/snowsnake.jpg"/>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

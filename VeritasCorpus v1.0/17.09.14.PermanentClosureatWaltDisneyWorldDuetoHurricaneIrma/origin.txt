@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/prank-news.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-103829" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/prank-news.jpg?resize=600,581" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/prank-news.jpg?w=749 749w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/prank-news.jpg?resize=300,290 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/prank-news.jpg?resize=32,32 32w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  Walt Disney has officially announced that they will be permanently closing Fort Wilderness Campgrounds due to damage exceeding over $1 Million from one estimate.
+ </p>
+</blockquote>

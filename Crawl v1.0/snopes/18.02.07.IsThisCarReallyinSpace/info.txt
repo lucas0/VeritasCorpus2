@@ -1,0 +1,6 @@
+Title: Is This Car Really in Space?
+Claim: A series of images show a Tesla vehicle in space.
+Date: 18.02.07
+Link: https://www.snopes.com/tesla-car-really-space/
+Verdict: true
+

@@ -1,0 +1,15 @@
+<blockquote>
+ <p>
+  Mom said don’t run with scissors … but didn’t mention a fork.
+ </p>
+ <p>
+  <center>
+   <img alt="Fork" data-recalc-dims="1" src="https://us-east-1.tchyn.io/snopes-production/uploads/images/photos/accident/graphics/forknose1.jpg" title="Emergency room"/>
+  </center>
+ </p>
+ <p>
+  <center>
+   <img alt="Fork" data-recalc-dims="1" src="https://us-east-1.tchyn.io/snopes-production/uploads/images/photos/accident/graphics/forknose2.jpg" title="Emergency room"/>
+  </center>
+ </p>
+</blockquote>

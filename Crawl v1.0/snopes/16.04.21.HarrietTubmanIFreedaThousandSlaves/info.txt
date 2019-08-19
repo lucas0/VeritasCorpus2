@@ -1,0 +1,6 @@
+Title: Harriet Tubman: ‘I Freed a Thousand Slaves’
+Claim: Harriet Tubman said: "I freed a thousand slaves. I could have freed a thousand more if only they knew they were slaves."
+Date: 16.04.21
+Link: https://www.snopes.com/harriet-tubman-quote/
+Verdict: false
+

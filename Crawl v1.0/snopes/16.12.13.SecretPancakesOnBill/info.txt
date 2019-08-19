@@ -1,0 +1,6 @@
+Title: Secret Pancakes On $5 Bill
+Claim: Folding a $5 bill in a specific pattern will reveal a secret image of a stack of pancakes.
+Date: 16.12.13
+Link: https://www.snopes.com/secret-pancakes-on-5-bill/
+Verdict: false
+

@@ -1,0 +1,6 @@
+Title: ‘Wolf’ on Horse’s Coat
+Claim: A photograph shows a horse with markings on its coat depicting an image of a wolf.
+Date: 16.04.05
+Link: https://www.snopes.com/horse-markings-wolf/
+Verdict: false
+

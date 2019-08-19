@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  Madagascar, Southeast Africa Monkey
+ </p>
+ <p>
+  <center>
+   <img src="http://message.snopes.com/photos/animals/graphics/madmonkey.jpg"/>
+  </center>
+  <br>
+  </br>
+ </p>
+</blockquote>

@@ -1,0 +1,8 @@
+<blockquote>
+ <p>
+  EFSA’s expert Panel on Contaminants in the Food Chain (CONTAM) considered information on the toxicity of glycidol (the parent compound of GE) for its risk assessment of GE, assuming a complete conversion of the esters into glycidol following ingestion.
+ </p>
+ <p>
+  Dr Helle Knutsen, Chair of the CONTAM Panel, said: “There is sufficient evidence that glycidol is genotoxic and carcinogenic, therefore the CONTAM Panel did not set a safe level for GE.”
+ </p>
+</blockquote>

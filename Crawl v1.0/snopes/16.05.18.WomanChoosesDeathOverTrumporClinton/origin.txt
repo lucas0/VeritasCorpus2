@@ -1,0 +1,9 @@
+<blockquote>
+ <div class="media-box">
+  <ul class="polaroids">
+   <li>
+    NOLAND, Mary Anne Alfriend. Faced with the prospect of voting for either Donald Trump or Hillary Clinton, Mary Anne Noland of Richmond chose, instead, to pass into the eternal love of God on Sunday, May 15, 2016, at the age of 68. Born in Danville, Va., Mary Anne was a graduate of Douglas Freeman High School (1966) and the University of Virginia School of Nursing (1970). A faithful child of God, Mary Anne devoted her life to sharing the love she received from Christ with all whose lives she touched as a wife, mother, grandmother, daughter, sister, friend and nurse. Mary Anne was predeceased by her father, Kyle T. Alfriend Jr. and Esther G. Alfriend of Richmond. She is survived by her husband, Jim; sister, Esther; and brothers, Terry (Bonnie) and Mac (Carole). She was a mother to three sons, Jake (Stormy), Josh (Amy) and David (Katie); and she was “Grammy” to 10 beloved grandchildren.
+   </li>
+  </ul>
+ </div>
+</blockquote>

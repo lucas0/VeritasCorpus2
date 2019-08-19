@@ -1,0 +1,16 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/navy-destroyer-houston.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-102259" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/navy-destroyer-houston.jpg?resize=600,257" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/navy-destroyer-houston.jpg?w=1140 1140w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/navy-destroyer-houston.jpg?resize=300,128 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/navy-destroyer-houston.jpg?resize=768,329 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/navy-destroyer-houston.jpg?resize=1024,438 1024w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  As if the city of Houston hasn’t seen enough tragedy due to catastrophic flooding from Hurricane Harvey, things took a turn for the worse today after a U.S. Navy ship collided with a building in the downtown area.
+ </p>
+ <p>
+  The ship was identified as an Arleigh Burke-class destroyer belonging to the Navy’s 7th Fleet.
+ </p>
+ <p>
+  It was unclear why the destroyer was not able to see the building and take evasive action, or why it was over 20 miles inland and trying to navigate through a major metropolitan area.
+ </p>
+</blockquote>

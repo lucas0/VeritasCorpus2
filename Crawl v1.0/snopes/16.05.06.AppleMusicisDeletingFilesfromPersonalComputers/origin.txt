@@ -1,0 +1,14 @@
+<blockquote>
+ <p>
+  “The software is functioning as intended,” said Amber.
+ </p>
+ <p>
+  “Wait,” I asked, “so it’s supposed to delete my personal files from my internal hard drive without asking my permission?”
+ </p>
+ <p>
+  “Yes,” she replied.
+ </p>
+ <p>
+  I had just explained to Amber that 122 GB of music files were missing from my laptop. I’d already visited the online forum, I said, and they were no help. Although several people had described problems similar to mine, they were all dismissed by condescending “gurus” who simply said that we had mislocated our files (I had the free drive space to prove that wasn’t the case) or that we must have accidentally deleted the files ourselves (we hadn’t). Amber explained that I should blow off these dismissive “solutions” offered online because Apple employees don’t officially use the forums—evidently, that honor is reserved for lost, frustrated people like me, and (at least in this case) know-it-alls who would rather believe we were incompetent, or lying, than face the ugly truth that Apple has vastly overstepped its boundaries.
+ </p>
+</blockquote>

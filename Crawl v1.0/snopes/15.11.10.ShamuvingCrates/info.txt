@@ -1,0 +1,6 @@
+Title: Shamu-ving Crates
+Claim:  SeaWorld houses orcas in plastic bags while their tanks are cleaned.
+Date: 15.11.10
+Link: https://www.snopes.com/orcas-plastic-bags/
+Verdict: false
+

@@ -1,0 +1,17 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/clinton-portrait.jpg" target="_blank">
+   <img alt="clinton portrait" class="black-border aligncenter wp-image-66754" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/clinton-portrait.jpg?resize=600,338" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/clinton-portrait.jpg?w=640 640w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/clinton-portrait.jpg?resize=300,169 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/clinton-portrait.jpg?resize=542,305 542w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/clinton-portrait.jpg?resize=375,211 375w"/>
+  </a>
+  <br>
+   She didn’t win the election, but
+   <span class="rollover-people" data-behavior="rolloverpeople">
+    Hillary Clinton
+   </span>
+   still has a place at the White House — between two snowmen.
+  </br>
+ </p>
+ <p>
+  An official portrait of the former first lady and Democratic presidential nominee is hanging in the Cross Hall of the White House, displayed alongside an array of bells, baubles and other holiday décor.
+ </p>
+</blockquote>

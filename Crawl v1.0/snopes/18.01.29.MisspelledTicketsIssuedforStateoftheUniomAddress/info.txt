@@ -1,0 +1,6 @@
+Title: Misspelled Tickets Issued for ‘State of the Uniom’ Address?
+Claim: Tickets issued for President Trump's first State of the Union address contain a misspelling of the word "union."
+Date: 18.01.29
+Link: https://www.snopes.com/misspelled-tickets-trump-state-uniom/
+Verdict: true
+

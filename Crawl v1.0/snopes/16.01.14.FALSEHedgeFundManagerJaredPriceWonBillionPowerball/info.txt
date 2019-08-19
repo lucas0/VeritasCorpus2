@@ -1,0 +1,6 @@
+Title: FALSE: Hedge Fund Manager Jared Price Won $1.6 Billion Powerball
+Claim: A hedge fund manager named Jared Price won the $1.6 billion Powerball lottery.							See Example( s )
+Date: 16.01.14
+Link: https://www.snopes.com/jared-price-powerball-winner/
+Verdict: false
+

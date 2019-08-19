@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  “‘
+  <strong>
+   I care not who casts the votes of a nation, provided I can count them
+  </strong>
+  ,’ Napoleon failed to remark.” — New York Times
+  <a href="http://query.nytimes.com/mem/archive-free/pdf?res=9A03EFDE1630EE3ABC4E51DFB366838B699FDE" target="_blank">
+   editorial
+  </a>
+  (26 May 1880).
+ </p>
+</blockquote>

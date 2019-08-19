@@ -1,0 +1,7 @@
+<blockquote>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/dunkindonutsfinger-800x0-c-default.jpg" target="_blank">
+   <img alt="dunkindonutsfinger-800x0-c-default" class="alignnone size-full wp-image-62306" data-recalc-dims="1" sizes="(max-width: 800px) 100vw, 800px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/dunkindonutsfinger-800x0-c-default.jpg?resize=800,450" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/dunkindonutsfinger-800x0-c-default.jpg?w=800 800w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/dunkindonutsfinger-800x0-c-default.jpg?resize=300,169 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/dunkindonutsfinger-800x0-c-default.jpg?resize=768,432 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/dunkindonutsfinger-800x0-c-default.jpg?resize=733,412 733w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/dunkindonutsfinger-800x0-c-default.jpg?resize=542,305 542w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/dunkindonutsfinger-800x0-c-default.jpg?resize=375,211 375w"/>
+  </a>
+ </div>
+</blockquote>

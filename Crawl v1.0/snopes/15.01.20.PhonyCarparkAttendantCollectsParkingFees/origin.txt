@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  Day visitors: £2 per car
+  <br>
+   Members: £1 per car
+   <br/>
+   Corporate, hospitality and business visitors: £2 per car
+   <br/>
+  </br>
+ </p>
+</blockquote>

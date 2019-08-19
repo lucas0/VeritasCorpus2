@@ -1,0 +1,8 @@
+<blockquote>
+ <p>
+  A series of power outages in Los Angeles, San Francisco, and New York City left commuters stranded and traffic backed up on Friday. Although the outages occurred around the same time, there is no evidence (yet) that they were connected by anything more than coincidence. Given the sudden and unusual nature of the outages, SuperStation95 inquired of our sources in the Department of Homeland Security who told us:
+ </p>
+ <p>
+  “On their face, these power outages are a little too coincidental to be naturally occurring. We can confirm we are looking for evidence of Cyber-Attack . . . and we think we’ll find it.”
+ </p>
+</blockquote>

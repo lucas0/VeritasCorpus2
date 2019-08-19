@@ -1,0 +1,8 @@
+<blockquote>
+ <p class="p3">
+  Since prenatal screening tests were introduced in Iceland in the early 2000s, the vast majority of women — close to 100 percent — who received a positive test for Down syndrome terminated their pregnancy.
+ </p>
+ <p class="p3">
+  While the tests are optional, the government states that all expectant mothers must be informed about availability of screening tests, which reveal the likelihood of a child being born with Down syndrome. Around 80 to 85 percent of pregnant women choose to take the prenatal screening test, according to Landspitali University Hospital in Reykjavik.
+ </p>
+</blockquote>

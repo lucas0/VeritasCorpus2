@@ -1,0 +1,8 @@
+<blockquote>
+ <p class="mol-para-with-font">
+  A woman in the crowd screamed ‘They’re all around…You’re all going to f***ing die today’ just 45 minutes before a gunman opened fire at a Las Vegas music concert killing at least two people and injuring dozens more, DailyMail.com has learned.
+ </p>
+ <p class="mol-para-with-font">
+  The woman, described as Hispanic and in her 50s, made the terrifying outburst before her and a male companion were escorted out of the venue by security. Less than an hour later automatic gunfire peppered the music festival crowd turning it into a bloodbath and sending terrified concert goers diving for cover.
+ </p>
+</blockquote>

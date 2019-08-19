@@ -1,0 +1,8 @@
+<blockquote>
+ <p>
+  Biometric identification technology provides automated methods to identify a person based on physical characteristics — such as fingerprints, hand shape, and characteristics of the eyes and face — as well as behavioral characteristics — including signatures and voice patterns. Although used in law enforcement and defense for several years, it has recently been used in civilian applications and shows some promise to reduce the number of duplicate cases in the Food Stamp Program (FSP) and other assistance programs.
+ </p>
+ <p>
+  Biometric identification systems are currently operational at some level in Arizona, California (under county initiative, first by Los Angeles County), Connecticut, Illinois, Massachusetts, New Jersey, New York, and Texas. Finger imaging is the principal form of technology used in all eight States, though alternative technologies have simultaneously undergone trials in Massachusetts (facial recognition) and Illinois (retinal scanning). By the end of 2000, new systems are expected to be in place in California (statewide unified system), Delaware, and North Carolina. Other States are currently in the initial planning stages, including Florida, Maryland, Michigan, Mississippi, Pennsylvania, and South Carolina. However, there is little information available at this point regarding the specific course and trajectory these States will follow in terms of system types, implementation schedules, and the benefit programs in which they will implement the new requirement.
+ </p>
+</blockquote>

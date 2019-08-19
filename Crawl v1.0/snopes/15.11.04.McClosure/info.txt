@@ -1,0 +1,5 @@
+Title: McClosure
+Claim: The McDonald’s fast food chain will be closing 17,000 locations due to an increase in the minimum wage.
+Date: 15.11.04
+Link: https://www.snopes.com/mcdonalds-minimum-wage-hoax/
+Verdict: false

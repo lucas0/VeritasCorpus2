@@ -1,0 +1,6 @@
+Title: IRS Scam Season
+Claim: The Internal Revenue Service (IRS) is contacting taxpayers via e-mail to convey important tax return information, complete paperwork for a refund, or request payment on a balance owed.							See Example( s )
+Date: 16.01.20
+Link: https://www.snopes.com/irs-scam-season/
+Verdict: attribution-false
+

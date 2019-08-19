@@ -1,0 +1,6 @@
+Title: 1912 Newspaper Article Anticipates Anthropogenic Global Warming
+Claim: A 14 August 1912 article from a New Zealand newspaper contains a brief story about how burning coal might produce future warming by adding carbon dioxide to the atmosphere.							See Example( s )
+Date: 16.10.18
+Link: https://www.snopes.com/1912-article-global-warming/
+Verdict: true
+

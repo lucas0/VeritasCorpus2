@@ -1,0 +1,11 @@
+<blockquote>
+ <p class="p3">
+  Using just a scoop of peanut butter and a ruler, clinicians have discovered a way to change lives and provide an early diagnosis for Alzheimer’s. […]
+ </p>
+ <p class="p3">
+  The study involved participants with Alzheimer’s and other forms of dementia. Participants were asked to close their eyes and attempt to detect an odor with one nostril at a time. Researchers used a small container of peanut butter to measure the distance from each nostril that the participants were able to detect the odor. The study found that people with Alzheimer’s disease have a harder time detecting odors from their left nostril when compared to their right nostril. […]
+ </p>
+ <p class="p3">
+  So why peanut butter? Because it has a strong, familiar smell. People with Alzheimer’s can lose their ability to smell even before memory problems arise.
+ </p>
+</blockquote>

@@ -1,0 +1,6 @@
+Title: FALSE: The Lottery Has Been Cancelled
+Claim: A $1.5 billion powerball lottery drawing scheduled for 13 January 2016 has been cancelled.							See Example( s )
+Date: 16.01.12
+Link: https://www.snopes.com/powerball-lottery-not-cancelled/
+Verdict: false
+

@@ -1,0 +1,22 @@
+<blockquote>
+ <p>
+  Share this with as many whiners as you can.
+ </p>
+ <p>
+  There are 3,141 counties in the United States.
+ </p>
+ <p>
+  Trump won 3,084 of them.
+  <br>
+   Clinton won 57.
+  </br>
+ </p>
+ <p>
+  There are 62 counties in New York State.
+ </p>
+ <p>
+  Trump won 46 of them.
+  <br/>
+  Clinton won 16.
+ </p>
+</blockquote>

@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  We have data on a total of 2,699 fatal police killings for the years 2013 to 2015. This is 1,333 more killings by police than is provided by the FBI data on justifiable police homicides. When either the violent crime rate or the demographics of a city are accounted for, we find that white police officers are not significantly more likely to kill a black suspect. For the estimates where we know the race of the officer who killed the suspect, the ratio of the rate that blacks are killed by black versus white officers is large — ranging from 3 to 5 times larger. However, because the media may under report the officer’s race when black officers are involved, other results that account for the fact that a disproportionate number of the unknown race officers may be more reliable.
+ </p>
+</blockquote>

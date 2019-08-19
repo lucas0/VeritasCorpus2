@@ -1,0 +1,18 @@
+<blockquote>
+ <p>
+  <strong>
+   NEWS!! JUST IN: Mike Pence and his 23 staff members die after airline accident
+  </strong>
+  . (VIDEO)
+ </p>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/JqnG9AZHp58" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/JqnG9AZHp58" width="560">
+    </iframe>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

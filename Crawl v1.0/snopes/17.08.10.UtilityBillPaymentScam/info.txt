@@ -1,0 +1,6 @@
+Title: Utility Bill Payment Scam
+Claim: A government grant will pay your utility bill in full for one month.
+Date: 17.08.10
+Link: https://www.snopes.com/fraud/identity/utilitybill.asp
+Verdict: attribution-false
+

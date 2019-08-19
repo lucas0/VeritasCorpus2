@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  The most striking difference reported to date between the two species is a remarkable ability to use visual working memory in young chimpanzees, who can outperform even adult humans on certain tasks. Specifically, chimpanzees can learn to touch the Arabic numerals, 1–9, in ascending order. Once trained to criterion on this task, we introduced a masking task to measure working memory ability. Upon touching the lowest number, the remaining eight numbers are masked by white squares and subjects are then required to touch the masked stimuli in ascending order of the hidden numerals. This is not an easy task for humans; however, three out of three young chimpanzees succeeded.
+ </p>
+</blockquote>

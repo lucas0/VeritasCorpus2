@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  Zello, a walkie-talkie app, has seen a 20-fold increase in usage in the past week, according to Bill Moore, the company’s chief executive. The app typically picks up in usage during natural disasters and has found particular use this time among the Cajun Navy, a group of civilians who have been using their own boats to rescue residents.
+ </p>
+ <p>
+  The app has also seen double the number of daily active users, with a baseline of eight million monthly active unique users and 100 million registered users.
+ </p>
+ <p>
+  “It’s ideal for situations where you’re solving problems or the stakes are high,” Moore said.
+ </p>
+</blockquote>

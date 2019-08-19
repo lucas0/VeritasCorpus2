@@ -1,0 +1,15 @@
+<blockquote>
+ <p>
+  The National Westminster Bank in England admitted last month that it keeps personal information about its customers — such as their political affiliation — on computer. But now
+  <em>
+   Computer Weekly
+  </em>
+  reveals that a financial institution, sadly unnamed, has gone one better and moved into the realm of personal abuse.
+ </p>
+ <p>
+  The institution decided to mass-mail 2000 of its richest customers, inviting them to buy extra services. One of its computer programmers wrote a program to search through the databases and select its customers automatically. He tested the program with an imaginary customer called Rich Bastard.
+ </p>
+ <p>
+  Unfortunately, an error resulted in all 2000 letters being addressed “Dear Rich Bastard”. The luckless programmer was subsequently fired.
+ </p>
+</blockquote>

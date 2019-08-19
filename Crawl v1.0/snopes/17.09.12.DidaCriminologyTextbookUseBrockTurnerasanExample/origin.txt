@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/brock-turner-rape.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-103588" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/brock-turner-rape.jpg?resize=600,800" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/brock-turner-rape.jpg?w=720 720w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/brock-turner-rape.jpg?resize=225,300 225w" style="border: 1px solid black;"/>
+  </a>
+  <br>
+   Brock Turner, a Stanford student who raped and assaulted an unconscious female college student behind a dumpster at a fraternity party, was recently released from jail after serving only three months. Some are shocked at how short this sentence is. Others who are more familiar with the way sexual violence has been handled in the criminal justice system are shocked that he was found guilty and served any time at all. What do you think?
+  </br>
+ </p>
+</blockquote>

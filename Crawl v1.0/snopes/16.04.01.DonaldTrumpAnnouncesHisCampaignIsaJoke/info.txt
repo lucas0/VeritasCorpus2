@@ -1,0 +1,6 @@
+Title: Donald Trump Announces His Campaign Is a Joke
+Claim: Donald Trump announced that his 2016 Presidential campaign was an April Fool's Day joke.							See Example( s )
+Date: 16.04.01
+Link: https://www.snopes.com/donald-trump-campaign-joke/
+Verdict: false
+

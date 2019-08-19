@@ -1,0 +1,6 @@
+Title: Global Sea Ice at a Record-Breaking Low
+Claim: Daily sea ice data from 1979 to the present show a record-breaking low amount of global sea ice coverage beginning around October 2016.
+Date: 16.11.21
+Link: https://www.snopes.com/global-sea-ice-at-a-record-breaking-low/
+Verdict: true
+

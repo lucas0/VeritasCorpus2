@@ -1,0 +1,6 @@
+Title: Telling Siri to ‘Charge My Phone to 100%’ Summons Police
+Claim: Telling Siri to "charge my phone to 100 percent" will cause the virtual assistant to surreptitiously dial 911 or summon emergency services.							See Example( s )
+Date: 16.12.26
+Link: https://www.snopes.com/siri-charge-phone-police/
+Verdict: mfalse
+

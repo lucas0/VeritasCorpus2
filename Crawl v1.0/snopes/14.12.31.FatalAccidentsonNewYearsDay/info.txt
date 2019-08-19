@@ -1,0 +1,6 @@
+Title: Fatal Accidents on New Year’s Day
+Claim: New Year's is the day of the year on which the greatest number of people are killed in automobile accidents.
+Date: 14.12.31
+Link: https://www.snopes.com/holidays/newyears/traffic.asp
+Verdict: false
+

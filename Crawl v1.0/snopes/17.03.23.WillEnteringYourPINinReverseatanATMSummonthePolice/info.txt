@@ -1,0 +1,6 @@
+Title: Will Entering Your PIN in Reverse at an ATM Summon the Police?
+Claim: Entering your PIN in reverse at any ATM will automatically summon the police.
+Date: 17.03.23
+Link: https://www.snopes.com/business/bank/pinalert.asp
+Verdict: false
+

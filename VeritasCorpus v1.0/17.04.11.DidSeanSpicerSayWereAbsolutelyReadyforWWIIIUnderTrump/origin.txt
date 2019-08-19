@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  Newslo is the first hybrid News/Satire platform on the web. Readers come to us for a unique brand of entertainment and information that is enhanced by features like our fact-button, which allows readers to find what is fact and what is satire.
+ </p>
+</blockquote>

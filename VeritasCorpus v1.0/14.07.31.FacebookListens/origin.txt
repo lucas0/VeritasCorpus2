@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  When writing a status update — if you choose to turn the feature on — you’ll have the option to use your phone’s microphone to identify what song is playing or what show or movie is on TV.
+ </p>
+ <p>
+  That means if you want to share that you’re listening to your favorite Beyoncé track or watching the season premiere of Game of Thrones, you can do it quickly and easily, without typing.
+ </p>
+ <p>
+  If you share music, your friends can see a 30-second preview of the song. For TV shows, the story in News Feed will highlight the specific season and episode you’re watching, so you can avoid any spoilers and join in conversations with your friends after you’ve caught up.
+ </p>
+</blockquote>

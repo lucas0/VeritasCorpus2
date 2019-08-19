@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  Fetal cell microchimerism is defined as the persistence of fetal cells in the mother for decades after pregnancy without any apparent rejection. Fetal microchimeric cells (fmcs) engraft the maternal bone marrow and are able to migrate through the circulation and to reach tissues.
+ </p>
+</blockquote>

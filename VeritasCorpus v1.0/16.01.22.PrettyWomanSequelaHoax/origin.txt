@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  Like-farmers start pages and fill them with content dedicated to collecting as many “likes” or “shares” as possible in the shortest amount of time.
+ </p>
+ <p>
+  Since Facebook’s algorithms place a high value on popularity (as measured by likes and shares), these highly liked and shared pages therefore have a much higher chance of appearing in people’s “Feeds” and being seen by other Facebook users.
+ </p>
+ <p>
+  Then, once the page has a sufficiently high popularity rating, the like-farmer either removes the page’s original content and replaces it with something else (usually malware or scam advertising); leaves the page as is and uses it as a platform for continued like-farming in order to spread malware, collect people’s marketing information or engage in other harmful activities; or outright sells the highly liked site to cybercriminals in a black market web forum.
+ </p>
+</blockquote>

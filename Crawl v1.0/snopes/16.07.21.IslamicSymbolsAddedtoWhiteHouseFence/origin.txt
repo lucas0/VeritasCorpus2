@@ -1,0 +1,7 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/07/white-house-fence-3.jpg" target="_blank">
+   <img alt="white-house-fence-3" class="aligncenter wp-image-42327 size-full" data-recalc-dims="1" sizes="(max-width: 654px) 100vw, 654px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/07/white-house-fence-3.jpg?resize=654,579" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/07/white-house-fence-3.jpg?w=654 654w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/07/white-house-fence-3.jpg?resize=300,266 300w"/>
+  </a>
+ </p>
+</blockquote>

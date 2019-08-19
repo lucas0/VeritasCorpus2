@@ -1,0 +1,73 @@
+<blockquote>
+ <p>
+  Read about three-phase electricity fully before looking at the picture. This is “shocking” to say the least.
+ </p>
+ <p>
+  Heed the Warning!!!!!!!!!!!!!
+ </p>
+ <p>
+  An innocent Christmas celebration, a couple of beers led to an untimely end result when a Texas redneck tangled with a Texas lectric fence. Needless to say the fence won….read on for the rest of the story….
+ </p>
+ <p>
+  I am sure we have all heard the phrase, “Don’t pee on an electric fence.” Well it just isn’t a joke.  Here is what happened to someone that did just that on a
+  <nobr>
+   3 phase
+  </nobr>
+  electric fence.  So what is
+  <nobr>
+   3 phase,
+  </nobr>
+  you might ask? Electricity is provided to each home as 2 of the
+  <nobr>
+   3 phases
+  </nobr>
+  produced by the transformer on the pole.  Our lights and wall outlets are single phase at
+  <br>
+   <nobr>
+    110 volts
+   </nobr>
+   and our stoves, Air Condition, and large appliances use
+   <nobr>
+    2 phase
+   </nobr>
+   which is two different
+   <nobr>
+    110 volt
+   </nobr>
+   legs or normally 220 to
+   <nobr>
+    230 volts.
+   </nobr>
+  </br>
+ </p>
+ <p>
+  The difference between phases is that they each alternate between plus
+  <nobr>
+   110 volts
+  </nobr>
+  down to minus
+  <nobr>
+   110 volts
+  </nobr>
+  thus the name Alternating Current or AC. Your car uses a battery and that is DC or Direct Current. Each phase alternates through their cycle
+  <nobr>
+   60 times
+  </nobr>
+  a second however they each are timed to start through their cycles one third of the cycle behind the preceding cycle so that none of the three are exactly at the same stage at the same time.
+ </p>
+ <p>
+  The third leg, as it is known, is brought into industrial sites to power up large motors pulling heavy loads.
+ </p>
+ <p>
+  Can you say “ouch”??….  Notice the key phrase here is “…a three-phase electric fence.” Yep, it would burn it off!  Ever wonder what would happen if you peed on a
+  <nobr>
+   3-phase
+  </nobr>
+  electric fence?   Take a look (not for timid, gentle souls).
+ </p>
+ <p>
+  <center>
+   <img alt="" class="aligncenter size-full wp-image-108525" data-recalc-dims="1" sizes="(max-width: 800px) 100vw, 800px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2013/07/fence.jpg?resize=800,600" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2013/07/fence.jpg?w=800 800w, https://us-east-1.tchyn.io/snopes-production/uploads/2013/07/fence.jpg?resize=300,225 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2013/07/fence.jpg?resize=768,576 768w"/>
+  </center>
+ </p>
+</blockquote>

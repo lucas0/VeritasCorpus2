@@ -1,0 +1,6 @@
+Title: Are Green Potatoes Poisonous?
+Claim: You should avoid eating green potatoes because they are poisonous.
+Date: 16.09.07
+Link: https://www.snopes.com/food/ingredient/greenpotatoes.asp
+Verdict: mfalse
+

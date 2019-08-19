@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/police-norway-fake.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-96323" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/police-norway-fake.jpg?resize=600,568" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/police-norway-fake.jpg?w=472 472w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/police-norway-fake.jpg?resize=300,284 300w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  Meanwhile in Norway…Norwegian police uniforms in the Summer are very popular with many women…
+ </p>
+</blockquote>

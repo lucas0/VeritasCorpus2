@@ -1,0 +1,14 @@
+<blockquote>
+ <p>
+  <b>
+   SURGEON GENERAL’S WARNING:
+  </b>
+  Smoking By Pregnant Women May Result in Fetal Injury, Premature Birth, And Low Birth Weight.
+ </p>
+ <p>
+  <b>
+   GOVERNMENT WARNING:
+  </b>
+  According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects.
+ </p>
+</blockquote>

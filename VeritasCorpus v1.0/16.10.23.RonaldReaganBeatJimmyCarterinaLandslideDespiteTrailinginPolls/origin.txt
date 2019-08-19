@@ -1,0 +1,15 @@
+<blockquote>
+ <p>
+  As smoke clears from weeks of political bombardment, White House watchers are convinced the only questions now are how big Hillary Clinton’s win will be and whether the Democrats can take Congress, too.
+ </p>
+ <p>
+  Those Republicans still loyal to Trump cling to the hope that all the polls are wrong – that in barely two weeks’ time, angry voters will again stun the world. Over and over,
+  <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="https://www.theguardian.com/us-news/donaldtrump" target="_blank">
+   Donald Trump
+  </a>
+  is saying one word: Brexit.
+ </p>
+ <p>
+  “We will win,” he told a rally in Pennsylvania on Friday. “We will shock the world. This is going to be Brexit-plus.”
+ </p>
+</blockquote>

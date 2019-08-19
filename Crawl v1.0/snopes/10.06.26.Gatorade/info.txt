@@ -1,0 +1,6 @@
+Title: Gatorade
+Claim: Photos show an alligator swimming across a lake with a deer clutched in its jaws.							See Example( s )
+Date: 10.06.26
+Link: https://www.snopes.com/photos/animals/gatordeer.asp
+Verdict: true
+

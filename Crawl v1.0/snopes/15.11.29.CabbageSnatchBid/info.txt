@@ -1,0 +1,6 @@
+Title: Cabbage Snatch Bid
+Claim:  Chick-fil-A is removing Cole Slaw from their menu on 18 January 2016.
+Date: 15.11.29
+Link: https://www.snopes.com/chick-fil-cole-slaw-january-18/
+Verdict: true
+

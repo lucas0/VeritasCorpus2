@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/5IZd12njtBY" frameborder="0" height="315" width="560">
+  </iframe>
+  <noscript>
+   <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/5IZd12njtBY" width="560">
+   </iframe>
+  </noscript>
+ </p>
+ <p>
+  Donald Trump announced today that the whole campaign was a complete joke and he will be pulling out of the campaign and endorsing Hillary Clinton
+ </p>
+</blockquote>

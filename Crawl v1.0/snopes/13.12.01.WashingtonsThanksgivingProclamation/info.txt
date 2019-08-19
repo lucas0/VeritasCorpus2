@@ -1,0 +1,6 @@
+Title: Washington’s Thanksgiving Proclamation?
+Claim: The first Thanksgiving proclamation in the United States was issued by George Washington.
+Date: 13.12.01
+Link: https://www.snopes.com/holidays/thanksgiving/washington.asp
+Verdict: true
+

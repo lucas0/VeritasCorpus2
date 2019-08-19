@@ -1,0 +1,17 @@
+<blockquote>
+ <p class="p3">
+  Bad news for everyone – the first radioactive salmon have been found in British Columbia, Canada and there are pictures to prove it.
+ </p>
+ <p class="p3">
+  After researchers realized over a third of the world’s oceans were contaminated from the Fukushima rector’s [sic]
+  <span class="Apple-converted-space">
+  </span>
+  explosion, a team of researchers from the University of Victoria started investigating radioactive samples of salmon.
+ </p>
+ <p class="p3">
+  The American West Coast is also contaminated, and traces of seaborne Cesium 123 [sic, cesium-123 has a half life of 5 minutes and is irrelevant to this discussion, but we will assume the author meant cesium-134] (the indicator of Fukushima nuclear contamination) can still be detected in the ocean waters. […]
+ </p>
+ <p class="p3">
+  According to the tests, the samples from the Oregon coast measured around 0.3 becquerels per cubic meter for cesium 134.
+ </p>
+</blockquote>

@@ -1,0 +1,9 @@
+<blockquote>
+ <p>
+  There’s a picture that pops up on my Twitter every once in a while that explains a mutation supposedly known as “Alexandria’s Genesis.” Supposedly what that is is 6 months after whoever has the mutation is born, their eyes turn purple. They also do not grow any type of body hair.
+  <img data-src="https://www.snopes.com/uploads/images/politics/graphics/purpleeyes.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+  <noscript>
+   <img data-recalc-dims="1" src="https://us-east-1.tchyn.io/snopes-production/uploads/images/politics/graphics/purpleeyes.jpg"/>
+  </noscript>
+ </p>
+</blockquote>

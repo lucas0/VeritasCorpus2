@@ -1,0 +1,6 @@
+Title: Was Humphrey Bogart Born on Christmas Day?
+Claim: Actor Humphrey Bogart was born on Christmas Day.
+Date: 14.04.24
+Link: https://www.snopes.com/movies/actors/bogartbirthday.asp
+Verdict: true
+

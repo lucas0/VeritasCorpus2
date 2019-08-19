@@ -1,0 +1,14 @@
+<blockquote>
+ <p class="p4">
+  “HTTP request and error logs”;
+ </p>
+ <p class="p4">
+  “SSH, FTP or telnet logs showing connections related to the website”;
+ </p>
+ <p class="p4">
+  “Any other transactional information including records of session times and durations, log files, dates and times of connecting, methods of connecting, and ports”;
+ </p>
+ <p class="p4">
+  Databases containing email addresses associated with activity on the site.
+ </p>
+</blockquote>

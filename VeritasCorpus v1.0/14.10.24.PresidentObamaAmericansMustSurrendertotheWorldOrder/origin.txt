@@ -1,0 +1,15 @@
+<blockquote>
+ <p>
+  And for the international order that we have worked for generations to build. Ordinary men and women are too small-minded to govern their own affairs, that order and progress can only come when individuals surrender their rights to an all-powerful sovereign.
+ </p>
+ <p>
+  <center>
+   <iframe allowfullscreen="" data-src="//www.youtube.com/embed/YfRtbIQ1kTw" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/YfRtbIQ1kTw" width="560">
+    </iframe>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

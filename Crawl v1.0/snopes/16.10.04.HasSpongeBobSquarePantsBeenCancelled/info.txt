@@ -1,0 +1,6 @@
+Title: Has SpongeBob SquarePants Been Cancelled?
+Claim: The animated TV show 'SpongeBob SquarePants' has been canceled.							See Example( s )
+Date: 16.10.04
+Link: https://www.snopes.com/spongebob-squarepants-cancelled/
+Verdict: false
+

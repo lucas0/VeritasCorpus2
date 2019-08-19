@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  A dog walker out on the shores of Loch Ness has just stumbled across this. Has Nessy been found? Or someone playing a fascinating prank?
+ </p>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/loch-ness-monster-dead.jpg" target="_blank">
+   <img alt="loch ness monster dead" class="aligncenter size-full wp-image-38885" data-recalc-dims="1" sizes="(max-width: 540px) 100vw, 540px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/loch-ness-monster-dead.jpg?resize=540,960" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/loch-ness-monster-dead.jpg?w=540 540w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/loch-ness-monster-dead.jpg?resize=169,300 169w"/>
+  </a>
+ </div>
+</blockquote>

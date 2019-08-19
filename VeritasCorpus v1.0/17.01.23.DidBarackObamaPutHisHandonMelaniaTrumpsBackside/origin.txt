@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  <center>
+   <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/fake-obama-photo.jpg" target="_blank">
+    <img alt="fake obama photo" class="black-border aligncenter wp-image-73908" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/fake-obama-photo.jpg?resize=600,519" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/fake-obama-photo.jpg?w=458 458w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/fake-obama-photo.jpg?resize=300,259 300w"/>
+   </a>
+  </center>
+  <br>
+   How will Obama mansplain this?
+  </br>
+ </p>
+</blockquote>

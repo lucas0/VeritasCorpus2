@@ -1,0 +1,6 @@
+Title: Did a Study Prove That Airport Scanners ‘Rip Apart’ Your DNA?
+Claim: A study performed at the Los Alamos National Laboratory found that millimeter wave body scanners commonly used by airport security can alter your DNA.
+Date: 17.02.24
+Link: https://www.snopes.com/do-airport-scanners-rip-apart-dna/
+Verdict: false
+

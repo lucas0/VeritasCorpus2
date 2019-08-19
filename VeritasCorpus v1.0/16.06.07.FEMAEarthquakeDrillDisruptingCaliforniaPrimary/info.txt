@@ -1,0 +1,6 @@
+Title: FEMA Earthquake Drill Disrupting California Primary
+Claim: The Federal Emergency Management Agency scheduled a massive earthquake preparedness drill on the same day as the California primary.							See Example( s )
+Date: 16.06.07
+Link: https://www.snopes.com/fema-drill-disrupting-california-primary/
+Verdict: mfalse
+

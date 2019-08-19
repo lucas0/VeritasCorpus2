@@ -1,0 +1,8 @@
+<blockquote>
+ <p class="p3">
+  A swarm of nearly 900 earthquakes have hit Yellowstone National Park since 12 June, according to experts. The park sits on one of the world’s most dangerous supervolcanoes and recent activity has raised fears the supervolcano is about to blow.
+ </p>
+ <p class="p3">
+  If it were to erupt, the Yellowstone volcano would be one thousand times as powerful as the 1980 Mount St Helens eruption, experts claim – although they say the risk is ‘low’.
+ </p>
+</blockquote>

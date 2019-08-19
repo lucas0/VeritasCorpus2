@@ -1,0 +1,6 @@
+Title: ‘Black Muslim in the White House’ Virus
+Claim: A virus is circulating with the name "Black in the White House" (aka "Black Muslim in the White House").							See Example( s )
+Date: 15.02.24
+Link: https://www.snopes.com/computer/virus/whitehouse.asp
+Verdict: false
+

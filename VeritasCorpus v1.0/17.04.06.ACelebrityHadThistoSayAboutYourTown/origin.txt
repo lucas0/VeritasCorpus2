@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  Hollywood actor Tom Hanks passed through Canton, Ohio recently and apparently was quite impressed with the residents there. In an interview this week Hanks said:
+ </p>
+ <p>
+  “Well, we had a flat tire just as we were about to leave the city limits of Canton and two, maybe three cars pulled over within five minutes to help us with it. And no, they had no idea who I was before they pulled over. They were very helpful and very friendly. I gotta say, I was really impressed with the people of Canton, Ohio! That would’ve never happened in L.A.!”
+ </p>
+ <div style="text-align: center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/Tom_Hanks_Canton__Ohio_%E2%80%93_WLEB_21.png" target="_blank">
+   <img alt="Tom_Hanks_Canton__Ohio_–_WLEB_21" class="size-full wp-image-23042 aligncenter" data-recalc-dims="1" sizes="(max-width: 778px) 100vw, 778px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/Tom_Hanks_Canton__Ohio_%E2%80%93_WLEB_21.png?resize=778,475" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/Tom_Hanks_Canton__Ohio_%E2%80%93_WLEB_21.png?w=778 778w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/Tom_Hanks_Canton__Ohio_%E2%80%93_WLEB_21.png?resize=300,183 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/Tom_Hanks_Canton__Ohio_%E2%80%93_WLEB_21.png?resize=768,469 768w" style="border: 1px solid black;"/>
+  </a>
+ </div>
+</blockquote>

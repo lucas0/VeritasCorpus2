@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  The Congress’s oversight committees have worked diligently to address the complex challenge of cybersecurity, but recent events show that more must be done. Cyber cuts across and involves multiple committees of jurisdiction, including the Committees on Intelligence, Armed Services, Foreign Relations, Commerce, Judiciary, and Homeland Security and Government Affairs. Despite the good work that these and other committees have done on their own, cyber is the rare kind of all-encompassing challenge for which the Congress’s jurisdictional boundaries are an impediment to sufficient oversight and legislative action. Only a select committee that is time-limited, cross-jurisdictional, and purpose-driven can address the challenge of cyber.
+ </p>
+</blockquote>

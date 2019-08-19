@@ -1,0 +1,17 @@
+<blockquote>
+ <p>
+  Bob: “I can can I I everything else.”
+ </p>
+ <p>
+  Alice: “Balls have zero to me to me to me to me to me to me to me to me to.”
+ </p>
+ <p>
+  To you and I, that passage looks like nonsense. But what if I told you this nonsense was the discussion of what might be the most sophisticated negotiation software on the planet? Negotiation software that had learned, and evolved, to get the best deal possible with more speed and efficiency — and perhaps, hidden nuance — than you or I ever could? Because it is.
+ </p>
+ <p>
+  This conversation occurred between two AI agents developed inside Facebook. At first, they were speaking to each other in plain old English. But then researchers realized they’d made a mistake in programming.
+ </p>
+ <p>
+  “There was no reward to sticking to English language,” says Dhruv Batra, visiting research scientist from Georgia Tech at Facebook AI Research (FAIR). As these two agents competed to get the best deal — a very effective bit of AI vs. AI dogfighting researchers have dubbed a “generative adversarial network” — neither was offered any sort of incentive for speaking as a normal person would. So they began to diverge, eventually rearranging legible words into seemingly nonsensical sentences.
+ </p>
+</blockquote>

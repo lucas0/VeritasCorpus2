@@ -1,0 +1,6 @@
+Title: Customer Liability for Chipped Card (EMV) Fraud
+Claim: If you swipe a chipped card debit/credit at a point-of-sale terminal instead of inserting it into the reader, you become liable for any fraudulent transactions.							See Example( s )
+Date: 16.08.04
+Link: https://www.snopes.com/customer-liability-for-chipped-card-emv-fraud/
+Verdict: false
+

@@ -1,0 +1,6 @@
+Title: IKEA Is Selling a Swastika-Shaped Table
+Claim: The IKEA furniture chain is selling a swastika-shaped table.							See Example( s )
+Date: 15.12.17
+Link: https://www.snopes.com/false-ikea-selling-a-swastika-table/
+Verdict: false
+

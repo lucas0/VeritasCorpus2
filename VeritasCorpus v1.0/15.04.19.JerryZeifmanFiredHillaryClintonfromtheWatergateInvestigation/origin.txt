@@ -1,0 +1,8 @@
+<blockquote>
+ <p>
+  A resolution impeaching a particular individual is typically referred to the House Committee on the Judiciary. A resolution to authorize an investigation regarding impeachable conduct is referred to the House Committee on Rules, and then referred to the Judiciary Committee. The House Committee on the Judiciary, by majority vote, will determine whether grounds for impeachment exist. If the Committee finds grounds for impeachment they will set forth specific allegations of misconduct in one or more articles of impeachment. The Impeachment Resolution, or Article(s) of Impeachment, are then reported to the full House with the committee’s recommendations.
+ </p>
+ <p>
+  The House debates the resolution and may at the conclusion consider the resolution as a whole or vote on each article of impeachment individually. A simple majority of those present and voting is required for each article or the resolution as a whole to pass. If the House votes to impeach, managers (typically referred to as “House managers”, with a “lead House manager”) are selected to present the case to the Senate.
+ </p>
+</blockquote>

@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  The Reverend Sylvester Graham, an eccentric Presbyterian minister from Connecticut, promoted a strict, abstemious diet that won him countless converts during America’s health craze of the 1820s and 1830s.  Convinced that eating meat and fat leads to sinful sexual excess, the good reverend urged total vegetarianism. He also warned that mustard and ketchup cause insanity, urged followers to drink only water, and recommended sleeping with one’s windows open regardless of the weather. More reasonably, he touted the merits of a high-fiber diet and promoted the use of homemade unsifted wheat flour instead of refined white flour.
+  <font size="-1">
+   <sup>
+    1
+   </sup>
+  </font>
+ </p>
+</blockquote>

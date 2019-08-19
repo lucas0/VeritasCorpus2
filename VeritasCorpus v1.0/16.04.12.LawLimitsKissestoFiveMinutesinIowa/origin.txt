@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  Kisses may last for no more than five minutes.
+ </p>
+</blockquote>

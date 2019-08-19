@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  EU Referendum Local Results 2016 vs. Mad Cow Disease Outbreak Areas 1992
+ </p>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/13528874_1302313929797464_393454474632126404_n.jpg" target="_blank">
+   <img alt="13528874_1302313929797464_393454474632126404_n" class="black-border aligncenter wp-image-38400 size-full" data-recalc-dims="1" sizes="(max-width: 940px) 100vw, 940px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/13528874_1302313929797464_393454474632126404_n.jpg?resize=940,592" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/13528874_1302313929797464_393454474632126404_n.jpg?w=940 940w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/13528874_1302313929797464_393454474632126404_n.jpg?resize=300,189 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/13528874_1302313929797464_393454474632126404_n.jpg?resize=768,484 768w"/>
+  </a>
+ </p>
+ <p>
+  However, it would be a mistake to jump to conclusions.
+ </p>
+</blockquote>

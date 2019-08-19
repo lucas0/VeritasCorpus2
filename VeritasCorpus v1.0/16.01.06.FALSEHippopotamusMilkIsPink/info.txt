@@ -1,0 +1,6 @@
+Title: FALSE: Hippopotamus Milk Is Pink
+Claim: Hippopotamuses are the only animals that produce naturally pink milk.
+Date: 16.01.06
+Link: https://www.snopes.com/false-hippopotamus-milk-pink/
+Verdict: false
+

@@ -1,0 +1,7 @@
+<blockquote>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/wood-splitter-lee1.jpg" target="_blank">
+   <img alt="wood splitter lee" class="alignnone size-full wp-image-48344" data-recalc-dims="1" sizes="(max-width: 840px) 100vw, 840px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/wood-splitter-lee1.jpg?resize=840,552" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/wood-splitter-lee1.jpg?w=840 840w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/wood-splitter-lee1.jpg?resize=300,197 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/wood-splitter-lee1.jpg?resize=768,505 768w"/>
+  </a>
+ </div>
+</blockquote>

@@ -1,0 +1,24 @@
+<blockquote>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/RsJWn2qXThA" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/RsJWn2qXThA" width="560">
+    </iframe>
+   </noscript>
+  </center>
+ </p>
+ <p>
+  CLINTON: For 40 years, everyone running for president has released their tax returns. You can go and see nearly, I think, 39, 40 years of our tax returns, but everyone has done it. We know the IRS has made clear there is no prohibition on releasing [returns] when you’re under audit.
+ </p>
+ <p>
+  So you’ve got to ask yourself, why won’t [Trump] release his tax returns? And I think there may be a couple of reasons. First, maybe he’s not as rich as he says he is. Second, maybe he’s not as charitable as he claims to be. Third, we don’t know all of his business dealings, but we have been told through investigative reporting that he owes about $650 million to Wall Street and foreign banks.
+ </p>
+ <p>
+  Or maybe he doesn’t want the American people, all of you watching tonight, to know that he’s paid nothing in federal taxes, because the only years that anybody’s ever seen were a couple of years when he had to turn them over to state authorities when he was trying to get a casino license, and they showed he didn’t pay any federal income tax.
+ </p>
+ <p>
+  TRUMP: That makes me smart.
+ </p>
+</blockquote>

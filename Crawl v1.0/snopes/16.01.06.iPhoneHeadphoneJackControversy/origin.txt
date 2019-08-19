@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  Most of the time, iPhone rumors promise exciting things. However, the latest iPhone 7 rumor makes me feel very annoyed. Via 9to5Mac, Japanese Apple blog Macotakara claims that Apple has plans to completely remove the 3.5-millimeter headphone jack from the device. This would mean that the only way to connect headphones to the device in the future would be either via Bluetooth or the Lightning port.
+ </p>
+ <p>
+  Here’s why it wouldn’t surprise me if this rumor had some truth to it: Apple showed starting with this year’s new MacBook that it’s on a quest to eliminate unnecessary ports. In fact, the new laptop featured just two ports: A USB Type-C port and a headphone jack.
+ </p>
+ <p>
+  Apple is making a bet that all accessories are going to be wireless in the near future, which will eliminate the need to have so many ports on our devices.
+ </p>
+</blockquote>

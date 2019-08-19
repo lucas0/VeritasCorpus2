@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  It is the opinion of the Select Committee that the Ca:P ratio of the diet is important, especially if it varies substantially from 1:1 owing to the relatively high intake of phosphorus. […] In laboratory animals and presumably in man, nutritional secondary hyperparathyroidism and bone resorption may be induced when the diet furnishes an otherwise adequate amount of calcium but excessive levels of phosphorus.
+ </p>
+</blockquote>

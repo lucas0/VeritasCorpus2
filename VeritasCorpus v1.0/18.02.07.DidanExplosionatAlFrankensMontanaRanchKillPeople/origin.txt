@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2018/02/montana-fire.jpg" target="_blank">
+   <img alt="" class="aligncenter size-full wp-image-127685" data-recalc-dims="1" sizes="(max-width: 678px) 100vw, 678px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2018/02/montana-fire.jpg?resize=678,381" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2018/02/montana-fire.jpg?w=678 678w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/02/montana-fire.jpg?resize=300,169 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/02/montana-fire.jpg?resize=542,305 542w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/02/montana-fire.jpg?resize=375,211 375w"/>
+  </a>
+ </p>
+ <p>
+  Investigators are looking for answers after six people died in an explosion at Al Franken’s Montana ranch. The explosion, which appears to have originated in the basement, was heard nearly three miles away. The closest neighbor, a farm nearly a mile away, felt what they thought was a “mild earthquake. When first-responders arrived on site, they found a huge hole in the center of the ranch and bodies strewn about the surrounding area.
+ </p>
+</blockquote>

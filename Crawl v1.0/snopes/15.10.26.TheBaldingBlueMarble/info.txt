@@ -1,0 +1,6 @@
+Title: The Balding Blue Marble
+Claim:  Two photographs of the earth taken by NASA in 1978 and 2012 document the dramatic effects of deforestation in North America.
+Date: 15.10.26
+Link: https://www.snopes.com/nasa-deforestation-images/
+Verdict: false
+

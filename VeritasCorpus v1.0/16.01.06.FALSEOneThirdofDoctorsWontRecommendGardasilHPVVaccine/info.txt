@@ -1,0 +1,6 @@
+Title: FALSE: One-Third of Doctors Won’t Recommend Gardasil HPV Vaccine
+Claim: A recent study revealed that one-third of pediatricians refuse to recommend the Gardasil HPV vaccine to patients.							See Example( s )
+Date: 16.01.06
+Link: https://www.snopes.com/doctors-hpv-vaccine-gardasil/
+Verdict: mfalse
+

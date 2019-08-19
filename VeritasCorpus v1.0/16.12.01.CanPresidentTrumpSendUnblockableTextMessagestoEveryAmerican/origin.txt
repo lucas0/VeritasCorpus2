@@ -1,0 +1,17 @@
+<blockquote>
+ <p>
+  You’ve probably, at some point, gotten a text alert on your phone about some nasty weather, an Amber Alert about a missing child, or even a (very poorly worded) alert about police looking for a criminal. These 90-character messages, known as Wireless Emergency Alerts (or WEAs), are part of a program put in place after Congress passed the Warning, Alert, and Response Network (WARN) Act, in 2006. WEAs allow for targeted messages to be sent to every cell phone getting a signal from certain geographically relevant cell towers (or, in a national emergency, all of them).
+ </p>
+ <p>
+  Here’s where things get interesting. Per the FCC, a WEA may be sent for three different reasons:
+ </p>
+ <p>
+  What alerts does WEA deliver?
+ </p>
+ <p>
+  Alerts from WEA cover only critical emergency situations. Consumers will receive only three types of alerts:
+ </p>
+ <p>
+  1. Alerts issued by the President …
+ </p>
+</blockquote>

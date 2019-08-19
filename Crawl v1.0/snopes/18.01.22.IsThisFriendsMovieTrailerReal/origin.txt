@@ -1,0 +1,8 @@
+<blockquote>
+ <p class="body-el-text standard-body-el-text">
+  “It would be great [if it happened]. It would be a lot of fun. But even just from a logistical purpose, it would never work because everyone is on a totally, ridiculous work schedule, that’s the opposite of someone else.
+ </p>
+ <p class="body-el-text standard-body-el-text">
+  “It’s even impossible for us to get together for dinner, it’s really hard. It’s six people, how easy it is for you to get six of your friends together?”
+ </p>
+</blockquote>

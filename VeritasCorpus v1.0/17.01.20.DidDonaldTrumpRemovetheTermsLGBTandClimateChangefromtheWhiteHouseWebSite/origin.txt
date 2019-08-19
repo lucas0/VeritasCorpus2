@@ -1,0 +1,22 @@
+<blockquote>
+ <p>
+  <strong>
+   Where you can access archival Obama White House content
+  </strong>
+ </p>
+ <p>
+  After January 20, 2017, materials will continue to be accessible on the platforms where they were created, allowing the public continued access to the content posted over the past eight years.
+ </p>
+ <p>
+  <strong>
+   WhiteHouse.gov becomes ObamaWhiteHouse.gov
+  </strong>
+ </p>
+ <p>
+  The Obama White House website — which includes press articles, blog posts, videos, and photos — will be available at ObamaWhiteHouse.gov, a site maintained by the National Archives and Records Administration (NARA) beginning on January 20, 2017. If you are looking for a post or page on the Obama administration’s WhiteHouse.gov from 2009 through 2017, you can find it by changing the URL to ObamaWhiteHouse.gov. For example, after the transition, this blog post will be available at
+  <a href="ObamaWhiteHouse.gov/obama-administration-digital-transition-moving-forward" target="ta">
+   ObamaWhiteHouse.gov/obama-administration-digital-transition-moving-forward
+  </a>
+  .
+ </p>
+</blockquote>

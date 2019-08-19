@@ -1,0 +1,37 @@
+<blockquote>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/VSrEEDQgFc8" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/VSrEEDQgFc8" width="560">
+    </iframe>
+   </noscript>
+  </center>
+  CHUCK TODD: (…) answer the question of why the president asked the White House press secretary to come out in front of the podium for the first time and utter a falsehood? Why did he do that? It undermines the credibility of the entire White House press office …
+ </p>
+ <p>
+  KELLYANNE CONWAY: No it doesn’t.
+ </p>
+ <p>
+  CHUCK TODD: … on day one.
+ </p>
+ <p>
+  KELLYANNE CONWAY: Don’t be so overly dramatic about it, Chuck. What … you’re saying it’s a falsehood. And they’re giving Sean Spicer, our press secretary, gave alternative facts to that. But the point remains …
+ </p>
+ <p>
+  CHUCK TODD: Wait a minute. Alternative facts?
+ </p>
+ <p>
+  KELLYANNE CONWAY: … that there’s …
+ </p>
+ <p>
+  CHUCK TODD: Alternative facts? Four of the five facts he uttered, the one thing he got right …
+ </p>
+ <p>
+  KELLYANNE CONWAY: … hey, Chuck, why … Hey Chuck …
+ </p>
+ <p>
+  CHUCK TODD: … was Zeke Miller. Four of the five facts he uttered were just not true. Look, alternative facts are not facts. They’re falsehoods.
+ </p>
+</blockquote>

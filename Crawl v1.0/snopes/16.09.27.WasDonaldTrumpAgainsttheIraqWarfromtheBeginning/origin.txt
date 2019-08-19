@@ -1,0 +1,20 @@
+<blockquote>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/77P6fxa2KOs" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/77P6fxa2KOs" width="560">
+    </iframe>
+   </noscript>
+  </center>
+  STERN: Are you for invading Iraq?
+ </p>
+ <p>
+  TRUMP:
+  <strong>
+   Yeah, I guess so.
+  </strong>
+  You know, I wish the first time it was done correctly.
+ </p>
+</blockquote>

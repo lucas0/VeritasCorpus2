@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/national-geographic-fish.jpg" target="_blank">
+   <img alt="national geographic fish" class="border-black aligncenter wp-image-35226 size-full" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/national-geographic-fish.jpg?resize=600,315" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/national-geographic-fish.jpg?w=600 600w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/national-geographic-fish.jpg?resize=300,158 300w"/>
+  </a>
+ </p>
+ <p>
+  29-year old Joaquín Álvarez Santos, from Chiclayo in Peru, was shooting underwater images on the pygmy sperm whale with four other divers, when the giant predator appeared.
+ </p>
+ <p>
+  The massive creature, probably weighting more than 2000 kg (4400 lbs), immediately headed towards the cameraman and effortlessly swallowed him before swimming away.
+ </p>
+</blockquote>

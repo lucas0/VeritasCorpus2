@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/oprah-fake-quote.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-122517" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/oprah-fake-quote.jpg?resize=600,638" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/oprah-fake-quote.jpg?w=1005 1005w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/oprah-fake-quote.jpg?resize=282,300 282w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/oprah-fake-quote.jpg?resize=768,817 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/oprah-fake-quote.jpg?resize=963,1024 963w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  There wasn’t anything illegal by me introducing very young women into Harvey Weinsteins [sic] home. Most were over 21. What they did was none of my business. This is just how it is in the industry if you want to get ahead.  ~ Oprah Winfrey
+ </p>
+</blockquote>

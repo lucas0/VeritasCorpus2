@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/nike-elephant-shoe.jpg" target="_blank">
+   <img alt="nike elephant shoe" class="aligncenter size-large wp-image-32692" data-recalc-dims="1" sizes="(max-width: 660px) 100vw, 660px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/nike-elephant-shoe.jpg?resize=660,493" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/nike-elephant-shoe.jpg?w=1024 1024w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/nike-elephant-shoe.jpg?resize=300,224 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/nike-elephant-shoe.jpg?resize=768,574 768w"/>
+  </a>
+ </p>
+ <p>
+  Several years ago, Nike learned of an elephant that had one leg shorter than the others. To help the elephant find its balance, Nike manufactured this massive leather shoe, complete with laces and buckles at the heel. The elephant was fitted for the shoe using lifts. Pink remnants on the sides are what’s left from the Swoosh logos that used to adorn the sides.
+ </p>
+</blockquote>

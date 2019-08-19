@@ -1,0 +1,16 @@
+<blockquote>
+ <p>
+  Last week, I presented some college students with a petition urging radio stations to stop playing the holiday classic “White Christmas” because the song only focuses on “White” Christmases. This clearly makes it racially insensitive, since it completely ignores Christmases of other colors.
+ </p>
+ <p>
+  Students were all too willing to check their privilege and take a stand against Bing Crosby’s racially charged micro-aggression. Just watch.
+ </p>
+ <p>
+  <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/_gFgmXe3q1s" frameborder="0" height="315" width="560">
+  </iframe>
+  <noscript>
+   <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/_gFgmXe3q1s" width="560">
+   </iframe>
+  </noscript>
+ </p>
+</blockquote>

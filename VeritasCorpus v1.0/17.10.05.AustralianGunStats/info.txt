@@ -1,0 +1,6 @@
+Title: Australian Gun Stats
+Claim: Statistics demonstrate that crime rates in Australia have increased substantially since the government there instituted a gun buy-back program in 1997.
+Date: 17.10.05
+Link: https://www.snopes.com/crime/statistics/ausguns.asp
+Verdict: false
+

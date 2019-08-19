@@ -1,0 +1,6 @@
+Title: Wisconsin Recount Observers Find Voting Machines with Broken Seals?
+Claim: Recount observers in Wisconsin discovered voting machines seals had been compromised after the 2016 general election.							See Example( s )
+Date: 16.12.03
+Link: https://www.snopes.com/wisconsin-recount-observers-find-voting-machines-broken-seals/
+Verdict: false
+

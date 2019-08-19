@@ -1,0 +1,6 @@
+Title: Diabetes Vaccine Announced?
+Claim: The discovery of a vaccine for the autoimmune disease diabetes has been announced.
+Date: 16.09.19
+Link: https://www.snopes.com/diabetes-vaccine/
+Verdict: false
+

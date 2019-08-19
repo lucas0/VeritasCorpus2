@@ -1,0 +1,6 @@
+Title: What Is Presidents Day?
+Claim: The federal holiday observed in the United States on the third Monday of February is officially designated as "Presidents' Day."
+Date: 17.02.19
+Link: https://www.snopes.com/holidays/presidents/presidentsday.asp
+Verdict: false
+

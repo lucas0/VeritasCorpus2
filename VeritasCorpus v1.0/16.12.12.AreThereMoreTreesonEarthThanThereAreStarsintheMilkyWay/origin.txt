@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  We provide the first spatially continuous map of forest tree density at a global scale. This map reveals that the global number of trees is approximately 3.04 trillion, an order of magnitude higher than the previous estimate. Of these trees, approximately 1.30 trillion exist in tropical and subtropical forests, with 0.74 trillion in boreal regions and 0.66 trillion in temperate regions.
+ </p>
+</blockquote>

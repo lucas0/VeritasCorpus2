@@ -1,0 +1,7 @@
+<blockquote>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/07/conspiracy-writing.jpg" target="_blank">
+   <img alt="conspiracy writing" class="aligncenter size-full wp-image-42690" data-recalc-dims="1" sizes="(max-width: 720px) 100vw, 720px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/07/conspiracy-writing.jpg?resize=720,538" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/07/conspiracy-writing.jpg?w=720 720w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/07/conspiracy-writing.jpg?resize=300,224 300w"/>
+  </a>
+ </div>
+</blockquote>

@@ -1,0 +1,6 @@
+Title: Heart Attack Symptoms
+Claim: Some symptoms of a heart attack are subtle and can be mistaken for indigestion.
+Date: 09.08.28
+Link: https://www.snopes.com/medical/disease/heartattack.asp
+Verdict: new-type
+

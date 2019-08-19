@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/12/black-lives-matter.jpg" target="_blank">
+   <img alt="" class="aligncenter size-full wp-image-117682" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/12/black-lives-matter.jpg?resize=600,450" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/12/black-lives-matter.jpg?w=600 600w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/12/black-lives-matter.jpg?resize=300,225 300w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  A crowd of nearly a thousand gathered outside the headquarters of the Los Angeles Police Department (LAPD) on Sunday, August 17, 2014 to express their outrage the excessive use of deadly force against an unarmed citizen population.
+ </p>
+</blockquote>

@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  Did you know that some horses can grow a mustache? More common in certain breeds such as the Gypsy Vanner, which is known for its luxurious mane and hair around its lower legs, it can occur to any horse that carries the right gene, male or female.
+ </p>
+</blockquote>

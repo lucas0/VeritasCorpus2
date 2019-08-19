@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  According to numerous reports, Donald Trump’s Twitter account has grown by 5 million followers in the last three days. Previously, Trump’s Twitter growth was relatively steady. So it’s interesting to see such dramatic growth over such a short period of time. But what’s more interesting is the fact that the vast majority of these new followers are bots — fake computerized followers. So what’s going on?
+ </p>
+ <p>
+  Trump had around 25 million followers only a few days ago. Suddenly now, he has over 30 million followers. This growth is very much unlike what we have seen in the past. So we decided to do some investigation into who trumps new followers are.
+ </p>
+ <p>
+  In our audit, we found that most of the new followers that Trump is received are people with no names (or dictionary word names) and a number appended.
+ </p>
+</blockquote>

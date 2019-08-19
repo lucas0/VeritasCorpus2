@@ -1,0 +1,6 @@
+Title: Did the ACLU Issue a Warning for People Traveling to Texas?
+Claim: In May 2017, the ACLU issued a warning for Americans traveling to Texas.
+Date: 17.05.10
+Link: https://www.snopes.com/aclu-travel-warning-texas/
+Verdict: true
+

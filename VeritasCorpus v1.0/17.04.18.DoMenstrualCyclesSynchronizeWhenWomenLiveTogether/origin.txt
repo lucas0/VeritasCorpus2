@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  There was a significant increase in synchronization (that is, a decrease in the difference between onset dates) among roommates, among closest friends and among roommates and closest friends combined. The increase in synchrony for roommates did not differ significantly from the increase for closest friends.
+ </p>
+</blockquote>

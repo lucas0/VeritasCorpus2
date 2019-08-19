@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/niagara-falls-purple.jpg" target="_blank">
+   <img alt="niagara falls purple" class="aligncenter size-full wp-image-32358" data-recalc-dims="1" sizes="(max-width: 685px) 100vw, 685px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/niagara-falls-purple.jpg?resize=685,380" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/niagara-falls-purple.jpg?w=685 685w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/niagara-falls-purple.jpg?resize=300,166 300w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  The Niagara Falls Illumination Board will acknowledge the 90th birthday of Queen Elizabeth II on April 21 by bathing the Horseshoe and American Falls in purple — the colour of royalty — for 15 minutes beginning at 10 p.m.
+ </p>
+ <p>
+  Queen Elizabeth has sat on the throne as Queen of the United Kingdom, Commonwealth and Canada since 1953.
+ </p>
+</blockquote>

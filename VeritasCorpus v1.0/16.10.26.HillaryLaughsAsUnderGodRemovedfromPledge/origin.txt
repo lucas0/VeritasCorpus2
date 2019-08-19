@@ -1,0 +1,24 @@
+<blockquote>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/bB3QVQF7aOs" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/bB3QVQF7aOs" width="560">
+    </iframe>
+   </noscript>
+  </center>
+ </p>
+ <p>
+  A woman introducing Hillary Clinton at a campaign event conspicuously removed the words “under God” from the end of the Pledge of Allegiance, prompting the Democratic primary front-runner to laugh.
+ </p>
+ <p>
+  Susan Shin Angulo, a member of the Camden County Board of Freeholders, began to say the phrase at a campaign rally in Blackwood, New Jersey, on Wednesday, but caught herself in the act and skipped over it.
+ </p>
+ <p>
+  “Only Hillary can bring us together as one nation, un- — indivisible, with liberty and justice for all,” Ms. Angulo said.
+ </p>
+ <p>
+  The crowd broke out into applause and cheers. Mrs. Clinton nodded and laughed.
+ </p>
+</blockquote>

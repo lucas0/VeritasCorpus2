@@ -1,0 +1,6 @@
+Title: ‘Grade D But Edible’ Meat
+Claim: Fast food restaurants, prisons, and school cafeterias use 'Grade D but edible' meat.
+Date: 12.02.17
+Link: https://www.snopes.com/food/prepare/badmeat.asp
+Verdict: false
+

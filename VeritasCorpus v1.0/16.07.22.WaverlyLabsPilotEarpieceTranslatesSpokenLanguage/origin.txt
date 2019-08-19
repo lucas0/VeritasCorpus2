@@ -1,0 +1,18 @@
+<blockquote>
+ <p>
+  Called
+  <em>
+   Pilot
+  </em>
+  [,] Waverly Labs is calling it the “world’s first translation earpiece”—the device is due to launch in September and features two earpieces and an app. Two users both wear a bluetooth earpiece and they can then speak to one another in different languages and each will hear it in their native tongue.
+ </p>
+ <p>
+  It works in near real-time although Ochoa has said it lags behind Skype Translator, the most impressive language translator out at the moment, which translates voice and video calls in real-time. Pilot does its work without having to be online though.
+ </p>
+ <p>
+  Users can choose between what languages they want using the app, at the moment it translates French, Spanish, Italian, and English.
+ </p>
+ <p>
+  This is the first generation of this tech but once it launches future iterations will include more languages. Waverly Labs also hopes to eventually bring out versions where the device will only need to listen to the world around it and then translate that, meaning no ear pieces.
+ </p>
+</blockquote>

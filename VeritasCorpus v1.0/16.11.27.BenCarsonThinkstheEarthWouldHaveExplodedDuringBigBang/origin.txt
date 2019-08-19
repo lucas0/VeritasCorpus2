@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  You have all these highfalutin scientists, and they’re saying that there was this gigantic explosion and everything came into perfect order. Now, these are the same scientists who go around touting the second law of thermodynamics, which is entropy, which says that things move toward a state of disorganization. So, now you’re going to have this big explosion, and everything becomes perfectly organized. When you ask them about it, they say, “Well we can explain this based on probability theory, because if there’s enough big explosions, over a long enough period of time, billions and billions of years, one of them will be the perfect explosion”. […] What you’re telling me is, if I blow a hurricane through a junkyard enough times, over billions and billions of years, eventually, after one of those hurricanes, there will be a 747 fully loaded and ready to fly.
+ </p>
+</blockquote>

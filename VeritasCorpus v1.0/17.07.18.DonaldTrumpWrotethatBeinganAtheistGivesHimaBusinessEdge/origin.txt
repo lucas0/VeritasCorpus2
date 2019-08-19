@@ -1,0 +1,8 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/donald-trump-atheist-quote.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-97430 size-full" data-recalc-dims="1" sizes="(max-width: 480px) 100vw, 480px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/donald-trump-atheist-quote.jpg?resize=480,635" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/donald-trump-atheist-quote.jpg?w=480 480w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/donald-trump-atheist-quote.jpg?resize=227,300 227w"/>
+  </a>
+  “Being an atheist gives me an edge in every deal. Christians are too moral for business.”
+ </p>
+</blockquote>

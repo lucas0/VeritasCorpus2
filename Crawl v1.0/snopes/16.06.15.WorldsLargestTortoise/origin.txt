@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/gamera-collage.jpg" target="_blank">
+   <img alt="gamera collage" class="aligncenter size-full wp-image-37144" data-recalc-dims="1" sizes="(max-width: 800px) 100vw, 800px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/gamera-collage.jpg?resize=800,208" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/gamera-collage.jpg?w=800 800w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/gamera-collage.jpg?resize=300,78 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/gamera-collage.jpg?resize=768,200 768w"/>
+  </a>
+ </p>
+ <p>
+  Filming for GAMERA THE BRAVE began with location shooting in Iseshima on July 9, 2005. For two days, the crew filmed scenes of a full-scale, 15 foot-long prop of the unconscious Gamera being transported on a flatbed truck. Despite bad weather that included intermittent but strong rains, the shoot went smoothly and set a good precedent for the rest of the production.
+ </p>
+</blockquote>

@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <center>
+   <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/church-sign.jpg" target="_blank">
+    <img alt="church sign" class="black-border aligncenter wp-image-73243" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/church-sign.jpg?resize=600,581" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/church-sign.jpg?w=771 771w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/church-sign.jpg?resize=300,291 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/church-sign.jpg?resize=768,744 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/church-sign.jpg?resize=32,32 32w"/>
+   </a>
+  </center>
+  A perv, a con artist, and a fascist walk into a bar. Bartender says, “What’ll it be, Mr. President-Elect?”
+ </p>
+</blockquote>

@@ -1,0 +1,6 @@
+Title: Is This Andre the Giant Holding a Beer Can?
+Claim: A photograph shows Andre the Giant holding a 12 oz can of beer.
+Date: 17.11.13
+Link: https://www.snopes.com/andre-giant-holding-beer-can/
+Verdict: true
+

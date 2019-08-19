@@ -1,0 +1,15 @@
+<blockquote>
+ <p>
+  “Our cameras record four times more detail than the HD images seen on our previous programmes and that makes some of the images seem almost unbelievable. A few viewers think such detail must be computer generated but the reality is that Mother Nature is much better at making animals than any CGI artist – we just haven’t had the ability to show this level of detail until now. It could be argued that it’s crucial in the sense that we want to show audiences the beauty of the natural world, and involve them in the drama of animals’ lives that we witness when we are out filming – if we can show that in ever greater detail then we are taking them close to the true wonder of nature.”
+ </p>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/2cOMjZWJyog" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/2cOMjZWJyog" width="560">
+    </iframe>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

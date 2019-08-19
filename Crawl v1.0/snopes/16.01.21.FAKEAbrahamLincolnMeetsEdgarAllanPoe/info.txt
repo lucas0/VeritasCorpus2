@@ -1,0 +1,6 @@
+Title: FAKE: Abraham Lincoln Meets Edgar Allan Poe
+Claim: A photograph shows Abraham posing with author Edgar Allan Poe.
+Date: 16.01.21
+Link: https://www.snopes.com/lincoln-meets-poe/
+Verdict: false
+

@@ -1,0 +1,31 @@
+<blockquote>
+ <p>
+  Muslim’s in Chicago chanting: “Free Palestine, death to Israel, death to America”.
+ </p>
+ <p>
+  Where was the mainstream media on this?
+ </p>
+ <p>
+  <script>
+   // <![CDATA[
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&#038;version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
+// ]]&gt;
+  </script>
+ </p>
+ <div class="fb-video" data-allowfullscreen="1" data-href="/ebntalkradio/videos/vb.1376032519313439/1670060049910683/?type=3">
+  <div class="fb-xfbml-parse-ignore">
+   <blockquote cite="https://www.facebook.com/ebntalkradio/videos/1670060049910683/">
+    <p>
+     Muslim’s in Chicago chanting: “Free Palestine”Pro Palestine protest in September 2014. https://youtu.be/QOQQVxXmvsYWhere was the mainstream media on this?(Thank you to a viewer that confirmed this information)
+    </p>
+    <p>
+     Posted by
+     <a href="https://www.facebook.com/ebntalkradio/" target="_blank">
+      The Rocci Stucci Show
+     </a>
+     on Sunday, March 6, 2016
+    </p>
+   </blockquote>
+  </div>
+ </div>
+</blockquote>

@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/16-cameras.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-94493" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/16-cameras.jpg?resize=600,999" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/16-cameras.jpg?w=489 489w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/16-cameras.jpg?resize=180,300 180w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  A German photographer had fixed 16 camers to get this shot for which he had to wait for 62 days. See the moon and sun together. This can be only seen again in 2035. Enjoy the shot.
+ </p>
+</blockquote>

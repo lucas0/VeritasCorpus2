@@ -1,0 +1,6 @@
+Title: Pirates and Sing a Song of Sixpence
+Claim: The nursery rhyme ‘Sing a Song of Sixpence’ originated as a coded message used to recruit crew members for pirate ships.
+Date: 08.05.22
+Link: https://www.snopes.com/lost/sixpence.asp
+Verdict: true
+

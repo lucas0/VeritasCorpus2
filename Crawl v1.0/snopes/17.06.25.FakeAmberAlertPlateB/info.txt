@@ -1,0 +1,6 @@
+Title: Fake Amber Alert: Plate 72B 381
+Claim: An Amber Alert was issued for three-year-old girl taken by man in a grey car.
+Date: 17.06.25
+Link: https://www.snopes.com/inboxer/missing/faketext.asp
+Verdict: false
+

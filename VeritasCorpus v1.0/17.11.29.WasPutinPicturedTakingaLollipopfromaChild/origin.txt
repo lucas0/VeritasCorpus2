@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/putin-and-child.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-116646" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/putin-and-child.jpg?resize=600,428" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/putin-and-child.jpg?w=960 960w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/putin-and-child.jpg?resize=300,214 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/putin-and-child.jpg?resize=768,547 768w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  Russian President Vladimir Putin attends a Christmas service in a church in Sochi early on January 7, 2013. Orthodox Christians celebrate Christmas on January 7 in the Middle East, Russia and other Orthodox churches that use the old Julian calendar instead of the 17th-century Gregorian calendar adopted by Catholics, Protestants, Greek Orthodox and commonly used in secular life around the world.
+ </p>
+</blockquote>

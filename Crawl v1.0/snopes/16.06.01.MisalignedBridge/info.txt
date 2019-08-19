@@ -1,0 +1,6 @@
+Title: Misaligned Bridge
+Claim: A photograph shows a misaligned bridge.							See Example( s )
+Date: 16.06.01
+Link: https://www.snopes.com/misaligned-bridge-photo/
+Verdict: false
+

@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  Taylor Swift on Logan Paul: ‘There are some points he has made’; ‘he’s hilarious’; ‘We should FORGIVE’
+ </p>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/Fake-Taylor-Swift-Logan-Paul-tweet.jpg" target="_blank">
+   <img alt="" class="size-full wp-image-122273 aligncenter" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/Fake-Taylor-Swift-Logan-Paul-tweet.jpg?resize=600,645" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/Fake-Taylor-Swift-Logan-Paul-tweet.jpg?w=600 600w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/Fake-Taylor-Swift-Logan-Paul-tweet.jpg?resize=279,300 279w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+</blockquote>

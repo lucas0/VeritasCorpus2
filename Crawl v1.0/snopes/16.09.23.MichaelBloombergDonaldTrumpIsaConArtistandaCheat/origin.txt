@@ -1,0 +1,7 @@
+<blockquote>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/09/bloomberg-quote.jpg" target="_blank">
+   <img alt="bloomberg quote" class="alignnone size-full wp-image-52218" data-recalc-dims="1" sizes="(max-width: 1010px) 100vw, 1010px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/09/bloomberg-quote.jpg?resize=1010,769" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/09/bloomberg-quote.jpg?w=1010 1010w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/09/bloomberg-quote.jpg?resize=300,228 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/09/bloomberg-quote.jpg?resize=768,585 768w"/>
+  </a>
+ </div>
+</blockquote>

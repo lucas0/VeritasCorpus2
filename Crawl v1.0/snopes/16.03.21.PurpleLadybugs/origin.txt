@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  Yes, there are purple ladybugs. The fifteen-spotted ladybug is found only in Hawaii. When young, it is grayish in color with fifteen black spots on the body. As it grows old, the color of the body changes to dark purple and hence, the spots are not clearly visible[.]
+ </p>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/15__Ladybugs_-_Discovering_Our_Wonderful_World.png" target="_blank">
+   <img alt="_15__Ladybugs_-_Discovering_Our_Wonderful_World" class="size-large wp-image-21469 aligncenter" data-recalc-dims="1" sizes="(max-width: 660px) 100vw, 660px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/15__Ladybugs_-_Discovering_Our_Wonderful_World.png?resize=660,343" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/15__Ladybugs_-_Discovering_Our_Wonderful_World.png?resize=1024,532 1024w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/15__Ladybugs_-_Discovering_Our_Wonderful_World.png?resize=300,156 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/15__Ladybugs_-_Discovering_Our_Wonderful_World.png?resize=768,399 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/15__Ladybugs_-_Discovering_Our_Wonderful_World.png?w=1307 1307w" style="border: 1px solid black;"/>
+  </a>
+ </div>
+</blockquote>

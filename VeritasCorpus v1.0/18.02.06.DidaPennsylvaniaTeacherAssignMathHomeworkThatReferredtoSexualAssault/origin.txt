@@ -1,0 +1,39 @@
+<blockquote>
+ <p>
+  <strong>
+   3.
+  </strong>
+  y = x + 2.
+  <br>
+   3x + 6y = 12
+  </br>
+ </p>
+ <p>
+  Angelou was sexually abused by her mother’s __________ at age 8, which shaped her career choices and motivation for writing.
+ </p>
+ <p>
+  a. (0, 2) boyfriend
+  <br/>
+  b. (4, 6) brother
+  <br/>
+  c. (-3, -1) father
+ </p>
+ <p>
+  <strong>
+   5.
+  </strong>
+  x = y – 1
+  <br/>
+  y = -4x + 21
+ </p>
+ <p>
+  Trying to support her son as a single mother, she worked as a pimp, prostitute and ___________.
+ </p>
+ <p>
+  a. (-3, -2) bookie
+  <br/>
+  b. (9, 10) drug dealer
+  <br/>
+  c. (4, 5) Night Club Dancer.
+ </p>
+</blockquote>

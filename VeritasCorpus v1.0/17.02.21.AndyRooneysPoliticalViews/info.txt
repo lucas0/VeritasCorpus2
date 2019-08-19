@@ -1,0 +1,6 @@
+Title: Andy Rooney’s Political Views
+Claim: A transcript reproduces '60 Minutes' commentator Andy Rooney's explaining his political views.							See Example( s )
+Date: 17.02.21
+Link: https://www.snopes.com/politics/soapbox/bigcars.asp
+Verdict: false
+

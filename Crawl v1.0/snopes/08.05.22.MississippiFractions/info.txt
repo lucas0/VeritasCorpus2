@@ -1,0 +1,6 @@
+Title: Mississippi Fractions
+Claim: The Mississippi state legislature removed fractions and decimal points from the mathematics curriculum of public secondary schools.
+Date: 08.05.22
+Link: https://www.snopes.com/lost/fraction.asp
+Verdict: true
+

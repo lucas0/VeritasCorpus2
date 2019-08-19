@@ -1,0 +1,6 @@
+Title: Parrot Flower
+Claim: Photographs show the 'parrot plant,' a plant whose flowers resemble a parrot in flight.							See Example( s )
+Date: 15.03.12
+Link: https://www.snopes.com/photos/natural/parrotflower.asp
+Verdict: true
+

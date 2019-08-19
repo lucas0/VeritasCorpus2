@@ -1,0 +1,37 @@
+<blockquote>
+ <p>
+  Independent tests at the University of California found that 69% of all store-bought extra virgin olive oils in the US are probably fake. This study reported that the following brands failed to meet extra virgin olive oil standards:
+ </p>
+ <ul>
+  <li>
+   Bertolli
+  </li>
+  <li>
+   Carapelli
+  </li>
+  <li>
+   Colavita
+  </li>
+  <li>
+   Filippo Berio
+  </li>
+  <li>
+   Mazzola
+  </li>
+  <li>
+   Mezzetta
+  </li>
+  <li>
+   Newman’s Own
+  </li>
+  <li>
+   Safeway
+  </li>
+  <li>
+   Star
+  </li>
+  <li>
+   Whole Foods
+  </li>
+ </ul>
+</blockquote>

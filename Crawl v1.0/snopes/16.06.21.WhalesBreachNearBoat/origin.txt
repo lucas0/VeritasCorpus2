@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/whale-for-scale.jpg" target="_blank">
+   <img alt="whale for scale" class="black-border aligncenter wp-image-37860 size-full" data-recalc-dims="1" sizes="(max-width: 900px) 100vw, 900px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/whale-for-scale.jpg?resize=900,598" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/whale-for-scale.jpg?w=900 900w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/whale-for-scale.jpg?resize=300,199 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/whale-for-scale.jpg?resize=768,510 768w"/>
+  </a>
+ </p>
+ <p>
+  No Photoshop, real scale.
+ </p>
+</blockquote>

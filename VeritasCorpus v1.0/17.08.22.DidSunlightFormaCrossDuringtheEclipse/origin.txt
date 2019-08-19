@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/fb-eclipse.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-101284" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/fb-eclipse.jpg?resize=600,1067" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/fb-eclipse.jpg?w=540 540w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/fb-eclipse.jpg?resize=169,300 169w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  Best photo so far… Not sure anyone can top this one
+ </p>
+</blockquote>

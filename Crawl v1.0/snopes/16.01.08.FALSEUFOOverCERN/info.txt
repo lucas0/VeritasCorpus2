@@ -1,0 +1,6 @@
+Title: FALSE: UFO Over CERN
+Claim: A UFO portal was filmed over the Large Hadron Collider.							See Example( s )
+Date: 16.01.08
+Link: https://www.snopes.com/ufo-portal-cern/
+Verdict: false
+

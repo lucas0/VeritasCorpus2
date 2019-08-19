@@ -1,0 +1,6 @@
+Title: Rats Per Capita
+Claim: Major cities harbor rodent populations equivalent to one rat per person.
+Date: 17.08.01
+Link: https://www.snopes.com/critters/wild/rats.asp
+Verdict: false
+

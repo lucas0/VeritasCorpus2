@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/huzlers.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-121543" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/huzlers.jpg?resize=600,372" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/huzlers.jpg?w=1032 1032w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/huzlers.jpg?resize=300,186 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/huzlers.jpg?resize=768,476 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/huzlers.jpg?resize=1024,635 1024w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  A Chicago man has been arrested after he was pulled over by Chicago police and allegedly showed the officer the “finger circle” when asked for his license and registration.
+ </p>
+</blockquote>

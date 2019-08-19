@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  The brain is one of the most metabolically active organs in the body, and under most conditions, relies almost exclusively on glucose for its energy needs. Using [a chemical tracer], the cerebral metabolic rate of glucose (CMRglc) can be measured. [Chemical tracer] studies in the early 1980s compared AD subjects with normal controls and found significant diminished cerebral glucose metabolism (DCGM) in AD patients.
+ </p>
+</blockquote>

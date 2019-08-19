@@ -1,0 +1,6 @@
+Title: Steph Curry Suspended from NBA Finals
+Claim: Steph Curry was suspended from game 7 of the 2016 NBA Finals.							See Example( s )
+Date: 16.06.17
+Link: https://www.snopes.com/steph-curry-suspended-nba-finals/
+Verdict: false
+

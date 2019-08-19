@@ -1,0 +1,6 @@
+Title: Weather Channel Switching to Celsius-Only
+Claim: The Weather Channel announced that it will only use the Celsius temperature scale.
+Date: 16.04.01
+Link: https://www.snopes.com/weather-channel-celsius/
+Verdict: false
+

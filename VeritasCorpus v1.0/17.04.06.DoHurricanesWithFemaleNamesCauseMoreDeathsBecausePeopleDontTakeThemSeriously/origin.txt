@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  We use more than six decades of death rates from US hurricanes to show that feminine-named hurricanes cause significantly more deaths than do masculine-named hurricanes. Laboratory experiments indicate that this is because hurricane names lead to gender-based expectations about severity and this, in turn, guides respondents’ preparedness to take protective action.
+ </p>
+</blockquote>

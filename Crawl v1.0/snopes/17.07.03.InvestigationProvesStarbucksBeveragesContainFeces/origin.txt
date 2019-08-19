@@ -1,0 +1,11 @@
+<blockquote>
+ <p class="p3">
+  Ice from three of the UK’s biggest coffee chains has been found to contain bacteria from faeces, according to a BBC investigation.
+ </p>
+ <p class="p3">
+  Samples of iced drinks from Costa Coffee, Starbucks and Caffe Nero contained varying levels of the bacteria, the BBC’s Watchdog found. […]
+ </p>
+ <p class="p3">
+  At both Starbucks and Caffe Nero, three out of 10 samples tested contained the bacteria known as faecal coliforms.
+ </p>
+</blockquote>

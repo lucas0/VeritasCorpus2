@@ -1,0 +1,23 @@
+<blockquote>
+ <p>
+  Even at this early stage with this wide field of candidates in the American presidential campaign, there is some research that suggests
+  <a href="http://fivethirtyeight.com/features/donald-trump-is-the-worlds-greatest-troll/" target="_blank">
+   Trump is dominating 46% of all the headlines
+  </a>
+  devoted to the election.
+ </p>
+ <p>
+  Even finding other ideas behind the ridiculous notion of banning 1.6 billion people from entering the United States can be difficult to do on the Internet right now. I needed a way to turn the reality TV candidacy off — that’s what I hope the Trump Filter does.
+ </p>
+ <p>
+  For the rest of the field, that’s really up to the developer community. I did
+  <a href="https://github.com/RobSpectre/Trump-Filter" target="_blank">
+   publish the source code with a permissive license on Github
+  </a>
+  — it is free for anyone to modify. It looks like
+  <a href="https://github.com/RobSpectre/Trump-Filter/network/members" target="_blank">
+   a few developers are using it to create their own filters
+  </a>
+  for other presidential candidates, some other politicians in other countries and, importantly the entire Kardashian family.
+ </p>
+</blockquote>

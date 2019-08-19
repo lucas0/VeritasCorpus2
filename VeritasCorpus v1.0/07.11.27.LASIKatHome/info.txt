@@ -1,0 +1,6 @@
+Title: LASIK at Home
+Claim: A new product allows people to perform laser surgery on their own eyes at home.
+Date: 07.11.27
+Link: https://www.snopes.com/inboxer/hoaxes/lasikathome.asp
+Verdict: false
+

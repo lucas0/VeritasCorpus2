@@ -1,0 +1,6 @@
+Title: Man Deletes Entire Company with One Line of Code
+Claim: A man deleted his entire company with one line of code.							See Example( s )
+Date: 16.04.17
+Link: https://www.snopes.com/man-deletes-company-code/
+Verdict: false
+

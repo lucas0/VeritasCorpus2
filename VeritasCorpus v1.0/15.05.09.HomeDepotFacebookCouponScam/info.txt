@@ -1,0 +1,6 @@
+Title: Home Depot Facebook Coupon Scam
+Claim: Home Depot is giving Facebook users a sizeable coupon if they complete a survey or share a post.							See Example( s )
+Date: 15.05.09
+Link: https://www.snopes.com/inboxer/nothing/homedepot.asp
+Verdict: attribution-false
+

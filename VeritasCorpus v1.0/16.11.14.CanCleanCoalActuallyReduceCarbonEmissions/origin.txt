@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  Compared with most other fossil-fuel sources of energy, coal is inherently worse from a carbon-footprint perspective, since its hydrogen atoms come bound with more carbon atoms, meaning that coal starts with a higher carbon-to-hydrogen ratio than oil, natural gas, or other hydrocarbons.
+ </p>
+</blockquote>

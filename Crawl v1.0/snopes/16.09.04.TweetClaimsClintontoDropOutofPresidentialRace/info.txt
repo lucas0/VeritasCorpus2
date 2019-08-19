@@ -1,0 +1,6 @@
+Title: Tweet Claims Clinton to Drop Out of Presidential Race
+Claim: CBS reporter Hannah Chanpong tweeted that Hillary Clinton was dropping out of the 2016 presidential race.							See Example( s )
+Date: 16.09.04
+Link: https://www.snopes.com/clinton-to-drop-out-twitter/
+Verdict: false
+

@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  PLU codes are 4 or 5 digit numbers which have been used by supermarkets since 1990 to make check-out and inventory control easier, faster, and more accurate. They ensure that the correct price is paid by consumers by removing the need for cashiers to identify the product; e.g., whether or not it is conventionally or organically grown. They are primarily assigned to identify individual bulk fresh produce (and related items such as nuts and herbs) and will appear on a small sticker applied to the individual piece of fresh produce. The PLU number identifies produce items based upon various attributes which can include the commodity, the variety, the growing methodology (e.g., organic) and the size group.
+ </p>
+</blockquote>

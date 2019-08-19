@@ -1,0 +1,14 @@
+<blockquote>
+ <p>
+  **Breaking**
+ </p>
+ <p>
+  Yellowstone Lava Geyser
+ </p>
+ <p>
+  For the first time in recorded human history, lava has shot out of one of the geysers in Yellowstone National Park. This following directly after a string of earthquakes in Montana and very rural Wyoming. Geologists, NASA and an oil rig drilling crew are already on scene to document this never recorded event and try to find the cause. We will continue to update you with more information as it surfaces.
+ </p>
+ <p>
+  <img alt="" class="aligncenter size-full wp-image-96683" data-recalc-dims="1" sizes="(max-width: 800px) 100vw, 800px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/yellowstone.jpg?resize=800,449" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/yellowstone.jpg?w=800 800w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/yellowstone.jpg?resize=300,168 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/yellowstone.jpg?resize=768,431 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/yellowstone.jpg?resize=733,412 733w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/yellowstone.jpg?resize=542,305 542w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/yellowstone.jpg?resize=375,211 375w"/>
+ </p>
+</blockquote>

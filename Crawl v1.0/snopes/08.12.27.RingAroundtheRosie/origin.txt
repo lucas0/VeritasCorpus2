@@ -1,0 +1,21 @@
+<blockquote>
+ <p>
+  Ring a ring a rosie,
+  <br/>
+  A bottle full of posie,
+  <br/>
+  All the girls in our town,
+  <br/>
+  Ring for little Josie.
+ </p>
+ <hr/>
+ <p>
+  Round the ring of roses,
+  <br/>
+  Pots full of posies,
+  <br/>
+  The one stoops the last
+  <br/>
+  Shall tell whom she loves the best.
+ </p>
+</blockquote>

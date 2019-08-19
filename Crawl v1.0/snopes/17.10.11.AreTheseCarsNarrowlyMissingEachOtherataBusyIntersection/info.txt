@@ -1,0 +1,6 @@
+Title: Are These Cars Narrowly Missing Each Other at a Busy Intersection?
+Claim: A video shows a busy intersection where accidents are narrowly averted.
+Date: 17.10.11
+Link: https://www.snopes.com/video-busy-intersection/
+Verdict: false
+

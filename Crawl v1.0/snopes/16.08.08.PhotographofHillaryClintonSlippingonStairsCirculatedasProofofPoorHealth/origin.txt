@@ -1,0 +1,16 @@
+<blockquote>
+ <div style="text-align: center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/clinton-stair.jpg" target="_blank">
+   <img alt="clinton stair" class="aligncenter size-full wp-image-44816" data-recalc-dims="1" sizes="(max-width: 553px) 100vw, 553px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/clinton-stair.jpg?resize=553,553" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/clinton-stair.jpg?w=553 553w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/clinton-stair.jpg?resize=150,150 150w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/clinton-stair.jpg?resize=300,300 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/clinton-stair.jpg?resize=32,32 32w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/clinton-stair.jpg?resize=50,50 50w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/clinton-stair.jpg?resize=64,64 64w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/clinton-stair.jpg?resize=96,96 96w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/clinton-stair.jpg?resize=128,128 128w"/>
+  </a>
+ </div>
+ <p>
+  SHOCK PHOTO: Multiple staffers help unstable Hillary up stairs
+ </p>
+ <p>
+  The questionable health condition of Hillary Clinton should be a major issue of the 2016 campaign.
+ </p>
+ <p>
+  The latest evidence comes in the form of Clinton being helped up a set of stairs by multiple individuals outside what appears to be a home.
+ </p>
+</blockquote>

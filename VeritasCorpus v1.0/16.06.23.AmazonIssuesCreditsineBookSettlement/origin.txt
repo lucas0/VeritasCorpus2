@@ -1,0 +1,21 @@
+<blockquote>
+ <p>
+  <strong>
+   Information for 2016 Apple eBooks Antitrust Settlement
+  </strong>
+ </p>
+ <p>
+  In November 2014, a federal court approved a Settlement of antitrust lawsuits brought against Apple, Inc. (“Apple”) by State Attorneys General and Class Plaintiffs about the price of electronic books (“eBooks”). Those settlements resulted in credits for qualifying Kindle books purchased between April 1, 2010 and May 21, 2012. These credits are funded by Apple.
+ </p>
+ <p>
+  Eligible customers do not need to do anything to receive these credits. If you are eligible, we have already calculated your credit for you and added it to your Amazon account. As long as you have credit remaining we will automatically apply it to your purchase of qualifying items through Amazon.com, an Amazon device or an Amazon app. The credit applied to your purchase will appear in your order summary as a gift card during checkout and in your account history. Eligible customers should have received a notification email from Amazon on June 21, 2016. This credit will expire at 11:59pm PDT on June 24, 2017. You can learn more about the settlements at
+  <a href="http://www.amazon.com/help/ApplebooksettlementFAQs" target="_blank">
+   www.amazon.com/help/ApplebooksettlementFAQs
+  </a>
+  . The credits are subject to these
+  <a href="http://www.amazon.com/b/ref=amb_c8uL3h2dST6QzdPiML0RUQ_2?ie=UTF8&amp;node=14760872011&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=merchandised-search-1&amp;pf_rd_r=C16P5KM0T1QWJPSZ39YQ&amp;pf_rd_t=101&amp;pf_rd_p=64723e92-8dcd-47c0-b9b4-09edf313d0d1&amp;pf_rd_i=14741166011" target="_blank">
+   Terms and Conditions
+  </a>
+  .
+ </p>
+</blockquote>

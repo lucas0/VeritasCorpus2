@@ -1,0 +1,6 @@
+Title: Social Media Hacker Warning
+Claim: Accepting a friend request from a stranger will provide hackers with access to your computer and online accounts.
+Date: 17.06.28
+Link: https://www.snopes.com/computer/internet/hackermail.asp
+Verdict: false
+

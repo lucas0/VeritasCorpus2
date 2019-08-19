@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  Run the simulation. Color the balls afterwards. Render from the beginning.
+ </p>
+</blockquote>

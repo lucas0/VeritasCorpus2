@@ -1,0 +1,6 @@
+Title: The Hello Girl
+Claim: The greeting "Hello" entered the language because it was the surname of Alexander Graham Bell's girlfriend.							See Example( s )
+Date: 14.03.22
+Link: https://www.snopes.com/language/eponyms/hello.asp
+Verdict: false
+

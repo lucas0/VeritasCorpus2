@@ -1,0 +1,19 @@
+<blockquote>
+ <p>
+  <span class="fbPhotosPhotoCaption" data-ft='{"tn":"K"}' id="fbPhotoSnowliftCaption" tabindex="0">
+   <span class="hasCaption">
+    Speak up America! Don’t let our Freedom of Speech be silenced!
+    <br>
+     Share to show FB we will say AMEN!
+    </br>
+   </span>
+  </span>
+  <span class="fbPhotoTagList" id="fbPhotoSnowliftTagList">
+  </span>
+ </p>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/facebook-amen.jpg" target="_blank">
+   <img alt="facebook amen" class="black-border aligncenter wp-image-37336 size-large" data-recalc-dims="1" sizes="(max-width: 660px) 100vw, 660px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/facebook-amen.jpg?resize=660,311" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/facebook-amen.jpg?resize=1024,482 1024w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/facebook-amen.jpg?resize=300,141 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/facebook-amen.jpg?resize=768,362 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/facebook-amen.jpg?w=1191 1191w"/>
+  </a>
+ </p>
+</blockquote>

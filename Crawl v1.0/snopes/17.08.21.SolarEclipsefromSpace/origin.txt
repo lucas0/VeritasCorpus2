@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  I refuse to believe this image of the eclipse is real, as much as I wish it were. Not that it couldn’t be real. It can. I’ve seen plenty of photos of eclipses taken from space, but this one is just too awesome to be real.
+ </p>
+ <p>
+  <center>
+   <img alt="" class="aligncenter size-large wp-image-101232" data-recalc-dims="1" sizes="(max-width: 1024px) 100vw, 1024px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2015/03/eclipseart.jpg?resize=1024,576" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2015/03/eclipseart.jpg?resize=1024,576 1024w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/03/eclipseart.jpg?resize=300,169 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/03/eclipseart.jpg?resize=768,432 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/03/eclipseart.jpg?resize=733,412 733w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/03/eclipseart.jpg?resize=542,305 542w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/03/eclipseart.jpg?resize=375,211 375w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/03/eclipseart.jpg?w=1191 1191w"/>
+  </center>
+ </p>
+</blockquote>

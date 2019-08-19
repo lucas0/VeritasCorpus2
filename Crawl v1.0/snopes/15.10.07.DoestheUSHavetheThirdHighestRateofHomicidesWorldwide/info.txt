@@ -1,0 +1,6 @@
+Title: Does the U.S. Have the Third-Highest Rate of Homicides Worldwide?
+Claim: The United States has the third-highest rate of homicides worldwide, but drops dramatically in the rankings if four major cities are excluded from the stats.
+Date: 15.10.07
+Link: https://www.snopes.com/united-states-third-murders/
+Verdict: mfalse
+

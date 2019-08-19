@@ -1,0 +1,6 @@
+Title: ‘Donald Trump Arrested’ Virus Warning
+Claim: A computer virus is being spread via social media using pictures of Donald Trump being arrested.							See Example( s )
+Date: 16.11.01
+Link: https://www.snopes.com/donald-trump-arrested-virus-warning/
+Verdict: false
+

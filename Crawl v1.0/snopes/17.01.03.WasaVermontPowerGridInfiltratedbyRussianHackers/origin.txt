@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  A code associated with the Russian hacking operation dubbed Grizzly Steppe by President Barack Obama’s administration has been detected within the system of a Vermont utility, according to U.S. officials.
+ </p>
+ <p>
+  While the Russians did not actively use the code to disrupt operations of the utility, according to officials who spoke on condition of anonymity in order to discuss a security matter, the penetration of the nation’s electrical grid is significant because it represents a potentially serious vulnerability.
+ </p>
+ <p>
+  Government and utility industry officials regularly monitor the nation’s electrical grid because it is highly computerized and any disruptions can have disastrous implications for the function of medical and emergency services.
+ </p>
+</blockquote>

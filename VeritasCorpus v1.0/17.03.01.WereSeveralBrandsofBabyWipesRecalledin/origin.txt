@@ -1,0 +1,14 @@
+<blockquote>
+ <p>
+  Ten brands of baby wipes produced by the Pennsylvania-based Nutek Disposables, Inc., were recalled on January 25, 2017, following complaints of foul odor and discoloration.
+ </p>
+ <p>
+  Upon further testing, the baby wipe and adult washcloth manufacturer discovered that some of their products contained Burkholderia cepacia, a species of antibiotic-resistant bacteria frequently found in soil and water, according to the U.S. Centers for Disease Control and Prevention (CDC).
+ </p>
+ <p>
+  Known for its vinegar-like odor, B. cepacia has emerged as a human respiratory pathogen in people with weakened immune systems or chronic lung disease, especially cystic fibrosis patients.
+ </p>
+ <p>
+  Pulmonary infections involving these bacteria are capable of causing accelerated decline in lung functions and can induce “cepacia syndrome,” a progressive form of pneumonia that can be fatal and untreatable, according to MicrobeWiki.
+ </p>
+</blockquote>

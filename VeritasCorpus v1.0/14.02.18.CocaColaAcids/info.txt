@@ -1,0 +1,6 @@
+Title: Coca-Cola Acids
+Claim: The acids in Coca-Cola make it harmful to drink.
+Date: 14.02.18
+Link: https://www.snopes.com/cokelore/acid.asp
+Verdict: false
+

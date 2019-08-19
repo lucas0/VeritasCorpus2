@@ -1,0 +1,6 @@
+Title: Eiffel Tower Suicide
+Claim: A photograph shows a suicide victim stepping off the Eiffel Tower.							See Example( s )
+Date: 14.10.05
+Link: https://www.snopes.com/photos/gruesome/eiffelsuicide.asp
+Verdict: false
+

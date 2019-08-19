@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  Why did I do this video? Why do I do any of my videos. Because there’s messages out there. I feel like I might be repeating myself a little too much. It’s a wake up call. This is a call to the public. Hello? Wake up. This is actually something that is going on. This is something that we need to face and we need to make a change. Hello, this is a wake up call to everybody.
+ </p>
+ <div style="text-align:center;">
+  <script>
+   // <![CDATA[
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&#038;version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
+// ]]&gt;
+  </script>
+ </div>
+</blockquote>

@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  This is the Buckley Family. The children’s names were Susan and John. As a Halloween joke, all the kids in the neighborhood were going to get a dummy and pretend to chop its head off. The Buckley children thought it would be hilarious to actually murder their mother, so when the kids walked up the the door, they got an axe and slaughtered her. Once everyone figured out what they had really done, they called the police, but the kids were long gone by then. The only picture of them was this photo, taken by a trick or treater. The mother’s body was later found half eaten.
+ </p>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2014/10/buckleybehead.jpg" target="_blank">
+   <img alt="buckleybehead" class="aligncenter size-full wp-image-56076" data-recalc-dims="1" sizes="(max-width: 540px) 100vw, 540px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2014/10/buckleybehead.jpg?resize=540,481" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2014/10/buckleybehead.jpg?w=360 360w, https://us-east-1.tchyn.io/snopes-production/uploads/2014/10/buckleybehead.jpg?resize=300,268 300w"/>
+  </a>
+ </div>
+</blockquote>

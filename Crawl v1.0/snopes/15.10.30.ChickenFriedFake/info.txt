@@ -1,0 +1,6 @@
+Title: Chicken Fried Fake
+Claim:  The FDA confiscated thousands of chickens from “KFC farms” due to an increasing number of “mutations.”
+Date: 15.10.30
+Link: https://www.snopes.com/fda-confiscates-chickens-kfc-mutations/
+Verdict: false
+

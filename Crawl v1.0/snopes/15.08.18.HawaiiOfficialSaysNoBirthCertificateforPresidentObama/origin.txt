@@ -1,0 +1,6 @@
+<blockquote>
+ <p>
+  <script async="" charset="utf-8" src="//platform.twitter.com/widgets.js" type="mce-no/type">
+  </script>
+ </p>
+</blockquote>

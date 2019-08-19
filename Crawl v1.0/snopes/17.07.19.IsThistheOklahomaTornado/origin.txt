@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/tornado-ok.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-97474" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/tornado-ok.jpg?resize=600,690" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/tornado-ok.jpg?w=870 870w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/tornado-ok.jpg?resize=261,300 261w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/tornado-ok.jpg?resize=768,883 768w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  We have watched with interest and curiosity the efforts of some manipulators of the camera to reproduce the phenomena of nature in all her varying moods. There can be no particular fault found with the enterprise of the photographer, be he amateur or professional, who sallies forth at high noon, or soon thereafter, and under the friendly shadow of an accommodating cloud makes moonlight views by the score. We confess, too, that we can pass into the waste basket without hesitation the many poor attempts to fabricate the funnel cloud of a tornado. We received one such not very long ago from Mr. Connor. It was better than the average, and instead of going into the trash basket it went into a convenient drawer.
+ </p>
+</blockquote>

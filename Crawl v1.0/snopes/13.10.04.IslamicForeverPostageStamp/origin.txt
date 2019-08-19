@@ -1,0 +1,20 @@
+<blockquote>
+ <p>
+  The Eid stamp commemorates the two most important festivals — or eids — in the Islamic calendar: Eid Al-Fitr and Eid Al-Adha. On these days, Muslims wish each other “Eid mubarak,” the phrase featured in Islamic calligraphy on the stamp. “Eid mubarak” translates literally as “blessed festival,” and can be paraphrased as “May your religious holiday be blessed.” This phrase can be applied to both Eid al-Fitr and Eid al-Adha.
+ </p>
+ <table align="CENTER">
+  <tbody>
+   <tr>
+    <td>
+     <img alt="EID stamp" class="black-border alignnone" data-recalc-dims="1" src="https://us-east-1.tchyn.io/snopes-production/uploads/images/politics/graphics/eidstamp.jpg?resize=190,238"/>
+    </td>
+    <td>
+     <img alt="EID stamp" class="black-border alignnone" data-recalc-dims="1" src="https://us-east-1.tchyn.io/snopes-production/uploads/images/politics/graphics/eidstamp2.jpg?resize=190,238"/>
+    </td>
+    <td>
+     <img alt="" class="black-border alignnone" height="238" src="http://www.usps.com/stamp-collecting/assets/images/584004-01-main-270x350.jpg" width="190"/>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</blockquote>

@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  Adventist Health Studies are long-term studies exploring the links between lifestyle, diet, and disease among Seventh-day Adventists. More than 96,000 church members from the U.S. and Canada are participating in the current study, AHS-2, conducted by researchers at the Loma Linda University School of Public Health.
+ </p>
+</blockquote>

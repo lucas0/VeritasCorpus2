@@ -1,0 +1,6 @@
+Title: Finding the ‘Hidden’ iPhone 7 Headphone Jack
+Claim: Drilling into the shell of an iPhone 7 will reveal the device's missing headphone jack.
+Date: 16.09.12
+Link: https://www.snopes.com/iphone-7-headphone-jack/
+Verdict: false
+

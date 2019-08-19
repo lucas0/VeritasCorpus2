@@ -1,0 +1,6 @@
+Title: The Cost(ner) of Love
+Claim: In August 1997, the Baltimore Orioles deliberately created a lighting malfunction before a game to keep Cal Ripken's consecutive game streak intact.							See Example( s )
+Date: 16.08.01
+Link: https://www.snopes.com/sports/baseball/ripkenstreak.asp
+Verdict: false
+

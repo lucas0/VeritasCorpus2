@@ -1,0 +1,6 @@
+Title: The Misadventures of the Stanley Cup
+Claim: Hockey's Stanley Cup was once left in a snowbank.
+Date: 14.07.01
+Link: https://www.snopes.com/sports/hockey/stanleycup.asp
+Verdict: true
+

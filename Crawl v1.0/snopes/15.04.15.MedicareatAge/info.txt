@@ -1,0 +1,6 @@
+Title: Medicare at Age 76
+Claim: Under Obamacare, patients 76 and older must be admitted to the hospital by their primary care physicians in order to be covered by Medicare.							See Example( s )
+Date: 15.04.15
+Link: https://www.snopes.com/politics/medical/medicare76.asp
+Verdict: false
+

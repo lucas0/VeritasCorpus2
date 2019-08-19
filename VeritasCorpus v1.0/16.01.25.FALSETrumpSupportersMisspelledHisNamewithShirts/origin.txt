@@ -1,0 +1,7 @@
+<blockquote>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/trump-shirt.jpg" target="_blank">
+   <img alt="trump shirt" class="aligncenter size-full wp-image-16906" data-recalc-dims="1" sizes="(max-width: 940px) 100vw, 940px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/trump-shirt.jpg?resize=940,705" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/trump-shirt.jpg?w=940 940w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/trump-shirt.jpg?resize=300,225 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/trump-shirt.jpg?resize=768,576 768w"/>
+  </a>
+ </div>
+</blockquote>

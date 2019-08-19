@@ -1,0 +1,6 @@
+Title: What Are ‘Refried Beans’?
+Claim: "Refried beans" are beans that have been fried more than once.
+Date: 17.04.11
+Link: https://www.snopes.com/food/prepare/refriedbeans.asp
+Verdict: false
+

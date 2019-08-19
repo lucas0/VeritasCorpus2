@@ -1,0 +1,6 @@
+Title: ‘Koobface’ Virus Warning
+Claim: A trojan worm known as Koobface is "spreading like wildfire" via Facebook.
+Date: 12.03.29
+Link: https://www.snopes.com/computer/virus/koobface.asp
+Verdict: outdated
+

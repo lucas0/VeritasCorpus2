@@ -1,0 +1,15 @@
+<blockquote>
+ <p>
+  <center>
+   <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/topiary-cat.jpg" target="_blank">
+    <img alt="topiary cat" class="black-border aligncenter wp-image-67178" data-recalc-dims="1" sizes="(max-width: 500px) 100vw, 500px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/topiary-cat.jpg?resize=500,653" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/topiary-cat.jpg?w=579 579w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/topiary-cat.jpg?resize=230,300 230w"/>
+   </a>
+  </center>
+ </p>
+ <p>
+  Mr Saunders said he always breaks the news to people who think they are real, adding that he would “rather be known for my art than my deception”.
+ </p>
+ <p>
+  “I try to correct people, but sometimes they don’t want to know and want to keep believing they’re real,” he said.
+ </p>
+</blockquote>

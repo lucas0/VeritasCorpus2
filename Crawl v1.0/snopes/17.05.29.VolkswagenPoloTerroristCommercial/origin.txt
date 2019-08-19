@@ -1,0 +1,24 @@
+<blockquote>
+ <p>
+  Muslim Culture Meets German Engineering, a 15-second commercial.
+ </p>
+ <p>
+  Looks like VW is once again putting out a fine product.
+ </p>
+ <p>
+  VW could never get away with this advertisement in the U.S. In the United Kingdom and Ireland it is the most popular TV commercial playing.  People allegedly call in to learn the schedules for showing this commercial.
+ </p>
+ <p>
+  <center>
+   <br>
+    <iframe allowfullscreen="" data-src="http://www.youtube.com/embed/vbcADoSz9bg" frameborder="0" height="281" width="500">
+    </iframe>
+    <noscript>
+     <iframe allowfullscreen="" frameborder="0" height="281" src="http://www.youtube.com/embed/vbcADoSz9bg" width="500">
+     </iframe>
+    </noscript>
+    <br/>
+   </br>
+  </center>
+ </p>
+</blockquote>

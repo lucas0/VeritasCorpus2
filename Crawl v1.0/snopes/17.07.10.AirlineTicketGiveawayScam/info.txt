@@ -1,0 +1,6 @@
+Title: Airline Ticket Giveaway Scam
+Claim: Airlines are giving away free tickets or spending money to Facebook users who share and like a page.
+Date: 17.07.10
+Link: https://www.snopes.com/airline-ticket-giveaway-scam/
+Verdict: attribution-false
+

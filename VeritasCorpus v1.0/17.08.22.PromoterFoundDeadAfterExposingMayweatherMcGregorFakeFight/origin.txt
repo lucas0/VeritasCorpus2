@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/dc-sniper.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-101312" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/dc-sniper.jpg?resize=600,337" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/dc-sniper.jpg?w=678 678w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/dc-sniper.jpg?resize=300,169 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/dc-sniper.jpg?resize=542,305 542w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/dc-sniper.jpg?resize=375,211 375w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  A boxing promoter who had been working on the upcoming Mayweather-McGregor bout, was found dead within hours of warning the fight is fixed.
+ </p>
+ <p>
+  Barry Gibson was found dead in his hometown of Washington D.C. in what has the hallmarks of an execution-style killing, hours after blowing the lid on the Mayweather-McGregor fight backstage at a press conference in Toronto, Canada.
+ </p>
+</blockquote>

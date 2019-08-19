@@ -1,0 +1,20 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/salmon-shark.jpg" target="_blank">
+   <img alt="salmon shark" class="aligncenter size-large wp-image-16210" data-recalc-dims="1" sizes="(max-width: 660px) 100vw, 660px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/salmon-shark.jpg?resize=660,437" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/salmon-shark.jpg?resize=1024,678 1024w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/salmon-shark.jpg?resize=300,199 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/salmon-shark.jpg?resize=768,509 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/salmon-shark.jpg?w=1600 1600w"/>
+  </a>
+ </p>
+ <p>
+  At first glance I didn’t know exactly what kind of shark this was, but I’d narrowed it down to one of three species: White, Porbeagle (a.k.a. Mackerel), or Salmon shark.  These sharks all belong to Family Lamnidae and have geographic ranges that include the Oregon coast.  Oh, FYI, this family also includes Mako sharks, but this is clearly not one of those!…
+ </p>
+ <p>
+  … I decided that it was probably either a Salmon or Porbeagle shark because the coloration and teeth didn’t look right for a white shark of this size.  Juvenile white sharks are much more common along the southern California coast than they are in Oregon, and young whites tend to have a silvery color along their flanks rather than this clearly distinct dark above and white below color pattern you can see in the photo above…
+ </p>
+ <p>
+  … Later, after this experience was all over and we were back in our room, I did some checking and this was definitely a juvenile salmon shark,
+  <i>
+   Lamna ditrops
+  </i>
+  .
+ </p>
+</blockquote>

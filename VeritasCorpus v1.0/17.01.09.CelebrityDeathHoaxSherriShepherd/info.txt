@@ -1,0 +1,6 @@
+Title: Celebrity Death Hoax: Sherri Shepherd
+Claim: Actress and comedian Sherri Shepherd has died of a heart attack.							See Example( s )
+Date: 17.01.09
+Link: https://www.snopes.com/sherri-shepherd-death-hoax/
+Verdict: false
+

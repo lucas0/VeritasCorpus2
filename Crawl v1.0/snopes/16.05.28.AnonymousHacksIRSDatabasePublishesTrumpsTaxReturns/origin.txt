@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  Thursday evening, the mysterious hacker collective known as Anonymous hacked the main database for the Internal Revenue Service. The group appeared to have a singular target — Republican Presidential contender Donald Trump. Though Trump has been criticized by both parties for his failure to produce his tax returns, he has consistently refused to do so saying, “You don’t learn anything from a tax return.” After hacking Mitt Romney’s tax returns in 2012, Anonymous clearly believes that knowledge and transparency are important to the public.
+ </p>
+</blockquote>

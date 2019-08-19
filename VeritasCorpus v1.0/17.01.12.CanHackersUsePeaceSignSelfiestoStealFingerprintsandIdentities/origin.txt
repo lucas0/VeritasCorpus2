@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  Posting photos taken with your face and hand together on the net may cause individuals and fingerprints to be identified. Celebrities in which images are frequently displayed are particularly dangerous to be targeted. Even if you do not submit to it yourself, there is also the risk of being reflected in the photographs taken by other people unknowingly.
+ </p>
+ <p>
+  In addition to fingerprints, smartphone authentication also uses images of faces, irises of the eyes whose patterns are different among people. Such biometric information is also used for administrative organizations and entrance/exit control. In the past, in order to steal individual’s biometric information, it was necessary to take the photograph in close proximity to the person.
+ </p>
+ <p>
+  However, as biological information became available on the Internet, hurdles dropped greatly for criminals. In the experiments of the National Institute of Informatics, it has been found that even images taken at a distance of 3 meters are readable, and posting “self-shot” piece photographs on the net is easily stolen.
+ </p>
+</blockquote>

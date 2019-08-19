@@ -1,0 +1,6 @@
+Title: FALSE: ‘Food Stamp Welfare Individuals’ Must Be ‘RFID Chipped’
+Claim: Recipients of food stamps or welfare are required to have a RFID chip.							See Example( s )
+Date: 16.01.28
+Link: https://www.snopes.com/food-stamps-rfid-mandatory/
+Verdict: false
+

@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  The deadline arrived without a deal. The U.S. government shut down at midnight Friday after Congress failed to overcome a partisan divide over immigration and spending.
+ </p>
+ <p>
+  In a late-night vote, Senate Democrats joined to block a bill that would have kept the government running until mid-February. A flurry of last-minute negotiations failed to produce an agreement.
+ </p>
+ <p>
+  Democrats tried to use the Friday night funding deadline to win concessions from Republicans, including an extension of DACA, an Obama-era program protecting some young immigrants from deportation. The program is set to expire in March. Republicans sought more time for talks, but Democrats refused.
+ </p>
+</blockquote>

@@ -1,0 +1,6 @@
+Title: The Unsolvable Math Problem
+Claim: A student mistook examples of unsolved statistics problems for  a homework assignment and solved them.
+Date: 17.08.21
+Link: https://www.snopes.com/college/homework/unsolvable.asp
+Verdict: true
+

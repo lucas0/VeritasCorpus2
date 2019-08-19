@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  Have you ever wondered why hundreds of thousands of U.S. children are allergic to peanuts? A hundred years ago, peanut allergies were unheard of, yet today, as many as 2 million U.S. children are allergic to them. What changed? The flu shot.
+ </p>
+</blockquote>

@@ -1,0 +1,6 @@
+Title: Fake Photograph of Shark Attack on Missouri Highway
+Claim: A photograph shows a shark attacking a car on a flooded highway in Missouri.
+Date: 15.12.30
+Link: https://www.snopes.com/flood-road-shark-attack-photo/
+Verdict: false
+

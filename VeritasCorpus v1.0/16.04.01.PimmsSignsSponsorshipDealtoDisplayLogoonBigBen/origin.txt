@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  We released some photoshopped images via Twitter.
+ </p>
+ <p>
+  The spoof news report we shot with veteran newscaster Peter Sissons was so convincing that we had to break it to a nice man on the Reuters news desk that it was a spoof.
+ </p>
+ <div style="text-align: center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/Screenshot-2016-04-01-at-10.21.03-AM.png" target="_blank">
+   <img alt="Screenshot 2016-04-01 at 10.21.03 AM" class="aligncenter size-full wp-image-22780" data-recalc-dims="1" sizes="(max-width: 452px) 100vw, 452px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/Screenshot-2016-04-01-at-10.21.03-AM.png?resize=452,80" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/Screenshot-2016-04-01-at-10.21.03-AM.png?w=452 452w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/Screenshot-2016-04-01-at-10.21.03-AM.png?resize=300,53 300w"/>
+  </a>
+ </div>
+</blockquote>

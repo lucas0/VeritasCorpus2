@@ -1,0 +1,8 @@
+<blockquote>
+ <p>
+  Insys Therapeutics, Inc. today announced that the U.S. Food and Drug Administration (FDA) has approved Insys’ dronabinol oral solution, SyndrosTM, an orally administered liquid formulation of the pharmaceutical cannabinoid dronabinol, a pharmaceutical version of tetrahydrocannabinol (“THC”).
+ </p>
+ <p class="p3">
+  Syndros is approved for use in treating anorexia associated with weight loss in patients with AIDS, and nausea and vomiting associated with cancer chemotherapy in patients who have failed to respond adequately to conventional antiemetic treatments.
+ </p>
+</blockquote>

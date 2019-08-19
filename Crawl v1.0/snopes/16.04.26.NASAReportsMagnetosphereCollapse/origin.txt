@@ -1,0 +1,16 @@
+<blockquote>
+ <p>
+  A stunning and terrifying event has taken place in space surrounding our planet; for two hours today, earth’s “Magnetosphere” COLLAPSED around the entire planet! The magnetosphere is what protects earth from solar winds and some radiation.
+ </p>
+ <p>
+  This morning at 01:37:05 eastern US Time, which is 05:37:05 UTC, satellites from the NASA Space Weather Prediction Center detected a complete collapse of earth’s magnetosphere! It simply vanished for just over two hours, resuming as normal around 03:39:51 eastern US time, which is 07:39:51 UTC.
+ </p>
+ <p>
+  Here is how NASA Space Weather Satellites recorded the event:
+ </p>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/SuperStation95_-_Earth_s__Magnetosphere__COLLAPSED_in_space_TODAY_for_two__hours__Trouble_ahead_for_all_of_us.jpg" target="_blank">
+   <img alt="SuperStation95_-_Earth_s__Magnetosphere__COLLAPSED_in_space_TODAY_for_two__hours__Trouble_ahead_for_all_of_us" class="alignnone size-full wp-image-32386" data-recalc-dims="1" sizes="(max-width: 589px) 100vw, 589px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/SuperStation95_-_Earth_s__Magnetosphere__COLLAPSED_in_space_TODAY_for_two__hours__Trouble_ahead_for_all_of_us.jpg?resize=589,807" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/SuperStation95_-_Earth_s__Magnetosphere__COLLAPSED_in_space_TODAY_for_two__hours__Trouble_ahead_for_all_of_us.jpg?w=589 589w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/SuperStation95_-_Earth_s__Magnetosphere__COLLAPSED_in_space_TODAY_for_two__hours__Trouble_ahead_for_all_of_us.jpg?resize=219,300 219w"/>
+  </a>
+ </p>
+</blockquote>

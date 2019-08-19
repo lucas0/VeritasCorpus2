@@ -1,0 +1,6 @@
+Title: Russia Paid Donald Trump Millions of Dollars
+Claim: ABC News has reported that Donald Trump received millions of dollars from Russia.
+Date: 16.10.31
+Link: https://www.snopes.com/russia-paid-donald-trump-millions-of-dollars/
+Verdict: mfalse
+

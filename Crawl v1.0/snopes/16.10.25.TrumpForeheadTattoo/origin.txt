@@ -1,0 +1,9 @@
+<blockquote>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/Screenshot-2016-10-25-at-10.55.28-AM.png" target="_blank">
+   <img alt="Screenshot 2016-10-25 at 10.55.28 AM" class="alignnone size-full wp-image-60667" data-recalc-dims="1" sizes="(max-width: 584px) 100vw, 584px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/Screenshot-2016-10-25-at-10.55.28-AM.png?resize=584,916" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/Screenshot-2016-10-25-at-10.55.28-AM.png?w=584 584w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/Screenshot-2016-10-25-at-10.55.28-AM.png?resize=191,300 191w"/>
+  </a>
+  <!--</DIV-->
+  &gt;
+ </div>
+</blockquote>

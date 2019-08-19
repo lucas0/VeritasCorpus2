@@ -1,0 +1,18 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/02/kim-kardashian-fur-photo.png" target="_blank">
+   <img alt="kim kardashian fur photo" class="aligncenter size-full wp-image-18996" data-recalc-dims="1" sizes="(max-width: 588px) 100vw, 588px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/02/kim-kardashian-fur-photo.png?resize=588,400" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/02/kim-kardashian-fur-photo.png?w=588 588w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/02/kim-kardashian-fur-photo.png?resize=300,204 300w"/>
+  </a>
+ </p>
+ <p>
+  <span data-reactid=".4.1.0.0.2.1.0.0.1.0">
+   YEEZY X BALMAIN The fam all dressed in exclusive Balmain for Yeezy pieces! Kanye flew to Paris a week ago and
+  </span>
+  <a data-reactid=".4.1.0.0.2.1.0.0.1.$text0/=1$entity0/=010" href="https://www.instagram.com/olivier_rousteing/" target="_blank">
+   @olivier_rousteing
+  </a>
+  <span data-reactid=".4.1.0.0.2.1.0.0.1.2">
+   made it happen in 5 days!!!
+  </span>
+ </p>
+</blockquote>

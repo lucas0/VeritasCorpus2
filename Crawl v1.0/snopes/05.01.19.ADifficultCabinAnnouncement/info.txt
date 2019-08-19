@@ -1,0 +1,6 @@
+Title: A Difficult Cabin Announcement
+Claim: Photograph shows a Mandarin Airlines flight taxiing past the charred remains of a crashed airliner.							See Example( s )
+Date: 05.01.19
+Link: https://www.snopes.com/photos/airplane/mandarin.asp
+Verdict: true
+

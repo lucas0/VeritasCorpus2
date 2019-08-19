@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  No imagery or data from the game is stored in Google Maps. Niantic and Google are separate companies, so if you need any information on turning off AR mode or turning off the camera functionality in the game, the folks at Niantic can help out.
+ </p>
+</blockquote>

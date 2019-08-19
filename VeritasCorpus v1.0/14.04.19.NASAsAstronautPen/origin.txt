@@ -1,0 +1,39 @@
+<blockquote>
+ <p>
+  Ball-Point Pens for the Astronauts
+ </p>
+ <p>
+  When NASA started sending astronauts into space, they quickly
+  <br>
+   Discovered that ball-point pens would not work in zero
+   <br/>
+   Gravity. To combat this problem, NASA scientists spent a
+   <br/>
+   Decade and $12 billion developing a pen that writes in zero
+   <br/>
+   Gravity, upside-down, on almost any surface including glass
+   <br/>
+   And at temperatures ranging from below freezing to over 300 C.
+  </br>
+ </p>
+ <p>
+  The Russians used a pencil.
+ </p>
+ <p>
+  Your taxes are due again — enjoy paying them.
+ </p>
+ <hr align="CENTER" width="75%"/>
+ <p>
+  <span class="copyright_text_color_g">
+   <i>
+    [The Moscow Times, 2000]
+   </i>
+  </span>
+ </p>
+ <p>
+  There is a charming anecdote that roams from e-mail box to e-mail box around the world about how, at the height of the space race, the Americans and Soviets approached the same problem: how an astronaut (or cosmonaut) could use a pen to write in zero gravity.
+ </p>
+ <p>
+  As the story goes, the Americans spent hundreds of thousands of dollars on an ambitious, gravity-immune ballpoint pen; they successfully developed such a pen; and this pen went on to become a massive commercial success in the private sector. The Soviets — with the simple elegance their scientists are so rightly famed for — opted instead to use a pencil.
+ </p>
+</blockquote>

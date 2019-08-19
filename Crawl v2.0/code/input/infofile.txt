@@ -1,0 +1,4 @@
+last_saved_page
+snopes: 44
+politifact: 0
+factcheck: 0

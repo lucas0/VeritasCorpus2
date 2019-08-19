@@ -1,0 +1,6 @@
+Title: FALSE: Einstein Plays Electric Guitar
+Claim:   Photograph shows Albert Einstein playing an electric guitar.
+Date: 15.10.06
+Link: https://www.snopes.com/photos/people/einsteinguitar.asp
+Verdict: false
+

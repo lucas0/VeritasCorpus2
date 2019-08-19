@@ -1,0 +1,6 @@
+Title: Doctored Spock
+Claim: The son of child care expert Dr. Benjamin Spock killed himself.
+Date: 09.10.28
+Link: https://www.snopes.com/medical/doctor/drspock.asp
+Verdict: false
+

@@ -1,0 +1,6 @@
+Title: Endorsement Enforcement
+Claim:  USAF General Chuck Yeager wrote an essay endorsing Donald Trump for President.
+Date: 15.12.07
+Link: https://www.snopes.com/chuck-yeager-donald-trump-endorsement/
+Verdict: false
+

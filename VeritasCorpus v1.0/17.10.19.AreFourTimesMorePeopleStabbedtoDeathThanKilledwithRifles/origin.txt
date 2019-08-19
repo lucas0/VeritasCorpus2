@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  According to
+  <a href="https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/tables/table-12" rel="noopener" target="_blank">
+   FBI: UCR Table 12
+  </a>
+  , there were approximately 374 people shot and killed with rifles of any kind. There were 1,604 people killed with “knives or cutting instruments.”
+ </p>
+ <p>
+  Table 12 also shows that more people were killed via the use of “hands, fists, feet, etc.,” than were killed by rifles of any kind. In fact, the tally shows that the death numbers were not even close. While approximately 374 people were shot and killed with rifles, roughly 656 people were beaten to death with “hands, fists, feet, etc.”
+ </p>
+</blockquote>

@@ -1,0 +1,14 @@
+<blockquote>
+ <p class="p3">
+  [The reactors in the UK], instead of using water, […] use gas. We use carbon dioxide gas in a sealed vessel which we cycle round and around and that never leaves the reactor core. […]
+  <span class="Apple-converted-space">
+  </span>
+  We use that graphite [in that reactor core as well] because it slows down the particles which are coming out of the nuclear fuel and that makes the heat transfer more efficient, but what that means in the UK, because we have been running for 60 years with dozens of nuclear reactors, is we’ve accumulated a lot of interesting nuclear waste.
+ </p>
+ <p class="p3">
+  […]
+ </p>
+ <p class="p3">
+  Some of the graphite becomes radioactive. In fact, what happens is it gains some mass. It gains particles and it turns into radioactive carbon 14. […] What if we do something really useful with the radioactive carbon 14? What if instead of using normal carbon to make our diamonds, we use radioactive carbon and we form the world’s first highly and deliberately radioactive diamond?
+ </p>
+</blockquote>

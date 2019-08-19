@@ -1,0 +1,6 @@
+Title: Farm Below the Mountain
+Claim: A photograph shows a lush green farm in the shadow of a looming, snow-covered mountain.							See Example( s )
+Date: 16.04.18
+Link: https://www.snopes.com/farm-below-mountain/
+Verdict: false
+

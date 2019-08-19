@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  I just saw a post on Facebook: THE KOCH BROTHERS BUY NPR “After making large donations to National Public Radio (NPR), the radio network charged with delivering an alternative viewpoint to Americans, NPR has slashed its environmental and climate change coverage. Is anyone surprised?
+ </p>
+ <p>
+  <center>
+   <img data-src="https://www.snopes.com/uploads/images/graphics/news/kochbuynpr.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="border: 1px solid black;" width="600"/>
+   <noscript>
+    <img data-recalc-dims="1" src="https://us-east-1.tchyn.io/snopes-production/uploads/images/graphics/news/kochbuynpr.jpg?w=600" style="border: 1px solid black;"/>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

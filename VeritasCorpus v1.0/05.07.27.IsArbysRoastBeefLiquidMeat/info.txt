@@ -1,0 +1,6 @@
+Title: Is Arby’s Roast Beef ‘Liquid Meat’?
+Claim: Arby's roast beef is made from a paste, gel, powder, or liquid.
+Date: 05.07.27
+Link: https://www.snopes.com/food/ingredient/arbys.asp
+Verdict: false
+

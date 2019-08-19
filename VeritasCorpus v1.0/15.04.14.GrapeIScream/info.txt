@@ -1,0 +1,6 @@
+Title: Grape, I Scream
+Claim: The FDA has banned the sale of grape-flavored ice cream in the U.S. due to pet-related hazards.							See Example( s )
+Date: 15.04.14
+Link: https://www.snopes.com/food/ingredient/grapeicecream.asp
+Verdict: false
+

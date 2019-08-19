@@ -1,0 +1,6 @@
+Title: Facebook Car Giveaway
+Claim: You can win a free car by liking or sharing a post.							See Example( s )
+Date: 15.02.08
+Link: https://www.snopes.com/computer/facebook/cargiveaway.asp
+Verdict: false
+

@@ -1,0 +1,206 @@
+REDIRECT: http://worldnewsdailyreport.com/doctors-confirm-first-human-death-officially-caused-by-gmos/
+REDIRECT: http://www.wsj.com/articles/smartwatch-pushes-apple-into-high-end-fashion-1425857649?mod=LS1
+REDIRECT: http://daringfireball.net/2015/03/apple_watch_prelude
+REDIRECT: http://techcrunch.com/2015/03/06/the-apple-watch-is-time-saved/#InYuXY:HADe
+ERROR (selenium): http://www.thesun.co.uk/sol/homepage/news/6351852/Sick-Islamic-State-jihadis-fed-mother-her-son-says-Brit-taking-fight-to-fanatics.htmlRemote end closed connection without response
+ERROR (requests): http://www.thesun.co.uk/sol/homepage/news/6351852/Sick-Islamic-State-jihadis-fed-mother-her-son-says-Brit-taking-fight-to-fanatics.html
+REDIRECT: http://www.hindustantimes.com/haryana/dera-sacha-sauda-head-got-followers-castrated-to-protect-sadhvis-from-sexual-exploitation-petitioner/article1-1300920.aspx
+REDIRECT: http://lifenews.ru/news/150348
+LANGUAGE: cy http://www.washingtonpost.com/world/national-security/jihadi-john-the-islamic-state-killer-behind-the-mask-is-a-young-londoner/2015/02/25/d6dbab16-bc43-11e4-bdfa-b8e8f594e6ee_story.html <html xmln
+ERROR (selenium): http://english.farsnews.com/newstext.aspx?nn=13931204001534timed out
+REDIRECT: http://english.farsnews.com/newstext.aspx?nn=13931204001534
+REDIRECT: http://worldnewsdailyreport.com/catholic-priest-who-died-for-48-minutes-claims-that-god-is-a-woman/
+ERROR (selenium): nanMessage: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot navigate to invalid URL"}
+  (Session info: headless chrome=66.0.3359.181)
+  (Driver info: chromedriver=2.38.552518 (183d19265345f54ce39cbb94cf81ba5f15905011),platform=Mac OS X 10.13.4 x86_64)
+
+ERROR (requests): nan
+REDIRECT: http://www.bloomberg.com/news/articles/2015-02-18/vice-s-shane-smith-spent-300-000-on-vegas-feast-after-blackjack
+ERROR (selenium): http://timesofindia.indiatimes.com/City/Bareilly/Groom-unwell-bride-weds-guest-in-fit-of-rage/articleshow/46277810.cmstimed out
+ERROR (requests): http://timesofindia.indiatimes.com/City/Bareilly/Groom-unwell-bride-weds-guest-in-fit-of-rage/articleshow/46277810.cms
+REDIRECT: http://www.al-monitor.com/pulse/security/2014/12/islamic-state-financing-funding-human-trafficking-extortion.html#
+FORMAT: http://www.breitbart.com/video/2015/02/11/report-marines-ordered-by-state-dept-to-surrender-weapons-in-us-embassy-evac-in-yemen/
+REDIRECT: http://pagesix.com/2015/02/05/tom-brokaw-wants-brian-williams-fired/
+ERROR (selenium): http://www.annaharkw.com/annahar/Article.aspx?id=525170timed out
+REDIRECT: http://www.cnn.com/2015/01/29/politics/bergdahl-swap-prisoner-militant-activity/
+REDIRECT: http://www.forbes.com/sites/robertcringely/2015/01/22/next-weeks-bloodbath-at-ibm-wont-fix-the-real-problem/
+REDIRECT: http://money.udn.com/storypage.php?sub_id=5615&art_id=638904
+REDIRECT: http://www.reuters.com/article/2015/01/12/us-odd-saudi-snow-idUSKBN0KL15N20150112
+REDIRECT: http://worldnewsdailyreport.com/ghost-ship-filled-with-ebola-ridden-rats-heading-for-florida/
+REDIRECT: http://instagram.com/p/xkgkBSKlWu/?modal=true
+REDIRECT: http://worldnewsdailyreport.com/little-old-lady-arrested-for-making-fur-coats-with-neighbors-cats/
+ERROR (selenium): http://www.feng.com/iPhone/news/2014-12-03/For-single--handed-operation-_601719.shtmltimed out
+REDIRECT: http://nypost.com/2014/11/21/amazon-plans-a-streaming-video-alternative/
+REDIRECT: http://www.telegraph.co.uk/news/newstopics/howaboutthat/11310883/The-baby-from-Teletubbies-reveals-herself.html
+LANGUAGE: cy http://www.noticiasunam.com/2014/12/the-famous-dog-whisperer-cesar-millan.html <html xmln
+REDIRECT: http://pagesix.com/2014/11/22/are-lisa-bonets-mysterious-tweets-hinting-at-cosby-scandal/
+REDIRECT: http://www.mirror.co.uk/3am/celebrity-news/led-zeppelins-robert-plant-turns-4595788
+REDIRECT: http://theconcourse.deadspin.com/did-nbc-nightly-news-go-live-to-a-man-who-was-taking-a-1653677899
+REDIRECT: http://www.8newsnow.com/story/27147863/breaking-news-baseball-star-jose-canseco-hurt-in-accidental-shooting
+REDIRECT: http://wonkette.com/564538/oh-hey-paul-rudd-was-one-of-the-dallas-airport-homophobe-heroes-no-big#MLwKQZDQr37rR343.01
+LANGUAGE: cy http://foxnews.es/judd-nelson-found-dead-los-angeles-condo.html <html xmln
+REDIRECT: http://www.esquire.com/blogs/news/espn-has-a-women-problem?src=soc_fcbks
+ERROR (selenium): http://www.cnn.com/2014/09/16/showbiz/joan-rivers-clinic/index.html?sr=sharebar_twittertimed out
+ERROR (requests): http://www.cnn.com/2014/09/16/showbiz/joan-rivers-clinic/index.html?sr=sharebar_twitter
+ERROR (selenium): http://www.bleedingcool.com/2014/09/12/has-the-batman-vs-superman-batmobile-been-stolen-in-detroit/timed out
+ERROR (requests): http://www.bleedingcool.com/2014/09/12/has-the-batman-vs-superman-batmobile-been-stolen-in-detroit/
+ERROR (selenium): http://www.theprovince.com/sports/Tony+Gallagher+Bettman+changed+tune+expansion/10150984/story.htmltimed out
+ERROR (requests): http://www.theprovince.com/sports/Tony+Gallagher+Bettman+changed+tune+expansion/10150984/story.html
+ERROR (selenium): http://www.scotsman.com/news/scotland/top-stories/kim-jong-un-planning-scottish-restaurant-1-3658069timed out
+ERROR (requests): http://www.scotsman.com/news/scotland/top-stories/kim-jong-un-planning-scottish-restaurant-1-3658069
+ERROR (selenium): http://espn.go.com/mens-college-basketball/story/_/id/12328436/oregon-state-beavers-flight-delayed-scorpion-stings-woman-aboard-planetimed out
+ERROR (requests): http://espn.go.com/mens-college-basketball/story/_/id/12328436/oregon-state-beavers-flight-delayed-scorpion-stings-woman-aboard-plane
+ERROR (selenium): http://adobochronicles.com/2015/02/09/kanye-west-barred-from-all-future-awards-shows/timed out
+ERROR (requests): http://adobochronicles.com/2015/02/09/kanye-west-barred-from-all-future-awards-shows/
+ERROR (selenium): http://nypost.com/2015/02/08/charles-mansons-fiancee-wanted-to-marry-him-for-his-corpse-source/timed out
+ERROR (requests): http://nypost.com/2015/02/08/charles-mansons-fiancee-wanted-to-marry-him-for-his-corpse-source/
+ERROR (selenium): http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201502051134421&code=620100timed out
+ERROR (requests): http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201502051134421&code=620100
+ERROR (selenium): http://metro.co.uk/2015/02/08/owl-kills-mate-because-he-has-a-small-penis-5054093/timed out
+ERROR (requests): http://metro.co.uk/2015/02/08/owl-kills-mate-because-he-has-a-small-penis-5054093/
+ERROR (selenium): http://www.weibo.com/1652811601/C2Ac4hGw4?type=commenttimed out
+ERROR (requests): http://www.weibo.com/1652811601/C2Ac4hGw4?type=comment
+ERROR (selenium): http://youtu.be/HY7gSAYAf8stimed out
+ERROR (requests): http://youtu.be/HY7gSAYAf8s
+ERROR (selenium): http://humanesocietytampa.org/miracle-cat-comes-back-from-the-grave/timed out
+ERROR (requests): http://humanesocietytampa.org/miracle-cat-comes-back-from-the-grave/
+ERROR (selenium): http://www.silbaleatumadre.com/timed out
+ERROR (requests): http://www.silbaleatumadre.com/
+ERROR (selenium): http://www.corriereadriatico.it/MACERATA/san_severino_marche_suora_partorisce_ospedale_clausura_beb_amp_egrave/notizie/1136921.shtmltimed out
+ERROR (requests): http://www.corriereadriatico.it/MACERATA/san_severino_marche_suora_partorisce_ospedale_clausura_beb_amp_egrave/notizie/1136921.shtml
+ERROR (selenium): http://www.freep.com/story/news/local/michigan/2015/01/16/pizza-driver-tip-ann-arbor/21894497/timed out
+ERROR (requests): http://www.freep.com/story/news/local/michigan/2015/01/16/pizza-driver-tip-ann-arbor/21894497/
+ERROR (selenium): http://www.plymouthherald.co.uk/year-old-Plymouth-boy-gets-missing-school-friend/story-25884528-detail/story.htmltimed out
+ERROR (requests): http://www.plymouthherald.co.uk/year-old-Plymouth-boy-gets-missing-school-friend/story-25884528-detail/story.html
+ERROR (selenium): http://empirenews.net/accused-boston-marathon-bomber-severely-injured-in-prison-may-never-walk-or-talk-again/timed out
+ERROR (requests): http://empirenews.net/accused-boston-marathon-bomber-severely-injured-in-prison-may-never-walk-or-talk-again/
+ERROR (selenium): http://worldnewsdailyreport.com/australia-600-pound-woman-gives-birth-to-40-pound-baby/timed out
+ERROR (requests): http://worldnewsdailyreport.com/australia-600-pound-woman-gives-birth-to-40-pound-baby/
+ERROR (selenium): http://vk.com/zaschitim_detei?w=wall-35868870_8051timed out
+ERROR (requests): http://vk.com/zaschitim_detei?w=wall-35868870_8051
+ERROR (selenium): http://www.mirror.co.uk/news/world-news/furious-women-set-trap-underwear-4979426timed out
+ERROR (requests): http://www.mirror.co.uk/news/world-news/furious-women-set-trap-underwear-4979426
+ERROR (selenium): http://news.hnr.cn/dj/201412/t20141231_1774070.htmltimed out
+ERROR (requests): http://news.hnr.cn/dj/201412/t20141231_1774070.html
+ERROR (selenium): https://www.facebook.com/antligenmorgon/posts/10152709871103163&usg=ALkJrhi3RDaKwqZcoujanB8CMacxMFe-hQtimed out
+ERROR (requests): https://www.facebook.com/antligenmorgon/posts/10152709871103163&usg=ALkJrhi3RDaKwqZcoujanB8CMacxMFe-hQ
+ERROR (selenium): http://www.scottishspca.org/news/1922_dog-dumped-at-train-station-with-suitcasetimed out
+ERROR (requests): http://www.scottishspca.org/news/1922_dog-dumped-at-train-station-with-suitcase
+ERROR (selenium): http://www.edp24.co.uk/news/photo_gallery_amazing_300_operation_by_north_walsham_vet_on_constipated_goldfish_1_3902958timed out
+ERROR (requests): http://www.edp24.co.uk/news/photo_gallery_amazing_300_operation_by_north_walsham_vet_on_constipated_goldfish_1_3902958
+ERROR (selenium): http://www.rmf24.pl/nauka/news-niezwykla-operacja-w-katowicach-pacjentke-wybudzono-w-trakci,nId,1580273timed out
+ERROR (requests): http://www.rmf24.pl/nauka/news-niezwykla-operacja-w-katowicach-pacjentke-wybudzono-w-trakci,nId,1580273
+ERROR (selenium): http://worldnewsdailyreport.com/missouri-pig-brothel-dismantled-during-fbi-raid/timed out
+ERROR (requests): http://worldnewsdailyreport.com/missouri-pig-brothel-dismantled-during-fbi-raid/
+ERROR (selenium): http://metro.co.uk/2014/12/16/spurned-wife-leaves-cheating-husband-and-twin-naked-in-busy-car-park-4988779/timed out
+ERROR (requests): http://metro.co.uk/2014/12/16/spurned-wife-leaves-cheating-husband-and-twin-naked-in-busy-car-park-4988779/
+ERROR (selenium): http://edu.sina.com.cn/l/2014-10-28/0826251064.shtmltimed out
+ERROR (requests): http://edu.sina.com.cn/l/2014-10-28/0826251064.shtml
+ERROR (selenium): http://www.dailymail.co.uk/news/article-2791108/mob-rule-chinese-adulteress-stripped-naked-beaten-senseless-latest-attack-kind.htmltimed out
+ERROR (requests): http://www.dailymail.co.uk/news/article-2791108/mob-rule-chinese-adulteress-stripped-naked-beaten-senseless-latest-attack-kind.html
+ERROR (selenium): http://www.dailymail.co.uk/news/article-2803459/Comfort-eating-Chinese-woman-26-spends-entire-WEEK-KFC-dumped-boyfriend.htmltimed out
+ERROR (requests): http://www.dailymail.co.uk/news/article-2803459/Comfort-eating-Chinese-woman-26-spends-entire-WEEK-KFC-dumped-boyfriend.html
+ERROR (selenium): http://www.mirror.co.uk/news/world-news/angry-mob-hacks-alleged-rapists-4413312timed out
+ERROR (requests): http://www.mirror.co.uk/news/world-news/angry-mob-hacks-alleged-rapists-4413312
+ERROR (selenium): http://austriantimes.at/news/Around_the_World/2014-11-17/51962/Evil_Aunt_Hacks_Off_Toddlers_Penistimed out
+ERROR (requests): http://austriantimes.at/news/Around_the_World/2014-11-17/51962/Evil_Aunt_Hacks_Off_Toddlers_Penis
+ERROR (selenium): http://austriantimes.at/image/40313/news/Around_the_World/2014-12-03/52021/Ski_Resort_Opens_With_Snow_Stored_From_Last_Seasontimed out
+REDIRECT: http://www.mirror.co.uk/news/weird-news/man-cuts-penis-because-frustrated-2651947
+REDIRECT: http://www.jta.org/2014/12/25/news-opinion/world/argentinas-president-adopts-jewish-godson
+REDIRECT: http://inserbia.info/today/2014/12/bih-seven-primary-school-students-pregnant-after-five-day-excursion/
+REDIRECT: http://www.cbsnews.com/news/texas-plumbers-truck-on-front-line-of-syria-war/
+REDIRECT: http://9to5mac.com/2015/03/06/sources-offer-hands-on-apple-watch-details-battery-life-unannounced-features-and-more/
+LANGUAGE: cy http://preview.howtospendit.ft.com/technology/77791-the-man-behind-the-apple-watch <html xmln
+REDIRECT: http://techcrunch.com/2015/03/05/would-you-buy-a-smart-band-for-an-apple-watch/
+REDIRECT: http://www.iphonote.com/actu/76493/apple-watch-la-gravure-pourrait-etre-de-la-partie-aussi-sur-la-montre
+REDIRECT: http://arstechnica.com/apple/2015/03/what-to-expect-when-we-spring-forward-with-apple-on-march-9/
+REDIRECT: http://9to5mac.com/2015/03/05/apple-plans-relaunched-beats-streaming-music-service-for-wwdc-skipping-march-event/
+REDIRECT: http://www.marco.org/2015/03/04/boring-apple-watch-edition-pricing
+REDIRECT: http://themichaelreport.com/2015/03/04/exclusive-retina-macbook-air-spring-forward/
+REDIRECT: http://www.businessinsider.com/apple-watch-limitations-due-to-battery-life-2015-3
+REDIRECT: http://www.bloomberg.com/news/articles/2015-03-04/apple-said-to-delay-larger-ipad-production-on-panel-challenges
+REDIRECT: http://9to5mac.com/2015/03/02/tim-cook-says-apple-watch-will-be-available-outside-u-s-in-april/
+REDIRECT: http://www.reuters.com/article/2015/03/02/us-lg-display-samsung-display-apple-idUSKBN0LY00I20150302?feedType=RSS&feedName=technologyNews
+REDIRECT: http://www.macrumors.com/2015/03/01/apple-watch-selfridges-shop/
+REDIRECT: http://www.nytimes.com/2015/03/02/technology/apples-new-job-selling-a-smartwatch-to-an-uninterested-public.html?_r=0
+ERROR (selenium): http://blogs.barrons.com/techtraderdaily/2015/02/26/apple-citi-sees-550-and-950-apple-watches-accessory-plethora/timed out
+ERROR (requests): http://blogs.barrons.com/techtraderdaily/2015/02/26/apple-citi-sees-550-and-950-apple-watches-accessory-plethora/
+ERROR (selenium): http://www.igen.fr/apple-watch/2015/02/tim-cook-je-garde-mon-apple-watch-sous-la-douche-89937timed out
+ERROR (requests): http://www.igen.fr/apple-watch/2015/02/tim-cook-je-garde-mon-apple-watch-sous-la-douche-89937
+ERROR (selenium): http://blogs.barrons.com/techtraderdaily/2015/02/23/apple-every-iphone-owner-will-want-one-says-global-equities/timed out
+ERROR (requests): http://blogs.barrons.com/techtraderdaily/2015/02/23/apple-every-iphone-owner-will-want-one-says-global-equities/
+ERROR (selenium): http://daringfireball.net/2015/02/apple_watch_pricingtimed out
+ERROR (requests): http://daringfireball.net/2015/02/apple_watch_pricing
+ERROR (selenium): http://9to5mac.com/2015/02/19/apple-considering-dedicated-apple-watch-stores-as-it-sets-up-paris-booth/timed out
+REDIRECT: http://9to5mac.com/2015/02/19/18-karat-gold-apple-watch-cost-pricing/
+REDIRECT: http://blogs.wsj.com/digits/2015/02/17/apple-orders-more-than-5-million-watches-for-initial-run/?mod=e2tw
+REDIRECT: http://www.ccsinsight.com/press/company-news/2137-wearables-market-2015-is-year-that-will-make-or-break-the-smartwatch
+REDIRECT: http://www.wsj.com/articles/challenge-of-apple-watch-defining-its-purpose-1424133615
+REDIRECT: http://9to5mac.com/2015/02/20/apple-watch-straps-accessories-available-separately/
+ERROR (selenium): http://blogs.barrons.com/asiastocks/2015/02/12/who-will-supply-apple-watch/timed out
+ERROR (requests): http://blogs.barrons.com/asiastocks/2015/02/12/who-will-supply-apple-watch/
+ERROR (selenium): http://www.apfelpage.de/2015/02/13/apple-watch-release-wohl-vorerst-nur-in-apple-stores/timed out
+ERROR (requests): http://www.apfelpage.de/2015/02/13/apple-watch-release-wohl-vorerst-nur-in-apple-stores/
+ERROR (selenium): http://sixcolors.com/2015/02/whats-up-with-apple-watch-editions-digital-crown/timed out
+ERROR (requests): http://sixcolors.com/2015/02/whats-up-with-apple-watch-editions-digital-crown/
+ERROR (selenium): http://www.benzinga.com/news/14/10/4933512/exclusive-lenovo-could-make-an-offer-for-blackberry-as-early-as-this-weektimed out
+ERROR (requests): http://www.benzinga.com/news/14/10/4933512/exclusive-lenovo-could-make-an-offer-for-blackberry-as-early-as-this-week
+ERROR (selenium): http://online.wsj.com/articles/amazon-to-open-first-store-1412879124timed out
+ERROR (requests): http://online.wsj.com/articles/amazon-to-open-first-store-1412879124
+ERROR (selenium): http://consumerist.com/2014/10/06/unhappy-customer-comcast-told-my-employer-about-complaint-got-me-fired/timed out
+ERROR (requests): http://consumerist.com/2014/10/06/unhappy-customer-comcast-told-my-employer-about-complaint-got-me-fired/
+ERROR (selenium): http://9to5mac.com/community/my-iphone-6-plus-is-yanking-out-my-hair/timed out
+ERROR (requests): http://9to5mac.com/community/my-iphone-6-plus-is-yanking-out-my-hair/
+ERROR (selenium): http://www.businessweek.com/articles/2014-10-06/jeff-bezos-plan-for-news-washington-post-becomes-an-amazon-producttimed out
+ERROR (requests): http://www.businessweek.com/articles/2014-10-06/jeff-bezos-plan-for-news-washington-post-becomes-an-amazon-product
+ERROR (selenium): http://www.bizjournals.com/sanjose/news/2014/10/03/google-to-buy-big-chunk-of-pacific-shores-iconic.html?page=alltimed out
+ERROR (requests): http://www.bizjournals.com/sanjose/news/2014/10/03/google-to-buy-big-chunk-of-pacific-shores-iconic.html?page=all
+ERROR (selenium): http://online.wsj.com/articles/hewlett-packard-plans-to-break-in-two-1412530028?mod=WSJ_hp_LEFTTopStoriestimed out
+ERROR (requests): http://online.wsj.com/articles/hewlett-packard-plans-to-break-in-two-1412530028?mod=WSJ_hp_LEFTTopStories
+ERROR (selenium): http://www.macrumors.com/2014/09/29/reset-all-settings-icloud-drive-bug/timed out
+ERROR (requests): http://www.macrumors.com/2014/09/29/reset-all-settings-icloud-drive-bug/
+ERROR (selenium): http://techcrunch.com/2014/09/22/apple-plans-to-shut-down-beats-music/timed out
+ERROR (requests): http://techcrunch.com/2014/09/22/apple-plans-to-shut-down-beats-music/
+ERROR (selenium): http://www.deepdotweb.com/2014/09/13/comcast-declares-war-tor/timed out
+ERROR (requests): http://www.deepdotweb.com/2014/09/13/comcast-declares-war-tor/
+ERROR (selenium): http://pando.com/2014/09/09/source-apple-set-to-acquire-path-in-an-attempt-to-bolster-ios-social-cred/timed out
+ERROR (requests): http://pando.com/2014/09/09/source-apple-set-to-acquire-path-in-an-attempt-to-bolster-ios-social-cred/
+ERROR (selenium): http://online.wsj.com/articles/microsoft-near-deal-to-buy-minecraft-1410300213timed out
+ERROR (requests): http://online.wsj.com/articles/microsoft-near-deal-to-buy-minecraft-1410300213
+ERROR (selenium): http://www.cnbc.com/id/101937267timed out
+ERROR (requests): http://www.cnbc.com/id/101937267
+ERROR (selenium): http://9to5mac.com/2015/01/06/macbook-air-12-inch-redesign/timed out
+ERROR (requests): http://9to5mac.com/2015/01/06/macbook-air-12-inch-redesign/
+ERROR (selenium): https://www.facebook.com/HaSoGCA/posts/744814738948517:0timed out
+ERROR (requests): https://www.facebook.com/HaSoGCA/posts/744814738948517:0
+ERROR (selenium): http://www.buzzfeed.com/tanyachen/in-canada-even-criminals-are-kind?bffb&utm_term=4ldqpgu#.cyX2Voo0ytimed out
+ERROR (requests): http://www.buzzfeed.com/tanyachen/in-canada-even-criminals-are-kind?bffb&utm_term=4ldqpgu#.cyX2Voo0y
+REDIRECT: http://en.mediamass.net/people/kei-nishikori/highest-paid.html
+REDIRECT: http://france3-regions.francetvinfo.fr/limousin/2015/01/08/limoges-suicide-d-un-commissaire-de-police-626916.html
+LANGUAGE: cy http://bbc-news.co.uk/doubts-raised-over-authenticity-of-charlie-hebdo-footage <html xmln
+REDIRECT: http://www.mirror.co.uk/news/world-news/shocking-picture-shows-mother-trying-4927103
+REDIRECT: http://www.mirror.co.uk/news/world-news/isis-launch-scorpion-bombs-spread-4817241
+REDIRECT: http://www.thesun.co.uk/sol/homepage/news/6176017/EXCLUSIVE-TV-gardener-Alan-Titchmarsh-finds-magic-mushrooms-at-Buckingham-palace.html
+REDIRECT: http://archiviostorico.corriere.it/2014/novembre/27/Papa_gli_animali_Paradiso_aperto_co_0_20141127_113a59e8-7607-11e4-8dd1-b9af854f838d.shtml
+REDIRECT: http://www.buzzfeed.com/mikegiglio/isis-is-trying-to-sell-the-body-of-us-hostage-james-foley-fo
+REDIRECT: http://www.theguardian.com/world/2014/dec/03/kim-jong-un-north-korea-name-ban
+REDIRECT: http://www.theguardian.com/world/2014/dec/02/al-baghdadi-wife-son-arrest-lebanon-fake-passport
+REDIRECT: http://www.jpost.com/Middle-East/Report-ISIS-kidnaps-former-IDF-Canadian-Israeli-soldier-who-went-to-fight-with-the-Kurds-383238
+REDIRECT: http://www.tolonews.com/en/afghanistan/17230-afghan-mother-kills-25-taliban
+REDIRECT: http://www.dailystar.co.uk/news/latest-news/411816/kim-jong-un-necks-litres-rare-snake-wine-because-too-fat-please-wife
+REDIRECT: http://www.telegraph.co.uk/news/worldnews/africaandindianocean/nigeria/11169959/Nigerias-missing-schoolgirls-to-be-released-after-ceasefire-deal.html
+REDIRECT: http://www.reuters.com/article/2014/10/17/us-mideast-crisis-jets-idUSKCN0I60TM20141017
+REDIRECT: http://www.independent.co.uk/news/world/middle-east/isis-behead-their-own-fighters-for-spying-and-embezzlement-in-syria-9797687.html
+REDIRECT: http://www.reuters.com/article/2014/10/09/us-northkorea-kim-idUSKCN0HY09T20141009
+REDIRECT: http://www.proceso.com.mx/?p=383800
+REDIRECT: http://lazerprincess.tumblr.com/post/106447705738/suicide-note
+REDIRECT: http://nypost.com/2014/12/25/plane-passenger-tossed-after-angry-reaction-to-merry-christmas/
+REDIRECT: https://www.bostonherald.com/news_opinion/local_coverage/2014/12/mfa_expert_digs_out_state_house_time_capsule
+REDIRECT: http://imgur.com/gallery/BGIRJUh
+REDIRECT: http://www.thecollegefix.com/post/20172/
+REDIRECT: http://bigstory.ap.org/article/98ab07fc81e041da828fe5835a27d544/dangerous-situation-reported-florida-state
+REDIRECT: http://www.nytimes.com/2014/11/10/nyregion/in-shift-police-dept-to-stop-low-level-marijuana-arrests-officials-say.html?_r=0
+LANGUAGE: cy http://www.washingtonpost.com/politics/white-house-fence-jumper-made-it-far-deeper-into-building-than-previously-known/2014/09/29/02efd53e-47ea-11e4-a046-120a8a855cca_story.html?hpid=z1 <html xmln
+REDIRECT: http://abcnews.go.com/International/government-threatened-foley-family-ransom-payments-mother-slain/story?id=25453963&singlePage=true
+REDIRECT: http://www.cnn.com/2014/08/26/us/michael-brown-ferguson-shooting/
+LANGUAGE: cy http://www.washingtonpost.com/world/national-security/islamic-state-claims-it-beheaded-american-photojournalist-james-foley/2014/08/19/42e83970-27e6-11e4-86ca-6f03cbd15c1a_story.html <html xmln

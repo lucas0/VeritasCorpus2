@@ -1,0 +1,6 @@
+Title: Kohl’s ‘$70 Coupon’ Scam
+Claim: Kohl's department stores are distributing $70 coupons online.
+Date: 14.11.01
+Link: https://www.snopes.com/inboxer/nothing/kohlsgiftcard.asp
+Verdict: false
+

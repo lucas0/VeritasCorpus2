@@ -1,0 +1,6 @@
+Title: Did Sean Spicer Retweet a Satirical Onion Video About Himself?
+Claim: White House Press Secretary Sean Spicer retweeted a satirical item from 'The Onion'  about himself.
+Date: 17.01.30
+Link: https://www.snopes.com/sean-spicer-onion-retweet/
+Verdict: true
+

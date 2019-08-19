@@ -1,0 +1,37 @@
+<blockquote>
+ <p>
+  [Papa John’s] John Schnatter, Founder
+ </p>
+ <ul style="list-style-type: circle;">
+  <li>
+   Donated to Trump’s campaign
+  </li>
+  <li>
+   Cut workers hours to avoid paying health insurance
+  </li>
+  <li>
+   Found guilty of wage theft and not paying employees overtime.
+  </li>
+  <li>
+   Threatened to raise pizza prices to keep share holders happy.
+  </li>
+ </ul>
+ <p>
+  [Little Caesar’s] Mike Illitch [sic], Founder
+ </p>
+ <ul style="list-style-type: disc;">
+  <li>
+   Quietly PAID Rosa Park’s [sic] rent for
+   <em>
+    years
+   </em>
+   until her passing.
+  </li>
+  <li>
+   Ran a charity for the homeless that was recognized by Reagan, Bush and Clinton.
+  </li>
+  <li>
+   Received the “Secretaries Award” for his philanthropic work with veterans.
+  </li>
+ </ul>
+</blockquote>

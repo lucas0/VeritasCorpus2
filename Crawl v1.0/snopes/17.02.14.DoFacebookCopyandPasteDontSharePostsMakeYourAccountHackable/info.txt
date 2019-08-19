@@ -1,0 +1,6 @@
+Title: Do Facebook ‘Copy and Paste, Don’t Share’ Posts Make Your Account Hackable?
+Claim: Publishing "copy and paste" and "don't share" status messages on Facebook leave users vulnerable to hacking.							See Example( s )
+Date: 17.02.14
+Link: https://www.snopes.com/facebook-copy-and-paste-dont-share-hackers/
+Verdict: false
+

@@ -1,0 +1,12 @@
+<blockquote>
+ <p class="p1" data-wc="42">
+  <span class="s1">
+   Calling it a “scary moment” and a “close call,” Donald Trump’s campaign officials confirmed that they had recaptured Mike Pence after the Indiana governor attempted to flee the campaign bus in the early hours of Friday morning.
+  </span>
+ </p>
+ <p class="p1" data-wc="36">
+  <span class="s1">
+   According to the campaign, Pence had asked to stop at a McDonald’s in rural Virginia so that he could use the bathroom, but aides grew concerned when the governor failed to reappear after twenty minutes.
+  </span>
+ </p>
+</blockquote>

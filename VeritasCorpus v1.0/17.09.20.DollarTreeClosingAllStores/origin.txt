@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/dollar-tree-to-close-all-stores-oct-2017.png" target="_blank">
+   <img alt="dollar tree to close all stores oct 2017" class="size-large wp-image-104294 aligncenter" data-recalc-dims="1" sizes="(max-width: 576px) 100vw, 576px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/dollar-tree-to-close-all-stores-oct-2017.png?resize=576,1024" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/dollar-tree-to-close-all-stores-oct-2017.png?resize=576,1024 576w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/dollar-tree-to-close-all-stores-oct-2017.png?resize=169,300 169w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/dollar-tree-to-close-all-stores-oct-2017.png?w=720 720w"/>
+  </a>
+ </p>
+ <p>
+  <!--Dollar Tree to close all stores Oct 1,2017-->
+  This is a corporate decision,all employees will be paid their wages until Dec.24th. Spokesman said “we are just losing money too fast by selling so cheap. Read more by clicking the link
+ </p>
+</blockquote>

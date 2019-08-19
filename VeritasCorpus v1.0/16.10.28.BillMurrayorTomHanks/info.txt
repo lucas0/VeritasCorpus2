@@ -1,0 +1,6 @@
+Title: Bill Murray or Tom Hanks?
+Claim: A photograph shows actor Bill Murray and a crying baby.
+Date: 16.10.28
+Link: https://www.snopes.com/bill-murray-or-tom-hanks/
+Verdict: true
+

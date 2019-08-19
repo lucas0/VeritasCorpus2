@@ -1,0 +1,6 @@
+Title: Is a Wisconsin Company Offering to Microchip its Employees?
+Claim: In July 2017, Three Square Market announced it was offering employees the option of having a microchip implanted in their hands.
+Date: 17.07.25
+Link: https://www.snopes.com/three-square-market-microchip/
+Verdict: true
+

@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  <center>
+   <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/kids_free_meals.png" target="_blank">
+    <img alt="" class="aligncenter size-full wp-image-93003" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/kids_free_meals.png?resize=600,222" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/kids_free_meals.png?w=600 600w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/kids_free_meals.png?resize=300,111 300w" style="border: 1px solid black;"/>
+   </a>
+  </center>
+ </p>
+ <p>
+  If you have a school-aged student in need of breakfast and lunch this summer, simply text “FOOD” to 877877 and receive a message back with a location closest to where they can get free summer meals. Even if you aren’t in need, someone else’s kids are. No child deserves to go hungry, ever.
+ </p>
+</blockquote>

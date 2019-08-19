@@ -1,0 +1,6 @@
+Title: Dog Flu
+Claim: A virus deadly to dogs has been spreading in the canine population of the U.S.							See Example( s )
+Date: 12.10.17
+Link: https://www.snopes.com/critters/crusader/dogflu.asp
+Verdict: true
+

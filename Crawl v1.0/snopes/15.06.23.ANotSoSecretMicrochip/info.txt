@@ -1,0 +1,6 @@
+Title: A (Not So) Secret Microchip?
+Claim: Samsung is stealing data through a secret microchip in its mobile phone batteries.
+Date: 15.06.23
+Link: https://www.snopes.com/samsung-microchip/
+Verdict: false
+

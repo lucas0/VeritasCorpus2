@@ -1,0 +1,7 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/crosses-on-skyline.jpg" target="_blank">
+   <img alt="crosses on skyline" class="aligncenter size-full wp-image-12746" data-recalc-dims="1" sizes="(max-width: 729px) 100vw, 729px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/crosses-on-skyline.jpg?resize=729,578" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/crosses-on-skyline.jpg?w=729 729w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/crosses-on-skyline.jpg?resize=300,238 300w"/>
+  </a>
+ </p>
+</blockquote>

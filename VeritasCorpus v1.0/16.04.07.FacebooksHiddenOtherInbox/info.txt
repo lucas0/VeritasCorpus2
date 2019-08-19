@@ -1,0 +1,6 @@
+Title: Facebook’s Hidden Other Inbox
+Claim: Facebook has not one, but two filtered message inboxes where Messenger messages may not be easily seen.							See Example( s )
+Date: 16.04.07
+Link: https://www.snopes.com/facebooks-hidden-inbox/
+Verdict: true
+

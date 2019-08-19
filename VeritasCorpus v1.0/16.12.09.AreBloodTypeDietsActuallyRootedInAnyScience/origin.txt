@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  A naturopathic physician who is also an author, researcher-educator, Ivesian, amateur horologist, budding software developer and air-cooled enthusiast. He is considered a world expert in glycobiology, principally the ABO (ABH) blood groups and the secretor (FUT2) polymorphisms.
+ </p>
+</blockquote>

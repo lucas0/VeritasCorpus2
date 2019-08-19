@@ -1,0 +1,6 @@
+Title: Texas Vote Switching
+Claim: Voters across Texas have witnessed their votes switch from "straight Republican" to Democrat on compromised voting machines.							See Example( s )
+Date: 16.10.25
+Link: https://www.snopes.com/texas-vote-switching/
+Verdict: mfalse
+

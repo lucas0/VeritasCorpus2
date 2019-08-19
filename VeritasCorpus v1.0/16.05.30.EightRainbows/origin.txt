@@ -1,0 +1,19 @@
+<blockquote>
+ <div style="text-align: center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/quadruple-rainbow.jpg" target="_blank">
+   <img alt="quadruple rainbow" class="aligncenter size-full wp-image-35419" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/quadruple-rainbow.jpg?resize=600,600" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/quadruple-rainbow.jpg?w=600 600w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/quadruple-rainbow.jpg?resize=150,150 150w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/quadruple-rainbow.jpg?resize=300,300 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/quadruple-rainbow.jpg?resize=32,32 32w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/quadruple-rainbow.jpg?resize=50,50 50w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/quadruple-rainbow.jpg?resize=64,64 64w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/quadruple-rainbow.jpg?resize=96,96 96w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/quadruple-rainbow.jpg?resize=128,128 128w" style="border: 1px solid black;"/>
+  </a>
+ </div>
+ <p>
+  This is an outstanding example of a primary and secondary rainbow (relatively common) occurring together with their reflected-light counterparts (quite rare). Allow me to elaborate.
+ </p>
+ <p>
+  A typical primary rainbow is caused by refraction and one internal reflection of sunlight within raindrops, resulting in a rainbow that is positioned 41 arc degrees from the anti-solar point (i.e., the point directly opposite the sun – for example, if the sun is 10 degrees above the horizon at your back, the anti-solar point is 10 degrees below the horizon directly in front of you). The refraction causes the separation of white sunlight into its component colors, with red on the outside of the rainbow and violet on the inside.
+ </p>
+ <p>
+  The secondary rainbow, which is centered 51 arc degrees from the anti-solar point (i.e., the larger of the two bows during a typical display), involves two internal reflections of sunlight within the raindrops rather than one, resulting in a reversal of the color sequence (red on the inside and violet on the outside). We can usually only see the portion of these rainbows above the horizon, because there isn’t a sufficient density of raindrops between the observer and the ground to see the rainbow below the horizon (exceptions include full-circle rainbows viewed from locales such as airplanes and mountain tops).
+ </p>
+ <p>
+  So far, so good. For the much rarer reflected-light rainbows shown in this spectacular photo, a large glassy-smooth water surface is required behind the observer. This smooth water surface reflects the sun, such that a second solar light source is generated. This reflected sun, which is located the same the number of arc degrees below the horizon as the real sun is above the horizon, creates a second primary and secondary rainbow on the opposite side of the sky from the sun, but with the center of these reflected-light rainbows above the horizon. The geometry dictates that the regular and reflected-light rainbows will join at the horizon, as this photo shows.
+ </p>
+</blockquote>

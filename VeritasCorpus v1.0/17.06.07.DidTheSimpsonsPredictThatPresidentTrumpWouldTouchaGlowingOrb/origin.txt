@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/simpsons-orb.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-93590" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/simpsons-orb.jpg?resize=600,935" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/simpsons-orb.jpg?w=525 525w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/simpsons-orb.jpg?resize=193,300 193w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  This Simpsons cartoon aired 15 years ago in 2002 the actual photo was taken last month…somebody explain this shit to me.
+ </p>
+</blockquote>

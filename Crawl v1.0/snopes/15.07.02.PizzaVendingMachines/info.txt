@@ -1,0 +1,6 @@
+Title: Pizza Vending Machines
+Claim: You can now order pizza from pizza vending machines.
+Date: 15.07.02
+Link: https://www.snopes.com/pizza-vending-machine/
+Verdict: mixture
+

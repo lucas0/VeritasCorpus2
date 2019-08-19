@@ -1,0 +1,6 @@
+Title: New Hackers on Facebook
+Claim: Hackers seize control of Facebook accounts to post insulting messages on the walls of friends of those whose accounts they've taken over.							See Example( s )
+Date: 12.05.11
+Link: https://www.snopes.com/computer/facebook/insults.asp
+Verdict: false
+

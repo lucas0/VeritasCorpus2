@@ -1,0 +1,8 @@
+<blockquote>
+ <p>
+  ​When no Internet connection or cellular networks are available, FireChat uses the radios inside our phones to connect them directly with one another. In that case (which is also called “offline” or “off-the-grid”), messages will travel up to 70 meters (210 feet) from one phone to the next.
+ </p>
+ <p>
+  ​If there are more than two devices, they will form a network and messages will bounce from one device to the next, thus extending the range of the network. The more people use FireChat, the better the network gets for everybody. This is why FireChat works really well for very large groups of people.
+ </p>
+</blockquote>

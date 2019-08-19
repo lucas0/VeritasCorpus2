@@ -1,0 +1,15 @@
+<blockquote>
+ <p>
+  Video in Florida yesterday of two Muslims Pointing a Taser at Family because they were offended that two girls were wearing bikinis.
+ </p>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FOurEyeOnIslam%2Fvideos%2Fvb.1427801500819102%2F1723872254545357%2F%3Ftype%3D3&amp;show_text=0&amp;width=560" frameborder="0" height="315" scrolling="no" style="border: none; overflow: hidden;" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" scrolling="no" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FOurEyeOnIslam%2Fvideos%2Fvb.1427801500819102%2F1723872254545357%2F%3Ftype%3D3&amp;show_text=0&amp;width=560" style="border: none; overflow: hidden;" width="560">
+    </iframe>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

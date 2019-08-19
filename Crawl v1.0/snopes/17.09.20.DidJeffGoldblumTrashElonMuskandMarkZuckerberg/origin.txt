@@ -1,0 +1,14 @@
+<blockquote>
+ <p>
+  <br>
+   <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/goldblum-fake-meme.jpg" target="_blank">
+    <img alt="" class="aligncenter wp-image-104376" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/goldblum-fake-meme.jpg?resize=600,576" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/goldblum-fake-meme.jpg?w=535 535w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/goldblum-fake-meme.jpg?resize=300,288 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/goldblum-fake-meme.jpg?resize=32,32 32w" style="border: 1px solid black;"/>
+   </a>
+  </br>
+ </p>
+ <p>
+  Interviewer: Are  you more of a Musk guy or a Zuckerberg guy?
+  <br/>
+  Goldblum: What’s the difference? They’re both capitalists.
+ </p>
+</blockquote>

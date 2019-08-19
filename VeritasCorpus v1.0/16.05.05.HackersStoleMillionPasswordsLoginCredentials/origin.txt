@@ -1,0 +1,14 @@
+<blockquote>
+ <p>
+  This breach is happening right now and affects almost every single person with an email account, whether you have Gmail, Microsoft Outlook (or Hotmail), Yahoo Mail or many others.
+ </p>
+ <p>
+  Cybersecurity experts estimate that The Collector has up to 1.7 billion email account passwords in his or her possession.
+ </p>
+ <p>
+  As it turns out, the Collector is trying to sell the personal details relating to an estimated 273 million email accounts. These include the email address and password for some 40 million Yahoo Mail, 33 million Hotmail/Outlook accounts, 24 million Gmail accounts, and tens of millions more.
+ </p>
+ <p>
+  Strangely, The Collector is asking for only $1 for the whole stash, but he or she is also asking for positive reviews to be posted on hacker forums. The low dollar amount may seem odd, but there’s potentially bigger money in related attacks like phishing scams. Sometimes, these type of breaches are done for the notoriety, too.
+ </p>
+</blockquote>

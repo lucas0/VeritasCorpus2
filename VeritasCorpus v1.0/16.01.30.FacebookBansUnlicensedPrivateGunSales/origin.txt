@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  In December, the company
+  <a href="http://www.wsj.com/articles/facebook-launches-local-services-site-1450225936" target="_blank">
+   introduced
+  </a>
+  a project that directs users to local businesses and services that are well-reviewed on Facebook. Facebook can also store users’ credit card information. And in recent months, Facebook made it possible to send peer-to-peer payments through Messenger.
+ </p>
+ <p>
+  Facebook’s progression toward on-site payments underscored the need to update the company’s content policy, a Facebook spokeswoman said.
+ </p>
+</blockquote>

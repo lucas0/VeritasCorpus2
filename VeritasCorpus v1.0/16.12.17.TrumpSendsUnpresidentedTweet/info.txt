@@ -1,0 +1,6 @@
+Title: Trump Sends ‘Unpresidented’ Tweet
+Claim: Donald Trump sent a tweet with the word "unprecedented" incorrectly spelled "unpresidented."
+Date: 16.12.17
+Link: https://www.snopes.com/trump-sends-unpresidented-tweet/
+Verdict: true
+

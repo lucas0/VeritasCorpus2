@@ -1,0 +1,6 @@
+Title: Solar Panels Don’t Drain the Sun of Energy
+Claim: The user of solar panels drains the sun of energy.							See Example( s )
+Date: 16.02.12
+Link: https://www.snopes.com/solar-panels-drain-sun/
+Verdict: false
+

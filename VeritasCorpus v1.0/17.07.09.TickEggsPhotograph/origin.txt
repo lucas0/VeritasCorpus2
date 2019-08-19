@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  On our walk today, I noticed a weird clump of black “balls” on the path. I took a picture of it and when I got home, I was able to zoom in on the picture and noticed a couple of little red ticks. I googled ‘tick eggs’ and that’s what the black clump was! Tick eggs! Yuck. If I had known, I would have smashed them. ugh
+ </p>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2015/04/snopes-tick-eggs.png" target="_blank">
+   <img alt="" class="black-border aligncenter wp-image-85307 size-full" data-recalc-dims="1" sizes="(max-width: 435px) 100vw, 435px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2015/04/snopes-tick-eggs.png?w=600" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2015/04/snopes-tick-eggs.png?w=435 435w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/04/snopes-tick-eggs.png?resize=287,300 287w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/04/snopes-tick-eggs.png?resize=32,32 32w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+</blockquote>

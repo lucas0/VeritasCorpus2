@@ -1,0 +1,7 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/clinton-contributions.jpg" target="_blank">
+   <img alt="clinton-contributions" class="aligncenter wp-image-53495 size-full" data-recalc-dims="1" sizes="(max-width: 544px) 100vw, 544px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/clinton-contributions.jpg?resize=544,216" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/clinton-contributions.jpg?w=544 544w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/clinton-contributions.jpg?resize=300,119 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/clinton-contributions.jpg?resize=542,216 542w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+</blockquote>

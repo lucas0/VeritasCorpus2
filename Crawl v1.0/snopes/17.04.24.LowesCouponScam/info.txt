@@ -1,0 +1,6 @@
+Title: Lowe’s Coupon Scam
+Claim: Lowe's is giving out coupons worth up to $100 to Facebook users.
+Date: 17.04.24
+Link: https://www.snopes.com/inboxer/nothing/lowes.asp
+Verdict: false
+

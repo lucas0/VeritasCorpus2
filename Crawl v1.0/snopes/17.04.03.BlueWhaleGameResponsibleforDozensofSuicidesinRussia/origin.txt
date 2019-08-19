@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  The player signs up to play the game and agrees to follow instructions over the course of 50 days.
+ </p>
+ <p>
+  An administrator assigns a series of tasks (anything from cutting yourself to listening to song) that the player must accomplish.
+ </p>
+ <p>
+  The player wins when they complete the final task, committing suicide, on the 50th day.
+ </p>
+</blockquote>

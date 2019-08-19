@@ -1,0 +1,14 @@
+<blockquote>
+ <p>
+  <em>
+   Donald Trump was not born in Queens,
+   <br>
+    He was born in the Philippines,
+    <br/>
+    In a hotel in downtown Manila.
+    <br/>
+    Where his hair turned bright vanilla
+   </br>
+  </em>
+ </p>
+</blockquote>

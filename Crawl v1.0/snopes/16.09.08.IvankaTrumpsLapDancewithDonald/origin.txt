@@ -1,0 +1,7 @@
+<blockquote>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/09/ivanka-trump.jpg" target="_blank">
+   <img alt="ivanka trump" class="alignnone size-full wp-image-49943" data-recalc-dims="1" sizes="(max-width: 640px) 100vw, 640px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/09/ivanka-trump.jpg?resize=640,431" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/09/ivanka-trump.jpg?w=640 640w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/09/ivanka-trump.jpg?resize=300,202 300w"/>
+  </a>
+ </div>
+</blockquote>

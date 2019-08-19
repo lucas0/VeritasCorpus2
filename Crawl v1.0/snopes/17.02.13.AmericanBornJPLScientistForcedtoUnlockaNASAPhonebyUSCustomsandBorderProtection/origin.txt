@@ -1,0 +1,8 @@
+<blockquote>
+ <p>
+  Sorry for the absence. On my way home to the US last weekend, I was detained by Homeland Security and held with others who were stranded under the Muslim ban. CBP officers seized my phone and wouldn’t release me until I gave my access PIN for them to copy the data. I initially refused, since it’s a JPL-issued phone (Jet Propulsion Lab property) and I must protect access. Just to be clear – I’m a US-born citizen and NASA engineer, traveling with a valid US passport. Once they took both my phone and the access PIN, they returned me to the holding area with the cots and other sleeping detainees until they finished copying my data.
+ </p>
+ <p>
+  I’m back home, and JPL has been running forensics on the phone to determine what CBP/Homeland Security might have taken, or whether they installed anything on the device. I’ve also been working with JPL legal counsel. I removed my Facebook page until I was sure this account wasn’t also compromised by the intrusion into my phone and connected apps. I hope no one was worried. JPL issued me a new phone and new phone number, which I’ll give out soon.
+ </p>
+</blockquote>

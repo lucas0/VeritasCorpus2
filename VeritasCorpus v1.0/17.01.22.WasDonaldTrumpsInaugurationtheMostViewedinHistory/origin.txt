@@ -1,0 +1,17 @@
+<blockquote>
+ <div style="text-align: center;">
+  <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/9AjjVMAdWm4" frameborder="0" height="315" width="560">
+  </iframe>
+  <noscript>
+   <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/9AjjVMAdWm4" width="560">
+   </iframe>
+  </noscript>
+ </div>
+ <p>
+  We do know a few things, so let’s go through the facts.  We know that from the platform where the President was sworn in, to 4th Street, it holds about 250,000 people. From 4th Street to the media tent is about another 220,000. And from the media tent to the Washington Monument, another 250,000 people. All of this space was full when the President took the Oath of Office. We know that 420,000 people used the D.C. Metro public transit yesterday, which actually compares to 317,000 that used it for President Obama’s last inaugural.
+  <strong>
+   This was the largest audience to ever witness an inauguration — period — both in person and around the globe.
+  </strong>
+  Even the New York Times printed a photograph showing a misrepresentation of the crowd in the original Tweet in their paper, which showed the full extent of the support, depth in crowd, and intensity that existed.
+ </p>
+</blockquote>

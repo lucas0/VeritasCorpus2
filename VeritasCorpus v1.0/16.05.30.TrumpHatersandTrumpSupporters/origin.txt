@@ -1,0 +1,13 @@
+<blockquote>
+ <div style="text-align: center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/Flag-wavers-.jpeg" target="_blank">
+   <img alt="Flag-wavers-" class="aligncenter size-full wp-image-35434" data-recalc-dims="1" sizes="(max-width: 640px) 100vw, 640px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/Flag-wavers-.jpeg?resize=640,418" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/Flag-wavers-.jpeg?w=640 640w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/Flag-wavers-.jpeg?resize=300,196 300w" style="border: 1px solid black;"/>
+  </a>
+ </div>
+ <p>
+  Hundreds of people showed up today at the funeral of a Nashville Marine, but not to attend the service. Instead, they came to form a counter-protest to a group that has picketed thousands of military funerals across the country.
+ </p>
+ <p>
+  Twenty-seven-year-old Sergeant Kevin Balduf was killed in a fire fight in Afghanistan last month. The Westboro Baptist Church, a Kansas fundamentalist group, came out to protest the funeral. Friends of the marine started an internet campaign to form a protective shield outside the funeral.
+ </p>
+</blockquote>

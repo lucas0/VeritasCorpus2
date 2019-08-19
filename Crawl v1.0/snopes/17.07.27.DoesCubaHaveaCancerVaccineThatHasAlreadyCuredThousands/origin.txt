@@ -1,0 +1,11 @@
+<blockquote>
+ <p class="p3">
+  There are many scientists who have dedicated their life in the search for the cure, and there are many promising natural alternatives that can replace chemotherapy and radiation in the future.
+ </p>
+ <p class="p3">
+  The latest example is a research from Cuba, where a small group of scientists with a limited budget have been able to develop a vaccine against cancer that has cured more than 4000 people! The scientific community is impressed by the Cuban discovery, and many doctors claim that the cure for cancer has finally been found!
+ </p>
+ <p class="p3">
+  The vaccine has produced incredible results even in the more advanced stages of cancer. It finally saw the light of day after 16 years of intense research, and doesn’t have any adverse side-effects.
+ </p>
+</blockquote>

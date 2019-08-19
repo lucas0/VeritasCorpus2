@@ -1,0 +1,22 @@
+<blockquote>
+ <p>
+  Target marks items down with percentages: 15%, 30%, 50%, 75% &amp; 90%.
+ </p>
+ <p>
+  The upper right hand corner of the price tag will tell you the percentage off.
+ </p>
+ <p>
+  Item will remain at a percentage off for usually two weeks before progressing to the next level.
+ </p>
+ <p>
+  Consumable items, furniture, and electronics are generally the only things that go 15%.
+ </p>
+ <p>
+  Target’s full prices end in 9. Thereafter each price drop will reduce the final digit in the price to either an 8, 6, or 4. (e.g., A $9.99 item at 30% off will be priced $6.98)
+ </p>
+ <p>
+  The lowest the last digit will drop is to 4. If you see something you want and the price ends in 4, buy it. The price won’t go any lower.
+  <br>
+  </br>
+ </p>
+</blockquote>

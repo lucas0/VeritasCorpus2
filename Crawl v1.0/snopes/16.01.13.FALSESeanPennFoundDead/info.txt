@@ -1,0 +1,6 @@
+Title: FALSE: Sean Penn Found Dead
+Claim: Actor Sean Penn was killed in January 2016.							See Example( s )
+Date: 16.01.13
+Link: https://www.snopes.com/sean-penn-death-hoax/
+Verdict: false
+

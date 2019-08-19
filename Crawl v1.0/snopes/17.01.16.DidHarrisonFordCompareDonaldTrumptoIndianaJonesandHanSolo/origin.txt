@@ -1,0 +1,13 @@
+<blockquote>
+ <div style="text-align: center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/harrison-ford.jpg" target="_blank">
+   <img alt="harrison ford" class="alignnone size-full wp-image-72647" data-recalc-dims="1" sizes="(max-width: 750px) 100vw, 750px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/harrison-ford.jpg?resize=750,572" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/harrison-ford.jpg?w=750 750w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/harrison-ford.jpg?resize=300,229 300w"/>
+  </a>
+ </div>
+ <p>
+  <em>
+   For me, Donald Trump is Han Solo, Indiana Jones and Jack Ryan all rolled up into one person. He’s a swashbuckling patriot who puts his ass on the line to help his team. He’s going to be an amazing president
+  </em>
+  .
+ </p>
+</blockquote>

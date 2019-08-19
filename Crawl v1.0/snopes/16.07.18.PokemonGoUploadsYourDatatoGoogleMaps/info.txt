@@ -1,0 +1,6 @@
+Title: Pokemon Go Uploads Your Data to Google Maps
+Claim: The Pokemon Go app is covertly passing information to Google Maps as well as the National Security Agency (NSA).							See Example( s )
+Date: 16.07.18
+Link: https://www.snopes.com/pokemon-go-uploads-your-data-to-google-maps/
+Verdict: false
+

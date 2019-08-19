@@ -1,0 +1,6 @@
+Title: Is Portugal an Example of What Happens Without Net Neutrality?
+Claim: Portugal doesn't have net neutrality regulations, and is an example of what happens without such laws; for example, a Portuguese telecommunications company, MEO, is parceling out access to specific broadband apps and content on a fee-for-service basis.
+Date: 17.12.04
+Link: https://www.snopes.com/portugal-net-neutrality/
+Verdict: mfalse
+

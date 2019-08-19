@@ -1,0 +1,26 @@
+<blockquote>
+ <p>
+  Hillary, an amateur genealogical researcher, discovered that her great-great uncle, Remus Rodham, a fellow lacking in character, was hanged for horse stealing and train robbery in Montana in 1889. The only known photograph of Remus shows him standing on the gallows.
+ </p>
+ <p>
+  <center>
+   <img data-src="https://www.snopes.com/uploads/images/politics/graphics/horsethief.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+   <noscript>
+    <img data-recalc-dims="1" src="https://us-east-1.tchyn.io/snopes-production/uploads/images/politics/graphics/horsethief.jpg"/>
+   </noscript>
+  </center>
+  On the back of the picture is this inscription:
+ </p>
+ <p>
+  “Remus Rodham; horse thief, sent to Montana Territorial Prison 1885, escaped 1887, robbed the Montana Flyer six times. Caught by Pinkerton detectives, convicted and hanged in 1889.”
+ </p>
+ <p>
+  In Hillary’s Family History, her staff of professional image consultants cropped Remus’s picture, scanned it, enlarged the image, and edited it with image processing software so that all that’s seen is a head shot.
+ </p>
+ <p>
+  The accompanying biographical sketch is as follows:
+ </p>
+ <p>
+  “Remus Rodham was a famous cowboy in the Montana Territory. His business empire grew to include acquisition of valuable equestrian assets and intimate dealings with the Montana railroad. Beginning in 1883, he devoted several years of his life to service at a government facility, finally taking leave to resume his dealings with the railroad. In 1887, he was a key player in a vital investigation run by the renowned Pinkerton Detective Agency. In 1889, Remus passed away during an important civic function held in his honor when the platform upon which he was standing collapsed.”
+ </p>
+</blockquote>

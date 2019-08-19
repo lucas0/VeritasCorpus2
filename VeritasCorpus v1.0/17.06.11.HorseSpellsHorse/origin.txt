@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  This horse photo has been circulating on facebook. I think it’s photoshopped, but I’m no expert. I’ve never seen a story attached to it claiming it’s authenticity. Strange patterns have been known to show up on paint horses, but this looks a little too good to be true.
+ </p>
+ <p>
+  <center>
+   <img data-recalc-dims="1" src="https://us-east-1.tchyn.io/snopes-production/uploads/images/photos/animals/graphics/horsehorse.jpg?resize=500,423"/>
+  </center>
+  <br>
+  </br>
+ </p>
+</blockquote>

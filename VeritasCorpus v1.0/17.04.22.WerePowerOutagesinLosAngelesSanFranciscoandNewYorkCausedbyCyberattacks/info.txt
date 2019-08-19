@@ -1,0 +1,6 @@
+Title: Were Power Outages in Los Angeles, San Francisco and New York Caused by Cyberattacks?
+Claim: Three power outages that coincided in Los Angeles, San Francisco and New York were caused by Russian hacking.
+Date: 17.04.22
+Link: https://www.snopes.com/power-outages-la-sf-nyc/
+Verdict: false
+

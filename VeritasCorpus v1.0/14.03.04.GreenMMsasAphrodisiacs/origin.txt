@@ -1,0 +1,9 @@
+<blockquote>
+ <p>
+  After
+  <!--
+<IMG HSPACE=16 VSPACE=16 ALT="Green M&M character" SRC="https://us-east-1.tchyn.io/snopes-production/uploads/images/risque/graphics/mandm.gif?resize=86,103" ALIGN=RIGHT BORDER=0 data-recalc-dims="1">
+-->
+  decades of skirting urban myth, M&amp;M/Mars is cashing in on the legendary aphrodisiac powers of green M&amp;Ms. Boasting bedroom eyes and luscious lips, Green, the M&amp;M character introduced in 1997, has been vamping across movie and TV screens and magazine pages for an ad campaign suggestively titled, “What is it about the Green Ones?” The spots, which will run through the fall, are accompanied by green M&amp;Ms stamped with Green’s come-hither mug, tucked into M&amp;M bags starting [in September 2001].
+ </p>
+</blockquote>

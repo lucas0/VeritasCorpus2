@@ -1,0 +1,32 @@
+<blockquote>
+ <p>
+  Here we show that when carefully treated for spatial consistency, global positioning system-derived vertical velocities expose a small-amplitude (±2
+  <span class="mb">
+   <span class="mb">
+   </span>
+  </span>
+  mm
+  <span class="mb">
+   <span class="mb">
+   </span>
+  </span>
+  yr
+  <sup>
+   −1
+  </sup>
+  ), but spatially considerable (200
+  <span class="mb">
+   <span class="mb">
+   </span>
+  </span>
+  km), coherent pattern of uplift and subsidence straddling the fault system in southern California. We employ the statistical method of model selection to isolate this vertical velocity field from non-tectonic signals that induce velocity variations in both magnitude and direction across small distances (less than tens of kilometres; ref.
+  <a href="http://www.nature.com/ngeo/journal/vaop/ncurrent/full/ngeo2741.html#ref9" id="ref-link-9" target="_blank" title="Blume, F. et al. Stability of GNSS Monumentation: Analysis of Co-Located Monuments in the Plate Boundary Observatory Fall Meeting 9-13 December, abstract number G51B-04 (American Geophysical Union, 2013).">
+   9
+  </a>
+  ), and find remarkable agreement with the sense of vertical motions predicted by physical earthquake cycle models spanning the past few centuries
+  <span style="font-size: 12.75px; line-height: 0px;">
+   .
+  </span>
+  We suggest that these motions reveal the subtle, but identifiable, tectonic fingerprint of far-field flexure due to more than 300 years of fault locking and creeping depth variability.
+ </p>
+</blockquote>

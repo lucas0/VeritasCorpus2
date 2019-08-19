@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  The transcripts of calls and meetings between former US President Bill Clinton and former UK Prime Minister Tony Blair have been made public.
+ </p>
+ <div class="hide-wrapper extra-content">
+  <p>
+   They reveal that the two leaders had a fairly close personal relationship.
+  </p>
+ </div>
+</blockquote>

@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/skeleton-scarecrow.png" target="_blank">
+   <img alt="" class="aligncenter wp-image-97767" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/skeleton-scarecrow.png?resize=600,881" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/skeleton-scarecrow.png?w=480 480w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/skeleton-scarecrow.png?resize=204,300 204w" style="border: 1px solid black;"/>
+  </a>
+  <br>
+   In the early 2000s, a man bought a ranch in Texas. He noticed a scarecrow in the middle of his land. He went up to it and smelt something rotting. He took the clothes off the scarecrow and discovered it was a human skeleton. This is the photo he took before authorities arrived.
+  </br>
+ </p>
+</blockquote>

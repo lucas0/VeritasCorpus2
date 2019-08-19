@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  The compound works by three ways essentially: it kills the tumour cells directly, it cuts off the blood supply and it also activates the body’s own immune system to clean up the mess that’s left behind.
+ </p>
+</blockquote>

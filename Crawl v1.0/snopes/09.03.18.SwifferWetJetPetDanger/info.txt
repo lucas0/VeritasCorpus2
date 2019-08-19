@@ -1,0 +1,6 @@
+Title: Swiffer WetJet Pet Danger
+Claim: The Swiffer WetJet poses a general danger to dogs and other household pets.
+Date: 09.03.18
+Link: https://www.snopes.com/critters/crusader/swiffer.asp
+Verdict: false
+

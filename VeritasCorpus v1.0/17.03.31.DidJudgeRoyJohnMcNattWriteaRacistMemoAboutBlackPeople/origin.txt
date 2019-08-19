@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/03/racist-memo.jpg" target="_blank">
+   <img class="black-border aligncenter wp-image-84231" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/03/racist-memo.jpg?resize=600,1091" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/03/racist-memo.jpg?w=528 528w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/03/racist-memo.jpg?resize=165,300 165w"/>
+  </a>
+ </p>
+ <p>
+  “I need your help in getting rid of Blacks in the Road Dept. All I need Blacks for is votes, nothing else pass that. This letter is confidential between you and I, once read please destroy.”
+ </p>
+</blockquote>

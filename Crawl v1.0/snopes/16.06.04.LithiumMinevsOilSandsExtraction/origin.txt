@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  Rio Tinto has a 30% interest in Chile’s Escondida, the world’s largest copper-producing mine, which is managed by BHP Billiton.
+ </p>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/escondida-mine-photo.jpg" target="_blank">
+   <img alt="escondida mine photo" class="aligncenter size-full wp-image-35973" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/escondida-mine-photo.jpg?resize=600,400" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/escondida-mine-photo.jpg?w=600 600w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/escondida-mine-photo.jpg?resize=300,200 300w"/>
+  </a>
+ </div>
+</blockquote>

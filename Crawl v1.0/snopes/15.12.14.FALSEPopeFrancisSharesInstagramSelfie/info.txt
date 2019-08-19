@@ -1,0 +1,6 @@
+Title: FALSE: Pope Francis Shares Instagram Selfie
+Claim: Pope Francis uploaded a selfie to the Vatican's Instagram account.							See Example( s )
+Date: 15.12.14
+Link: https://www.snopes.com/pope-francis-shares-instagram-selfie/
+Verdict: false
+

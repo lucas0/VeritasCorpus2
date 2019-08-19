@@ -1,0 +1,6 @@
+Title: Solar Eclipse from Space
+Claim: A photograph captures a solar eclipse as seen from space.
+Date: 17.08.21
+Link: https://www.snopes.com/photos/space/solareclipse.asp
+Verdict: false
+

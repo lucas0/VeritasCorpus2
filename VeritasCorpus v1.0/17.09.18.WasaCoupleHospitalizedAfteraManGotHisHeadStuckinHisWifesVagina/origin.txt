@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/fake-news-photo.jpg" target="_blank">
+   <img alt="" class="aligncenter size-full wp-image-104080" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/fake-news-photo.jpg?resize=600,315" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/fake-news-photo.jpg?w=600 600w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/fake-news-photo.jpg?resize=300,158 300w"/>
+  </a>
+ </p>
+ <p>
+  A couple was transported to the hospital in a very awkward position last night after a man somehow got his head stuck in his wife’s vagina during a strange sexual game.
+ </p>
+ <p>
+  Tom and Janis Morrison, a young couple from the small town of Greensboro in Alabama, called 911 around 10:00 pm last night to ask for an ambulance.
+ </p>
+</blockquote>

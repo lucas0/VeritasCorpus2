@@ -1,0 +1,7 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/love-on-the-rough-robot.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-97319" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/love-on-the-rough-robot.jpg?resize=600,475" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/love-on-the-rough-robot.jpg?w=650 650w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/love-on-the-rough-robot.jpg?resize=300,238 300w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+</blockquote>

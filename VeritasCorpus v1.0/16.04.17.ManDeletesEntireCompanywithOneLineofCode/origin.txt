@@ -1,0 +1,9 @@
+<blockquote>
+ <p>
+  I run a small hosting provider with more or less 1535 customers and I use Ansible to automate some operations to be run on all servers. Last night I accidentally ran, on all servers, a Bash script with a rm -rf {foo}/{bar} with those variables undefined due to a bug in the code above this line.
+  <a href="http://serverfault.com/questions/769357/recovering-from-a-rm-rf" target="_blank">
+   All servers got deleted and the offsite backups too
+  </a>
+  because the remote storage was mounted just before by the same script (that is a backup maintenance script).
+ </p>
+</blockquote>

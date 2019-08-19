@@ -1,0 +1,6 @@
+Title: Does FamilyTreeNow Display Sensitive Personal Information?
+Claim: A web site allows criminals to look up the personal information of police officers.
+Date: 17.01.10
+Link: https://www.snopes.com/sensitive-personal-information-police-officers/
+Verdict: mtrue
+

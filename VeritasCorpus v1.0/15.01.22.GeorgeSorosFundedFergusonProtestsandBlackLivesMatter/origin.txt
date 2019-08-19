@@ -1,0 +1,20 @@
+<blockquote>
+ <p>
+  The Open Society Foundations work to build vibrant and tolerant societies whose governments are accountable and open to the participation of all people.
+ </p>
+ <p>
+  We seek to strengthen the rule of law; respect for human rights, minorities, and a diversity of opinions; democratically elected governments; and a civil society that helps keep government power in check.
+ </p>
+ <p>
+  We help to shape public policies that assure greater fairness in political, legal, and economic systems and safeguard fundamental rights.
+ </p>
+ <p>
+  We implement initiatives to advance justice, education, public health, and independent media.
+ </p>
+ <p>
+  We build alliances across borders and continents on issues such as corruption and freedom of information.
+ </p>
+ <p>
+  Working in every part of the world, the Open Society Foundations place a high priority on protecting and improving the lives of people in marginalized communities.
+ </p>
+</blockquote>

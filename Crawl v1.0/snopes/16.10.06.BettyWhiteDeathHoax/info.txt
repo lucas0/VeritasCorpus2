@@ -1,0 +1,6 @@
+Title: Betty White Death Hoax
+Claim: Actress Betty White has died.
+Date: 16.10.06
+Link: https://www.snopes.com/media/notnews/bettywhite.asp
+Verdict: false
+

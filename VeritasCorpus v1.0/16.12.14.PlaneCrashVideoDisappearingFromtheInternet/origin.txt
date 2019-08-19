@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  These vehicles were considered a special cargo load because they could not be placed in unit load devices (ULDs) and restrained in the airplane using the locking capabilities of the airplane’s main deck cargo handling system. Instead, the vehicles were secured to centerline-loaded floating pallets and restrained to the airplane’s main deck using tie-down straps. During takeoff, the airplane immediately climbed steeply then descended in a manner consistent with an aerodynamic stall. The National Transportation Safety Board’s (NTSB) investigation found strong evidence that at least one of the MRAP vehicles (the rear M-ATV) moved aft into the tail section of the airplane, damaging hydraulic systems and horizontal stabilizer components such that it was impossible for the flight crew to regain pitch control of the airplane.
+ </p>
+</blockquote>

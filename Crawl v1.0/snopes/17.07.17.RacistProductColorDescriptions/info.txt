@@ -1,0 +1,6 @@
+Title: Racist Product Color Descriptions
+Claim: Modern products still sometimes bear labels and descriptions that include a color named for a racial pejorative.
+Date: 17.07.17
+Link: https://www.snopes.com/racial/business/sofa.asp
+Verdict: true
+

@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  FPL’s lobbying wing has fought hard against letting Floridians power their own homes with solar panels. Thanks to power-company rules, it’s impossible across Florida to simply buy a solar panel and power your individual home with it. You are instead
+  <a href="http://www.wftv.com/news/local/want-solar-panels-you-still-have-to-pay-florida-utilities/276475576" rel="noopener" target="_blank">
+   legally mandated to connect your panels to your local electric grid
+  </a>
+  .
+ </p>
+ <p>
+  More egregious, FPL mandates that if the power goes out, your solar-power system must power down along with the rest of the grid, robbing potentially needy people of power during major outages.
+ </p>
+</blockquote>

@@ -1,0 +1,6 @@
+Title: Chimpanzee Rapidly Memorizes, Locates Numbers on a Screen
+Claim: A video shows a chimpanzee rapidly memorizing the location of numbers from 1-9 on a touch screen, demonstrating its ability to recall their location by tapping (in sequential order) boxes that covered those numbers after a fraction of a second.							See Example( s )
+Date: 16.09.04
+Link: https://www.snopes.com/chimpanzee-rapidly-memorizes-locates-numbers-on-a-screen/
+Verdict: mtrue
+

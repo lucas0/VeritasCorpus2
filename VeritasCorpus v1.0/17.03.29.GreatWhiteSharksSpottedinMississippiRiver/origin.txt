@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  <center>
+   <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/great-white-sharks.jpg" target="_blank">
+    <img alt="great white sharks" class="black-border aligncenter wp-image-60958" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/great-white-sharks.jpg?resize=600,450" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/great-white-sharks.jpg?w=640 640w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/great-white-sharks.jpg?resize=300,225 300w"/>
+   </a>
+  </center>
+ </p>
+ <p>
+  While it is not entirely impossible, it is incredibly uncommon for salt water dwelling creatures to stay for lengthy periods of time in fresh water. However, two Great White Sharks have managed to survive the trip and make their way up the Mississippi River and in to the Illinois River somehow. Believed to have started as a mating couple, the two are assumed to have swam the 1250 mile journey to the Chicago suburb River from the mouth of the Mississippi River that is also connected to the Gulf Of Mexico perhaps ending up at their current location as a recent influx of Asian Carp would be a great feeding ground for the apex predators. Officials in Morris have contacted the Illinois Department of Natural Resources and will likely have a team in the river soon to capture the two lost sharks.
+ </p>
+</blockquote>

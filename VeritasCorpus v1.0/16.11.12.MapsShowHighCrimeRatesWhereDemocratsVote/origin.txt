@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  Google it if you don’t believe us. This is not a coincidence.
+ </p>
+ <div style="text-align: center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/map-crime-election.jpg" target="_blank">
+   <img alt="map crime election" class="alignnone size-full wp-image-63357" data-recalc-dims="1" sizes="(max-width: 950px) 100vw, 950px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/map-crime-election.jpg?resize=950,950" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/map-crime-election.jpg?w=950 950w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/map-crime-election.jpg?resize=150,150 150w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/map-crime-election.jpg?resize=300,300 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/map-crime-election.jpg?resize=768,768 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/map-crime-election.jpg?resize=32,32 32w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/map-crime-election.jpg?resize=50,50 50w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/map-crime-election.jpg?resize=64,64 64w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/map-crime-election.jpg?resize=96,96 96w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/11/map-crime-election.jpg?resize=128,128 128w"/>
+  </a>
+ </div>
+</blockquote>

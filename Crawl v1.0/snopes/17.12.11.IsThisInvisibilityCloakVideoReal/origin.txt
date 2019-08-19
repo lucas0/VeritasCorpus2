@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/12/weibo.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-118514" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/12/weibo.jpg?resize=600,460" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/12/weibo.jpg?w=586 586w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/12/weibo.jpg?resize=300,230 300w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  [Translation Via Google Translate] Quantum cloak is made of quantum stealth material into clothing, by reflecting the light waves around the wearer, can make people wearing such clothes to achieve “invisible” effect. This technology can be more used in the military, so soldiers like to wear “stealth military uniform”, but also can avoid night vision goggles. My question is criminals used stealth clothes police supposed to!?
+ </p>
+</blockquote>

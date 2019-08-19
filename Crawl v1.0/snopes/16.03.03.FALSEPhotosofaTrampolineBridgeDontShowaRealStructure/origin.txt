@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  The program challenges participants to design a New Contemporary Bridge over the Seine River in Paris. The new Bridge should create a new Icon or landmark in Paris, considering that there are approximately 37 Bridges over the Seine. The design should take into account the position of the location and the expectation for Iconic bridge in a city like Paris.
+ </p>
+</blockquote>

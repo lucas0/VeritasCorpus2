@@ -1,0 +1,6 @@
+Title: A Fake Tweet from Donald Trump
+Claim: Donald Trump tweeted that his "grandparents didn't come to America" to see the country taken over by immigrants.							See Example( s )
+Date: 15.12.22
+Link: https://www.snopes.com/donald-trump-fake-tweet/
+Verdict: false
+

@@ -1,0 +1,23 @@
+<blockquote>
+ <p>
+  Pay attention when buying toothpaste, at the bottom of the toothpaste tube there is a color bar. And do you only know the original meaning of the color bar!  Try to choose green and blue, there are four kinds:
+ </p>
+ <p>
+  Green: natural;
+  <br>
+   Blue : Natural + Medicine;
+   <br/>
+   Red : Natural + Chemical composition;
+   <br/>
+   Black : pure chemical.
+  </br>
+ </p>
+ <p>
+  please share to all……
+ </p>
+ <p>
+  <center>
+   <img alt="" class="aligncenter size-full wp-image-128544" data-recalc-dims="1" sizes="(max-width: 578px) 100vw, 578px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/07/toothpastecode.jpg?resize=578,566" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/07/toothpastecode.jpg?w=578 578w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/07/toothpastecode.jpg?resize=300,294 300w"/>
+  </center>
+ </p>
+</blockquote>

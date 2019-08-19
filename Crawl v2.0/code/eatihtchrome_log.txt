@@ -1,0 +1,328 @@
+[1527263487.350][INFO]: COMMAND InitSession {
+   "capabilities": {
+      "alwaysMatch": {
+         "browserName": "chrome",
+         "goog:chromeOptions": {
+            "args": [ "--headless", "--dns-prefetch-disable", "--window-size=1920x1080" ],
+            "extensions": [  ]
+         },
+         "platformName": "any"
+      },
+      "firstMatch": [ {
+
+      } ]
+   },
+   "desiredCapabilities": {
+      "browserName": "chrome",
+      "goog:chromeOptions": {
+         "args": [ "--headless", "--dns-prefetch-disable", "--window-size=1920x1080" ],
+         "extensions": [  ]
+      },
+      "platform": "ANY",
+      "version": ""
+   }
+}
+[1527263487.353][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1527263487.353][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1527263487.354][INFO]: Launching chrome: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --disable-background-networking --disable-client-side-phishing-detection --disable-default-apps --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --disable-web-resources --dns-prefetch-disable --enable-automation --enable-logging --force-fieldtrials=SiteIsolationExtensions/Control --headless --ignore-certificate-errors --load-extension=/var/folders/z3/93wl_lbs047dbzf9fyngpzxm0000gn/T/.org.chromium.Chromium.VJD4b4/internal --log-level=0 --metrics-recording-only --no-first-run --password-store=basic --remote-debugging-port=12253 --test-type=webdriver --use-mock-keychain --user-data-dir=/var/folders/z3/93wl_lbs047dbzf9fyngpzxm0000gn/T/.org.chromium.Chromium.x9SO6S --window-size=1920x1080 data:,
+[1527263487.594][INFO]: resolved localhost to ["127.0.0.1","::1"]
+[1527263487.716][INFO]: RESPONSE InitSession {
+   "acceptInsecureCerts": false,
+   "acceptSslCerts": false,
+   "applicationCacheEnabled": false,
+   "browserConnectionEnabled": false,
+   "browserName": "chrome",
+   "chrome": {
+      "chromedriverVersion": "2.38.552518 (183d19265345f54ce39cbb94cf81ba5f15905011)",
+      "userDataDir": "/var/folders/z3/93wl_lbs047dbzf9fyngpzxm0000gn/T/.org.chromium.Chromium.x9SO6S"
+   },
+   "cssSelectorsEnabled": true,
+   "databaseEnabled": false,
+   "handlesAlerts": true,
+   "hasTouchScreen": false,
+   "javascriptEnabled": true,
+   "locationContextEnabled": true,
+   "mobileEmulationEnabled": false,
+   "nativeEvents": true,
+   "networkConnectionEnabled": false,
+   "pageLoadStrategy": "normal",
+   "platform": "Mac OS X",
+   "rotatable": false,
+   "setWindowRect": true,
+   "~~~": "..."
+}
+[1527263532.998][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "https://archive.is/mGXnF"
+}
+[1527263532.998][INFO]: Waiting for pending navigations...
+[1527263533.005][INFO]: Done waiting for pending navigations. Status: ok
+[1527263608.725][INFO]: Waiting for pending navigations...
+[1527263608.760][INFO]: Done waiting for pending navigations. Status: ok
+[1527263608.760][INFO]: RESPONSE Navigate
+[1527263608.760][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "https://www.justice.gov/opa/pr/former-president-maryland-based-transportation-company-indicted-11-counts-related-foreign"
+}
+[1527263608.760][INFO]: Waiting for pending navigations...
+[1527263608.762][INFO]: Done waiting for pending navigations. Status: ok
+[1527263609.465][INFO]: Waiting for pending navigations...
+[1527263611.062][INFO]: Done waiting for pending navigations. Status: ok
+[1527263611.062][INFO]: RESPONSE Navigate
+[1527263611.062][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "http://archive.is/tUTVt"
+}
+[1527263611.062][INFO]: Waiting for pending navigations...
+[1527263611.063][INFO]: Done waiting for pending navigations. Status: ok
+[1527263686.876][INFO]: Waiting for pending navigations...
+[1527263686.919][INFO]: Done waiting for pending navigations. Status: ok
+[1527263686.919][INFO]: RESPONSE Navigate
+[1527263686.919][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "http://www.americanthinker.com/articles/2018/01/what_i_learned_in_peace_corps_in_africa_trump_is_right.html"
+}
+[1527263686.919][INFO]: Waiting for pending navigations...
+[1527263686.922][INFO]: Done waiting for pending navigations. Status: ok
+[1527263687.983][INFO]: Waiting for pending navigations...
+[1527263699.915][INFO]: Done waiting for pending navigations. Status: ok
+[1527263699.921][INFO]: RESPONSE Navigate
+[1527263699.921][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "http://www.intouchweekly.com/posts/stormy-daniels-full-interview-151788"
+}
+[1527263699.921][INFO]: Waiting for pending navigations...
+[1527263700.008][INFO]: Done waiting for pending navigations. Status: ok
+[1527263701.971][INFO]: Waiting for pending navigations...
+[1527263708.141][INFO]: Done waiting for pending navigations. Status: ok
+[1527263708.141][INFO]: RESPONSE Navigate
+[1527263708.141][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/Screen-Shot-2018-01-24-at-10.35.59.png"
+}
+[1527263708.141][INFO]: Waiting for pending navigations...
+[1527263708.142][INFO]: Done waiting for pending navigations. Status: ok
+[1527263709.804][INFO]: Waiting for pending navigations...
+[1527263709.813][INFO]: Done waiting for pending navigations. Status: ok
+[1527263709.813][INFO]: RESPONSE Navigate
+[1527263709.813][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "https://www.avclub.com/what-is-up-with-this-fake-ass-looking-trailer-for-danny-1822263751"
+}
+[1527263709.813][INFO]: Waiting for pending navigations...
+[1527263709.821][INFO]: Done waiting for pending navigations. Status: ok
+[1527263710.835][INFO]: Waiting for pending navigations...
+[1527263723.872][INFO]: Done waiting for pending navigations. Status: ok
+[1527263723.874][INFO]: RESPONSE Navigate
+[1527263731.145][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "http://archive.is/LMBa4"
+}
+[1527263731.145][INFO]: Waiting for pending navigations...
+[1527263731.148][INFO]: Done waiting for pending navigations. Status: ok
+[1527263807.171][INFO]: Waiting for pending navigations...
+[1527263807.177][INFO]: Done waiting for pending navigations. Status: ok
+[1527263807.177][INFO]: RESPONSE Navigate
+[1527263807.177][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "https://archive.is/KL3bk"
+}
+[1527263807.177][INFO]: Waiting for pending navigations...
+[1527263807.178][INFO]: Done waiting for pending navigations. Status: ok
+[1527263883.280][INFO]: Waiting for pending navigations...
+[1527263883.302][INFO]: Done waiting for pending navigations. Status: ok
+[1527263883.302][INFO]: RESPONSE Navigate
+[1527263883.302][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "https://www.washingtonpost.com/business/economy/house-poised-to-pass-its-tax-bill-as-senate-plan-suffers-setbacks/2017/11/16/62d92fa4-cad7-11e7-8321-481fd63f174d_story.html"
+}
+[1527263883.302][INFO]: Waiting for pending navigations...
+[1527263883.307][INFO]: Done waiting for pending navigations. Status: ok
+[1527263884.622][INFO]: Waiting for pending navigations...
+[1527263884.632][INFO]: Done waiting for pending navigations. Status: ok
+[1527263884.632][INFO]: RESPONSE Navigate
+[1527263884.634][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "http://archive.is/EP8Ti"
+}
+[1527263884.634][INFO]: Waiting for pending navigations...
+[1527263884.635][INFO]: Done waiting for pending navigations. Status: ok
+[1527263960.840][INFO]: Waiting for pending navigations...
+[1527263960.843][INFO]: Done waiting for pending navigations. Status: ok
+[1527263960.843][INFO]: RESPONSE Navigate
+[1527263960.843][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "http://www.cnn.com/2017/06/23/politics/trump-veterans-reform-bill-signing/index.html"
+}
+[1527263960.843][INFO]: Waiting for pending navigations...
+[1527263960.851][INFO]: Done waiting for pending navigations. Status: ok
+[1527263962.578][INFO]: Waiting for pending navigations...
+[1527264004.161][INFO]: Done waiting for pending navigations. Status: ok
+[1527264004.162][INFO]: RESPONSE Navigate
+[1527264004.162][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "https://www.washingtonpost.com/news/morning-mix/wp/2018/01/22/ice-detains-a-polish-doctor-and-green-card-holder-who-has-lived-in-the-u-s-for-nearly-40-years/?utm_term=.249a0f8802ef"
+}
+[1527264004.162][INFO]: Waiting for pending navigations...
+[1527264004.237][INFO]: Done waiting for pending navigations. Status: ok
+[1527264005.517][INFO]: Waiting for pending navigations...
+[1527264005.519][INFO]: Done waiting for pending navigations. Status: ok
+[1527264005.519][INFO]: RESPONSE Navigate
+[1527264005.519][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "http://www.newsweek.com/hillary-clinton-president-lawrence-lessig-post-686077"
+}
+[1527264005.519][INFO]: Waiting for pending navigations...
+[1527264005.523][INFO]: Done waiting for pending navigations. Status: ok
+[1527264005.932][INFO]: Waiting for pending navigations...
+[1527264034.013][INFO]: Done waiting for pending navigations. Status: ok
+[1527264034.014][INFO]: RESPONSE Navigate
+[1527264034.014][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "https://t.co/Z44efALcX5"
+}
+[1527264034.014][INFO]: Waiting for pending navigations...
+[1527264034.099][INFO]: Done waiting for pending navigations. Status: ok
+[1527264035.170][INFO]: Waiting for pending navigations...
+[1527264041.121][INFO]: Done waiting for pending navigations. Status: ok
+[1527264041.121][INFO]: RESPONSE Navigate
+[1527264041.121][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "http://www.angelfire.com/az/sthurston/Hiding_Behind_the_BAR.html"
+}
+[1527264041.121][INFO]: Waiting for pending navigations...
+[1527264041.151][INFO]: Done waiting for pending navigations. Status: ok
+[1527264041.734][INFO]: Waiting for pending navigations...
+[1527264042.503][INFO]: Done waiting for pending navigations. Status: ok
+[1527264042.503][INFO]: RESPONSE Navigate
+[1527264042.503][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "https://www.nytimes.com/2018/01/18/health/flu-season-facts.html"
+}
+[1527264042.503][INFO]: Waiting for pending navigations...
+[1527264042.507][INFO]: Done waiting for pending navigations. Status: ok
+[1527264043.875][INFO]: Waiting for pending navigations...
+[1527264065.584][INFO]: Done waiting for pending navigations. Status: ok
+[1527264065.584][INFO]: RESPONSE Navigate
+[1527264065.584][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "http://archive.is/mmMyw"
+}
+[1527264065.584][INFO]: Waiting for pending navigations...
+[1527264065.803][INFO]: Done waiting for pending navigations. Status: ok
+[1527264142.608][INFO]: Waiting for pending navigations...
+[1527264142.656][INFO]: Done waiting for pending navigations. Status: ok
+[1527264142.656][INFO]: RESPONSE Navigate
+[1527264142.657][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "https://www.thedailybeast.com/the-inmates-fighting-californias-deadly-fires"
+}
+[1527264142.657][INFO]: Waiting for pending navigations...
+[1527264142.661][INFO]: Done waiting for pending navigations. Status: ok
+[1527264143.624][INFO]: Waiting for pending navigations...
+[1527264147.924][INFO]: Done waiting for pending navigations. Status: ok
+[1527264147.927][INFO]: RESPONSE Navigate
+[1527264147.927][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "http://www.miaminewtimes.com/news/video-shows-border-agents-pulling-woman-off-south-florida-greyhound-bus-10016554"
+}
+[1527264147.927][INFO]: Waiting for pending navigations...
+[1527264147.928][INFO]: Done waiting for pending navigations. Status: ok
+[1527264148.511][INFO]: Waiting for pending navigations...
+[1527264169.645][INFO]: Done waiting for pending navigations. Status: ok
+[1527264170.581][INFO]: RESPONSE Navigate
+[1527264170.581][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "https://t.co/aEpqrkJZg4"
+}
+[1527264170.790][INFO]: Waiting for pending navigations...
+[1527264170.845][INFO]: Done waiting for pending navigations. Status: ok
+[1527264173.164][INFO]: Waiting for pending navigations...
+[1527264173.309][INFO]: Done waiting for pending navigations. Status: ok
+[1527264173.309][INFO]: RESPONSE Navigate
+[1527264173.309][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "https://archive.is/CXF4x"
+}
+[1527264173.309][INFO]: Waiting for pending navigations...
+[1527264173.338][INFO]: Done waiting for pending navigations. Status: ok
+[1527264249.496][INFO]: Waiting for pending navigations...
+[1527264249.515][INFO]: Done waiting for pending navigations. Status: ok
+[1527264249.515][INFO]: RESPONSE Navigate
+[1527264249.515][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "https://www.thesun.ie/news/2046453/smitten-louth-mum-45-ditches-real-life-men-and-marries-a-300-year-old-pirate-ghost-and-insists-sex-with-a-spirit-goes-a-lot-deeper/"
+}
+[1527264249.515][INFO]: Waiting for pending navigations...
+[1527264249.516][INFO]: Done waiting for pending navigations. Status: ok
+[1527264250.939][INFO]: Waiting for pending navigations...
+[1527264280.753][INFO]: Done waiting for pending navigations. Status: ok
+[1527264280.761][INFO]: RESPONSE Navigate
+[1527264280.761][INFO]: COMMAND Navigate {
+   "sessionId": "c5a94a14696d47d0a1ff39c376c6a06f",
+   "url": "http://www.independent.co.uk/news/people/news/cougar-town-reunites-courteney-cox-and-lisa-kudrow-1858335.html"
+}
+[1527264280.761][INFO]: Waiting for pending navigations...
+[1527264280.778][INFO]: Done waiting for pending navigations. Status: ok
+[1527264282.180][INFO]: Waiting for pending navigations...

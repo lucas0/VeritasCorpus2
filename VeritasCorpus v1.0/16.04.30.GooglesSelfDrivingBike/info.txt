@@ -1,0 +1,6 @@
+Title: Google’s Self-Driving Bike
+Claim: A video shows a 'self-driving bicycle' created by Google.
+Date: 16.04.30
+Link: https://www.snopes.com/google-self-driving-bicycle/
+Verdict: false
+

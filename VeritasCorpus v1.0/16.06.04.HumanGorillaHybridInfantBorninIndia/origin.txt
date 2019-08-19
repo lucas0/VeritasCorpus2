@@ -1,0 +1,7 @@
+<blockquote>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/humanzee.jpg" target="_blank">
+   <img alt="humanzee" class="aligncenter size-full wp-image-36033" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/humanzee.jpg?resize=600,397" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/humanzee.jpg?w=600 600w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/humanzee.jpg?resize=300,199 300w"/>
+  </a>
+ </div>
+</blockquote>

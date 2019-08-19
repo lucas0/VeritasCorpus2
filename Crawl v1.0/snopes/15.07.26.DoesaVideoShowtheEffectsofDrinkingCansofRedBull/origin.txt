@@ -1,0 +1,7 @@
+<blockquote>
+ <p>
+  <span style="color: #e51919; font-size: large; font-weight: bold;">
+   WARNING
+  </span>
+ </p>
+</blockquote>

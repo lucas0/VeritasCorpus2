@@ -1,0 +1,6 @@
+Title: ‘Welcome to Australia’
+Claim: A photograph shows a "Wecome to Australia" sign informing immigrants that they have to work to earn money.							See Example( s )
+Date: 16.04.17
+Link: https://www.snopes.com/welcome-australia-sign-fake/
+Verdict: false
+

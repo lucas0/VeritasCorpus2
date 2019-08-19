@@ -1,0 +1,6 @@
+Title: FALSE: Trump Tweets Image of Bernie Sanders in Gas Chamber
+Claim: Donald Trump tweeted an image in which he was depicted placing Bernie Sanders into a gas chamber.							See Example( s )
+Date: 16.01.24
+Link: https://www.snopes.com/donald-trump-bernie-sanders-gas-chamber/
+Verdict: mfalse
+

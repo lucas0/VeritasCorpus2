@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  We are aware that the U.S. Department of Transportation may assign a nonexplosive classification to nitrocellulose when it has been wetted with water or alcohol. This is based, in part, on the diminished likelihood of explosion in a transportation accident. Because the nitrocellulose retains its explosive characteristics when the water or alcohol is removed, the wetted nitrocellulose remains a nitrocellulose explosive, subject to the licensing, safety and security requirements of the Federal explosives regulations. However, based upon the diminished likelihood of wetted nitrocellulose exploding, ATF will consider variance requests to store the wetted material under an alternative arrangement.
+ </p>
+</blockquote>

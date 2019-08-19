@@ -1,0 +1,6 @@
+Title: Samsung’s Dog-Skinning Machine
+Claim: A machine used to skin dogs is manufactured and sold by Samsung.
+Date: 16.07.26
+Link: https://www.snopes.com/samsung-dog-skinning-machine/
+Verdict: false
+

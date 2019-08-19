@@ -1,0 +1,6 @@
+Title: Donald Trump’s ‘Nuclear’ Speech
+Claim: A tweet reproduces a 90-second long sentence from a Donald Trump speech.
+Date: 16.08.17
+Link: https://www.snopes.com/donald-trump-sentence/
+Verdict: true
+

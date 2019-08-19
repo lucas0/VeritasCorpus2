@@ -1,0 +1,14 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/FB_IMG_1448335855481.jpg" target="_blank">
+   <img alt="41 lb rat" class="aligncenter size-full wp-image-12809" data-recalc-dims="1" sizes="(max-width: 640px) 100vw, 640px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/FB_IMG_1448335855481.jpg?resize=640,637" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/FB_IMG_1448335855481.jpg?w=640 640w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/FB_IMG_1448335855481.jpg?resize=150,150 150w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/FB_IMG_1448335855481.jpg?resize=300,300 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/FB_IMG_1448335855481.jpg?resize=32,32 32w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/FB_IMG_1448335855481.jpg?resize=50,50 50w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/FB_IMG_1448335855481.jpg?resize=64,64 64w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/FB_IMG_1448335855481.jpg?resize=96,96 96w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/FB_IMG_1448335855481.jpg?resize=128,128 128w"/>
+  </a>
+  <br>
+   <span class="fbPhotosPhotoCaption" data-ft='{"tn":"K"}' id="fbPhotoSnowliftCaption" tabindex="0">
+    <span class="hasCaption">
+     41 pound rat recently caught in NYC… (via Chris Brannigan)
+    </span>
+   </span>
+  </br>
+ </p>
+</blockquote>

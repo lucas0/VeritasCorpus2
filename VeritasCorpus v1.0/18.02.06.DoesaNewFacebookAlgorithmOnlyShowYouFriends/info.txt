@@ -1,0 +1,6 @@
+Title: Does a New Facebook Algorithm Only Show You 26 Friends?
+Claim: A new Facebook algorithm only shows posts from about two dozen friends in your newsfeed.
+Date: 18.02.06
+Link: https://www.snopes.com/new-facebook-algorithm-26-friends/
+Verdict: false
+

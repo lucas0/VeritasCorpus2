@@ -1,0 +1,9 @@
+<blockquote>
+ <p>
+  I read an article:  Shocking connection: 97% of all terminal cancer patients previously had this dental procedure done.  Root canal. I have had
+  <nobr>
+   4 root
+  </nobr>
+  canals and am concerned about the validity of the information in this article.
+ </p>
+</blockquote>

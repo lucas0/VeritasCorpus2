@@ -1,0 +1,14 @@
+<blockquote>
+ <p class="story-body__introduction">
+  Absorbing, challenging and achingly beautiful – Radiohead delivered a typically Radiohead sort of set for Glastonbury’s opening night.
+ </p>
+ <p>
+  The Oxford quintet emerged, bathed in white light, to the haunting piano refrain of Daydreaming, from last year’s A Moon Shaped Pool album.
+ </p>
+ <p>
+  Two hours and 25 songs later, they closed with Karma Police, singing: “For a minute there, I lost myself.”
+ </p>
+ <p>
+  It felt like a perfect metaphor for the band’s power to transport an audience.
+ </p>
+</blockquote>

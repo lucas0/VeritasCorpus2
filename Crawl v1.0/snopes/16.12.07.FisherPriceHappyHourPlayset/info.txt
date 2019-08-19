@@ -1,0 +1,6 @@
+Title: Fisher Price Happy Hour Playset
+Claim: Fisher Price sells a "happy hour playset" including a bar, bar stools, and beer bottles.							See Example( s )
+Date: 16.12.07
+Link: https://www.snopes.com/fisher-price-happy-hour-playset/
+Verdict: false
+

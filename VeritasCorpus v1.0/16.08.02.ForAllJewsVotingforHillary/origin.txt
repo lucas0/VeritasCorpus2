@@ -1,0 +1,7 @@
+<blockquote>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/arafat2.jpg" target="_blank">
+   <img alt="arafat2" class="aligncenter size-full wp-image-44103" data-recalc-dims="1" sizes="(max-width: 594px) 100vw, 594px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/arafat2.jpg?resize=594,442" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/arafat2.jpg?w=594 594w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/arafat2.jpg?resize=300,223 300w"/>
+  </a>
+ </div>
+</blockquote>

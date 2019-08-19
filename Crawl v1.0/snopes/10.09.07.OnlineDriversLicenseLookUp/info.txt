@@ -1,0 +1,6 @@
+Title: Online Driver’s License Look-Up
+Claim: You can look up anyone's driver's license for free through the 'National Motor Vehicle Licence Organization' web site.							See Example( s )
+Date: 10.09.07
+Link: https://www.snopes.com/humor/iftrue/license.asp
+Verdict: false
+

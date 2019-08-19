@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  Hi, here is a link that may help you
+ </p>
+ <p>
+  <a href="http://www.outnumberhunger.com/samsclub/" target="_blank">
+   http://www.outnumberhunger.com/samsclub/
+  </a>
+ </p>
+</blockquote>

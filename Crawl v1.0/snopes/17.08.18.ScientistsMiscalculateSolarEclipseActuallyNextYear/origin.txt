@@ -1,0 +1,17 @@
+<blockquote>
+ <p>
+  HOUSTON, TX — After double-checking their math, scientists have announced that the total lunar eclipse predicted for August 21, 2017, will occur August 3, 2018.
+ </p>
+ <p>
+  “Due to a computational mishap, the eclipse we projected for later this month will actually take place late next year,” stated NASA astrophysicist Dr. Theodore Moneta at a hastily-planned press conference from Johnson Space Center in Houston. “We were a bit off.”
+ </p>
+ <p>
+  Dr. Moneta explained that in calculating the date of the eclipse, scientists utilized a complex formula involving geocentric ephemeris for the Sun and Moon, various parameters, constants, and the Besselian elements, but along the way an error went unnoticed.
+ </p>
+ <p>
+  “In layman’s terms, we forgot to carry the one,” explained Moneta, a mistake that has plagued 12-year-olds in 7th grade math for centuries.
+ </p>
+ <p>
+  “It’s disappointing,” stated Matt Mead, governor of Wyoming, upon hearing the news. “Obviously, the NASA nerds really dropped the ball on this one.”
+ </p>
+</blockquote>

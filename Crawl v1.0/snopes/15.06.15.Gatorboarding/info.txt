@@ -1,0 +1,6 @@
+Title: Gatorboarding
+Claim: A photograph shows a raccoon riding an alligator.
+Date: 15.06.15
+Link: https://www.snopes.com/raccoon-rides-alligator/
+Verdict: false
+

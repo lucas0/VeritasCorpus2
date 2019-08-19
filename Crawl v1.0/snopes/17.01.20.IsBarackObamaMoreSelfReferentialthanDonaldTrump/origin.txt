@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  In his farewell address, Barack Obama referred to himself 75 times.
+ </p>
+ <p>
+  In his inaugural address, Donald Trump referred to himself 3 times.
+ </p>
+ <p>
+  He referred to “We, the American people” 45 times.
+ </p>
+</blockquote>

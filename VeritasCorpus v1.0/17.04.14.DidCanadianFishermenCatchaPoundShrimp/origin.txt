@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/320-pound-shrimp.jpg" target="_blank">
+   <img class="black-border aligncenter wp-image-86197 size-full" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/320-pound-shrimp.jpg?resize=600,315" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/320-pound-shrimp.jpg?w=600 600w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/320-pound-shrimp.jpg?resize=300,158 300w"/>
+  </a>
+ </p>
+ <p>
+  Two men from the Canadian Atlantic Coast made an astonishing catch while fishing near the confluence of the Matane River and the St. Lawrence River. The fishermen captured a northern prawn measuring over 2.80 meters (9 ft) long and weighing more than 145 kilograms (319 lbs), the biggest crustacean of this type to have ever have been caught.
+ </p>
+</blockquote>

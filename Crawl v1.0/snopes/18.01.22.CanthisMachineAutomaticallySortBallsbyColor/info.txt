@@ -1,0 +1,6 @@
+Title: Can this Machine Automatically Sort Balls by Color?
+Claim: A video shows a device automatically sorting hundreds of small balls by color.
+Date: 18.01.22
+Link: https://www.snopes.com/machine-automatically-sorting-colored-balls/
+Verdict: false
+

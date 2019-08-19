@@ -1,0 +1,6 @@
+Title: Shelter Closure
+Claim: An animal shelter will soon be closing or moving and will euthanize all the animals currently in their care that have not been adopted.
+Date: 13.09.14
+Link: https://www.snopes.com/critters/crusader/shelterclosure.asp
+Verdict: false
+

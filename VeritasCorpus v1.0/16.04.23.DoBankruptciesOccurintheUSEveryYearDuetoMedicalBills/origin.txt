@@ -1,0 +1,8 @@
+<blockquote>
+ <p>
+  “In 2013 over 20% of American adults are struggling to pay their medical bills, and three in five bankruptcies will be due to medical bills. While we are quick to blame debt on poor savings and bad spending habits, our study emphasizes the burden of health costs causing widespread indebtedness. Medical bills can completely overwhelm a family when illness strikes,” says Christina LaMontagne, VP of Health at NerdWallet. “Furthermore, 25 million people hesitate to take their medications in order to control their medical costs. Unfortunately this can lead to even worse financial outcomes as preventative treatments are not rendered and patients end up using expensive ambulance and ER care as their health worsens.”
+ </p>
+ <p>
+  Finally, many question whether President Obama’s universal health insurance mandate will protect Americans from problems with medical bills. “Insurance is no silver bullet,” says LaMontagne. “Even with insurance coverage, we expect 10 million Americans will face bills they are unable to pay.”
+ </p>
+</blockquote>

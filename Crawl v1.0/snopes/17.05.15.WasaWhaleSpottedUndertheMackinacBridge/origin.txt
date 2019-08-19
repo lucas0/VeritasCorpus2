@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/05/sturgeon-whale.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-89884" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/05/sturgeon-whale.jpg?resize=600,462" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/05/sturgeon-whale.jpg?w=1000 1000w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/05/sturgeon-whale.jpg?resize=300,231 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/05/sturgeon-whale.jpg?resize=768,591 768w"/>
+  </a>
+ </p>
+ <p>
+  Wow. This is the first sighting of a freshwater sturgeon whale in the Great Lakes in over fifty years. Officially declared extinct in 1982, but not anymore. Very cool.
+ </p>
+</blockquote>

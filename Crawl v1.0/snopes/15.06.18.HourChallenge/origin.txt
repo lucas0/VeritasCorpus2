@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  Game of 72, a new facebook game encouraging kids to leave home for 72 hours?  Just received it on a news item on my Facebook page.
+ </p>
+ <p>
+  <img alt="" data-src="https://snopes.com/uploads/2015/06/game-of-72.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="border: 1px solid black;"/>
+  <noscript>
+   <img alt="" src="https://snopes.com/uploads/2015/06/game-of-72.jpg" style="border: 1px solid black;"/>
+  </noscript>
+ </p>
+</blockquote>

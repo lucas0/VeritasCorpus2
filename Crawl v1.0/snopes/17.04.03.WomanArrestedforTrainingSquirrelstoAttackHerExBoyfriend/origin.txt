@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  <center>
+   <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/squirrel.jpg" target="_blank">
+    <img alt="" class="aligncenter size-full wp-image-84475" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/squirrel.jpg?resize=600,315" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/squirrel.jpg?w=600 600w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/squirrel.jpg?resize=300,158 300w"/>
+   </a>
+  </center>
+  45-year old Janice Smith was arrested this morning by officers of the Detroit Police Department, for allegedly capturing numerous squirrels and training them to attack her former lover.
+ </p>
+ <p>
+  The victim, 51-year old James Robinson, was presumably attacked by the rodents on more than a dozen occasions over the last month.
+ </p>
+</blockquote>

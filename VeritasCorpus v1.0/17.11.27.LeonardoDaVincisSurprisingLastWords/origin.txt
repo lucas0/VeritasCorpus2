@@ -1,0 +1,8 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/23561495_1971765649760085_6539902279606272006_n.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-116176" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/23561495_1971765649760085_6539902279606272006_n.jpg?resize=600,600" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/23561495_1971765649760085_6539902279606272006_n.jpg?w=800 800w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/23561495_1971765649760085_6539902279606272006_n.jpg?resize=150,150 150w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/23561495_1971765649760085_6539902279606272006_n.jpg?resize=300,300 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/23561495_1971765649760085_6539902279606272006_n.jpg?resize=768,768 768w" style="border: 1px solid black;"/>
+  </a>
+  Despite being considered one of the most brilliant geniuses that has ever lived, Leonardo da Vinci’s last words before dying were, “I have offended God and mankind because my work did not reach the quality it should have.”
+ </p>
+</blockquote>

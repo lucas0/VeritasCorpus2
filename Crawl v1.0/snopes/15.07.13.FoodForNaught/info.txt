@@ -1,0 +1,6 @@
+Title: Food For Naught
+Claim: A photograph shows a jar of Gerber brand "Big Mac and Fries" baby food.							See Example( s )
+Date: 15.07.13
+Link: https://www.snopes.com/mcdonalds-gerber-baby-food/
+Verdict: false
+

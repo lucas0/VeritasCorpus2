@@ -1,0 +1,6 @@
+Title: FALSE: Pediatricians’ Association Admits HPV Vaccine-Cancer Link
+Claim: An association of pediatricians "admitted" that HPV vaccine Gardasil causes ovarian "failure" or cancer.							See Example( s )
+Date: 16.01.29
+Link: https://www.snopes.com/pediatricians-association-admits-hpv-vaccine-cancer-link/
+Verdict: false
+

@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  Almost 10 years after “7 tones 2,” a short film featuring an elephant on a trampoline, i wanted to make a sequel, this time with giraffes…
+  <br>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://player.vimeo.com/video/76684408" frameborder="0" height="281" width="500">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="281" src="https://player.vimeo.com/video/76684408" width="500">
+    </iframe>
+   </noscript>
+  </br>
+ </p>
+</blockquote>

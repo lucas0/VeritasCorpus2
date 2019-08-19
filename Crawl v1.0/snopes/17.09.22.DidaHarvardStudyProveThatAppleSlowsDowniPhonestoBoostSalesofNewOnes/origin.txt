@@ -1,0 +1,14 @@
+<blockquote>
+ <p>
+  If you were Apple, what tricks would you utilize to increase the sales of your latest product?
+ </p>
+ <p>
+  If you know corporations, you’d know they use any possible trick they can as a generality to increase their profit: think of how huge a factor it would make in the sale of new iPhones if the old ones became slower.
+ </p>
+ <p>
+  People have made the anecdotal observation that their Apple products become much slower right before the release of a new model.
+ </p>
+ <p>
+  Now, a Harvard University study has done what any person with Google Trends could do, and pointed out that Google searches for “iPhone slow” spiked multiple times, just before the release of a new iPhone each time.
+ </p>
+</blockquote>

@@ -1,0 +1,17 @@
+<blockquote>
+ <p>
+  <em>
+   WE as a society are completely DOOMED! Somewhere, something went horribly wrong in the last 30 years …
+  </em>
+ </p>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FAmericanStrong%2Fvideos%2F10154057471407730%2F&amp;show_text=0&amp;width=400" frameborder="0" height="600" scrolling="no" style="border: none; overflow: hidden;" width="600">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="600" scrolling="no" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FAmericanStrong%2Fvideos%2F10154057471407730%2F&amp;show_text=0&amp;width=400" style="border: none; overflow: hidden;" width="600">
+    </iframe>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

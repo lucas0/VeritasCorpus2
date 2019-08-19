@@ -1,0 +1,6 @@
+Title: Kinking a Live Electrical Wire Stops Electricity and Makes it Safe
+Claim: Kinking an electrical wire stops electricity flow like kinking a garden hose stops water.
+Date: 16.08.26
+Link: https://www.snopes.com/kinking-a-live-electrical-wire/
+Verdict: false
+

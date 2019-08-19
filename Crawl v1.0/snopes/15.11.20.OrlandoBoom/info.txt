@@ -1,0 +1,6 @@
+Title: Orland-o Boom
+Claim: The Secret Service received a credible threat against Orland Square Mall in Orland Park, Illinois.
+Date: 15.11.20
+Link: https://www.snopes.com/orland-mall-isis-threat/
+Verdict: false
+

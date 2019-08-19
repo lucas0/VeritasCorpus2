@@ -1,0 +1,24 @@
+<blockquote>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/b6qlc3lStM4" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/b6qlc3lStM4" width="560">
+    </iframe>
+   </noscript>
+  </center>
+ </p>
+ <p>
+  <strong>
+   Hannity:
+  </strong>
+  Let me ask you about Wikileaks. I think this could shake up the political world. Is it true that an email sent in July of this year that you have, that describes how funds could be diverted from the Clinton campaign to the super PACs of Jeb Bush, Carly Fiorina, and John Kasick. Specifically document number 1078645. And it reads “JB, CF, JK PACs will be noticeably silent for the rest of the campaign. Each will receive a significant allowance from advertising budget HRC. Hillary is in the loop and talked to all 3 personally. Eyes only.” Is that a legitimate?
+ </p>
+ <p>
+  <strong>
+   Assange:
+  </strong>
+  I don’t have that in front of me. We have published nearly 100,000 documents so. I mean I have seen references to things like that. I don’t recall seeing an ‘eyes only’ phrase.
+ </p>
+</blockquote>

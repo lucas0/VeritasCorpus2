@@ -1,0 +1,6 @@
+Title: 2018’s ‘Amazing’ Calendar
+Claim: In the year 2018, all twelve days on which the month and day share common ordinal values falls on a Sunday.
+Date: 17.12.26
+Link: https://www.snopes.com/2018s-amazing-calendar/
+Verdict: false
+

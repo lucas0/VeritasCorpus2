@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  The Militia Act of 1903 was benchmark legislation that repealed the antiquated Militia Act of 1792 and converted the volunteer militia into the National Guard. In simplest terms, Guard units received increased funding and equipment, and in return, they were to conform to federal standards for training and organization within five years. The law recognized two classes of militia; the Organized Militia (National Guard) under joint federal-State control and the Reserve Militia, the mass of 18-45 year old males otherwise available for military service. The Dick Act required Guardsmen to attend twenty-four drill periods per year and five days of summer camp. For the first time, Guardsmen received pay for summer camp but not for drill periods. The law called for Guard units to conduct maneuvers with the Army and to receive training assistance and formal inspections from Regulars. The Guard was subject to federal callups for nine months, though its service was restricted to within U.S. borders. The participation of Guard members in national callups was no longer discretionary; any soldier not reporting to his armory during a federal mobilization was subject to court martial.
+ </p>
+ <p>
+  It is hard to overstate the significance of the Dick Act for the National Guard. The practices of the volunteer militia as a self-supporting and largely independent entity gave way to a new military force with significant federal funding and subject to the
+  <br>
+   administrative controls of the War Department.
+  </br>
+ </p>
+</blockquote>

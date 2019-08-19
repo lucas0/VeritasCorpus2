@@ -1,0 +1,6 @@
+Title: Facebook Listens?
+Claim: The Facebook 'Identify TV and Music' app spies on users by listening to and recording sounds through their phones, and uses ambient conversation to tailor advertising.							See Example( s )
+Date: 14.07.31
+Link: https://www.snopes.com/computer/facebook/facebooklisten.asp
+Verdict: mfalse
+

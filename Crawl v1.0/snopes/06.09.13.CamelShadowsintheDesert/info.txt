@@ -1,0 +1,6 @@
+Title: Camel Shadows in the Desert
+Claim: A photograph shows an overhead view of shadows cast by camels in the desert.
+Date: 06.09.13
+Link: https://www.snopes.com/photos/animals/camelshadows.asp
+Verdict: true
+

@@ -1,0 +1,6 @@
+Title: DeVos Family Campaign Contributions
+Claim: Betsy DeVos and her family contributed millions of dollars to the campaigns of Republican candidates.
+Date: 17.02.08
+Link: https://www.snopes.com/devos-family-campaign-contributions/
+Verdict: true
+

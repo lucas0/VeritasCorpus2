@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  Amazing! 8 year old Angelina Jordan, winner of Norway’s Got Talent 2014, performs Dinah Washington’s “What a Difference a Day Made” on the opening show of TV 2 singalong summer hit “Allsang på grensen” on Thursday June 3rd 2014.
+ </p>
+ <p>
+  <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/ZSfgCIGd7k4" frameborder="0" height="315" width="560">
+  </iframe>
+  <noscript>
+   <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/ZSfgCIGd7k4" width="560">
+   </iframe>
+  </noscript>
+ </p>
+</blockquote>

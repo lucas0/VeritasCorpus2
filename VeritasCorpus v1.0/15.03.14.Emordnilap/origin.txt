@@ -1,0 +1,8 @@
+<blockquote>
+ <p>
+  How does a word get into a Merriam-Webster dictionary? This is one of the questions Merriam-Webster editors are most often asked. The answer is simple: usage.
+ </p>
+ <p>
+  To decide which words to include in the dictionary and to determine what they mean, Merriam-Webster editors study the language as it’s used. They carefully monitor which words people use most often and how they use them.
+ </p>
+</blockquote>

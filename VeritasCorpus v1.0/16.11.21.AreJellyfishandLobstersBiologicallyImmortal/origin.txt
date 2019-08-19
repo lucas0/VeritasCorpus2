@@ -1,0 +1,11 @@
+<blockquote>
+ <p class="p3">
+  What we’re talking about here is “biological immortality”, although many biologists would probably rather we didn’t use the phrase. “Immortal really means you don’t die at all, which is stupid,” says Thomas Bosch at the University of Kiel, Germany.
+ </p>
+ <p class="p3">
+  Paradoxical though it might seem, biologically immortal organisms are definitely mortal. They can be killed by a predator, a disease, or a catastrophic change in the environment such as an erupting volcano. But unlike humans, they rarely die simply because they get old.
+ </p>
+ <p class="p3">
+  To put it another way, biologically immortal organisms do die, but they don’t seem to age.
+ </p>
+</blockquote>

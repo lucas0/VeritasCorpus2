@@ -1,0 +1,8 @@
+<blockquote>
+ <p class="p3">
+  Eight Santa Barbara County residents have died from the flu in the past two weeks alone. By contrast, only three residents died throughout last year’s entire flu season, which typically runs from October to April. All eight people were ages 65 or older. […] “Our numbers are in line with statewide numbers, and they’re definitely cause for concern,” [public health official Charity Dean said].
+ </p>
+ <p class="p3">
+  Dean attributed this year’s impact to a strain of flu — H3N2 — that’s particularly resistant to vaccination. According to the Center for Disease Control, vaccines have been effective at knocking this strain out only 32 percent of the time. But studies from Australia — where the flu season runs about six months ahead of the United States and Europe — indicates the vaccine’s effectiveness could be even more limited than that, only ten percent.
+ </p>
+</blockquote>

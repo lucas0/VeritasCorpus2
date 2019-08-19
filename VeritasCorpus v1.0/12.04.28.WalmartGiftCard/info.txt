@@ -1,0 +1,6 @@
+Title: Walmart Gift Card
+Claim: Walmart is distributing free $100 or $1,000 gift cards to users who click an online link.							See Example( s )
+Date: 12.04.28
+Link: https://www.snopes.com/inboxer/nothing/walmart.asp
+Verdict: false
+

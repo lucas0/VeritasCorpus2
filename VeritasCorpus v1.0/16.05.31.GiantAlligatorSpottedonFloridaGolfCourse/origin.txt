@@ -1,0 +1,15 @@
+<blockquote>
+ <div style="text-align: center;">
+  <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/RXn1g0xtUMk" frameborder="0" height="315" width="560">
+  </iframe>
+  <noscript>
+   <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/RXn1g0xtUMk" width="560">
+   </iframe>
+  </noscript>
+ </div>
+ <p>
+ </p>
+ <p>
+  Talk about a hazard! A giant alligator took a stroll across the fairway, making his way to the lake beside the third hole at Buffalo Creek Golf Club.
+ </p>
+</blockquote>

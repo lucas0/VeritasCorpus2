@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  “It looks like, since the beginning of October, that for the first time we are seeing both the Arctic and Antarctic sea ice running at record low levels,” said Walt Meier, a research scientist with the Cryospheric Sciences Laboratory at NASA’s Goddard Space Flight Center, who has tracked sea ice data going back to 1979.
+ </p>
+</blockquote>

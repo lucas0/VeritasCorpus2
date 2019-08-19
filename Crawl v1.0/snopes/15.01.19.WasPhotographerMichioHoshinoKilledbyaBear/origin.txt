@@ -1,0 +1,14 @@
+<blockquote>
+ <p>
+  Michio Hoshino, a photographer known for his pictures of bears and other wildlife, was mauled to death by a brown bear on the Kamchatka Peninsula in eastern Russia. He was in his
+  <nobr>
+   mid-40’s
+  </nobr>
+  and lived in Fairbanks, Alaska. This is the last photo he took.
+ </p>
+ <p>
+  <center>
+   <img data-recalc-dims="1" src="https://us-east-1.tchyn.io/snopes-production/uploads/images/photos/animals/graphics/beartent.jpg"/>
+  </center>
+ </p>
+</blockquote>

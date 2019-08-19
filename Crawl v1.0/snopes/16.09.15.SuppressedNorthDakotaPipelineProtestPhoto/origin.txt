@@ -1,0 +1,23 @@
+<blockquote>
+ <p>
+  <span class="fbPhotosPhotoCaption" data-ft='{"tn":"K"}' id="fbPhotoSnowliftCaption" tabindex="0">
+   <span class="hasCaption">
+    This is why the media won’t show the protest on the pipeline #StayAware
+   </span>
+  </span>
+  <span class="fbPhotoTagList" id="fbPhotoSnowliftTagList">
+   <span class="fcg">
+    — at
+    <span class="fbPhotoTagListTag withTagItem tagItem">
+     Pipeline! North Dakota
+    </span>
+    .
+   </span>
+  </span>
+ </p>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/09/pipeline-protest.jpg" target="_blank">
+   <img alt="pipeline protest" class="alignnone size-full wp-image-50982" data-recalc-dims="1" sizes="(max-width: 531px) 100vw, 531px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/09/pipeline-protest.jpg?resize=531,411" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/09/pipeline-protest.jpg?w=531 531w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/09/pipeline-protest.jpg?resize=300,232 300w"/>
+  </a>
+ </div>
+</blockquote>

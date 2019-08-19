@@ -1,0 +1,6 @@
+Title: Apple Music is Deleting Files from Personal Computers
+Claim: Apple Music is purporsefully deleting files from personal computers.							See Example( s )
+Date: 16.05.06
+Link: https://www.snopes.com/apple-music-deleting-files/
+Verdict: mfalse
+

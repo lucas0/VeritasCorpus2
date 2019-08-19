@@ -1,0 +1,11 @@
+<blockquote>
+ <p class="ng-scope">
+  Even Trump’s most trusted advisors didn’t expect him to fare this well.
+ </p>
+ <p class="ng-scope">
+  Almost a year ago, recruited for my public relations and public policy expertise, I sat in Trump Tower being told that the goal was to get The Donald to poll in double digits and come in second in delegate count. That was it.
+ </p>
+ <p class="ng-scope">
+  The Trump camp would have been satisfied to see him polling at 12% and taking second place to a candidate who might hold 50%. His candidacy was a protest candidacy.
+ </p>
+</blockquote>

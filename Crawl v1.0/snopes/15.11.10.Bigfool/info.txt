@@ -1,0 +1,6 @@
+Title: Bigfool
+Claim: The History Channel aired a documentary that showed a Bigfoot creature being captured.
+Date: 15.11.10
+Link: https://www.snopes.com/bigfoot-captured-history-channel/
+Verdict: false
+

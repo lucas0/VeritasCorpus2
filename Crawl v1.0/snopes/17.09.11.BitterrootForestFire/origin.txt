@@ -1,0 +1,15 @@
+<blockquote>
+ <p>
+  <b>
+   A Once in a Lifetime Photo of a forest fire in Bitterroot Forest/Montana
+  </b>
+ </p>
+ <p>
+  This awsome picture was taken in the Bitterroot National Forest in Montana on August 6, 2000 by a fire behavior analyst from Fairbanks, Alaska by the name of John McColgan with a Digital camera. Since he was working while he took the picture, he cannot sell or profit from it so he should at least be recognized as the photographer of this once in a lifetime shot.
+ </p>
+ <p>
+  <center>
+   <img data-recalc-dims="1" src="https://us-east-1.tchyn.io/snopes-production/uploads/2014/09/deerfire.jpg"/>
+  </center>
+ </p>
+</blockquote>

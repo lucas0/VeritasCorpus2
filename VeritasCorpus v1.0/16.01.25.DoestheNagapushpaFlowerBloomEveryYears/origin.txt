@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  Nagapushpa flower which blooms only once in 36 yrs. It bloomed today at 3:30am at Manasarovar Himalayas. Is this true, is it a flower?
+ </p>
+ <div style="text-align: center;">
+  <a href="http://www.snopes.com/wordpress/wp-content/uploads/2016/01/12524029_744755852321714_6092463068696849597_n.jpg">
+   <img alt="Nagapushpam" class="size-full wp-image-16960 alignnone" height="523" sizes="(max-width: 346px) 100vw, 346px" src="http://www.snopes.com/wordpress/wp-content/uploads/2016/01/12524029_744755852321714_6092463068696849597_n.jpg" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/12524029_744755852321714_6092463068696849597_n.jpg?w=346 346w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/12524029_744755852321714_6092463068696849597_n.jpg?resize=198,300 198w" width="346"/>
+  </a>
+ </div>
+</blockquote>

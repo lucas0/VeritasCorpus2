@@ -1,0 +1,15 @@
+<blockquote>
+ <p>
+  New legislation introduced in the wake of the
+  <a href="http://www.theweek.co.uk/67504/san-bernardino-shooting-what-we-know-about-the-attackers" target="_blank">
+   San Bernardino shootings
+  </a>
+  means British citizens intending to travel to the US with passports more than nine years old could be turned away at the airport.
+ </p>
+ <p>
+  As of 1 April 2016, tourists must have biometric passports if they want to visit the US under the Visa Waiver Program (VWP), which allows travellers from 38 approved nations to apply for and receive a 90-day visa online.
+ </p>
+ <p>
+  The change came as part of the Visa Waiver Program Improvement and Terrorist Travel Prevention Act of 2015, intended to tighten border security amid fears that terrorists could take advantage of the relaxed requirements to enter the US.
+ </p>
+</blockquote>

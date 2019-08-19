@@ -1,0 +1,17 @@
+<blockquote>
+ <p class="p1">
+  <span class="s1">
+   The photo session referenced by the customer took place at our Fairview Heights, IL, store in a photo studio operated by Lifetouch, a photo company that leases space in many of our locations.
+  </span>
+ </p>
+ <p class="p1">
+  <span class="s1">
+   Unfortunately, the Lifetouch associate misinterpreted Lifetouch’s flag photography policy — which details how flags should be displayed with the utmost respect and dignity — to mean that no flags could be photographed whatsoever.
+  </span>
+ </p>
+ <p class="p1">
+  <span class="s1">
+   Lifetouch has been in touch with the customer to apologize for the regrettable incident, and is arranging photo service compensation.
+  </span>
+ </p>
+</blockquote>

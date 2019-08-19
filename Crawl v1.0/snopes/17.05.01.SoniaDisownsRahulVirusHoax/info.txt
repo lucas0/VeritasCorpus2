@@ -1,0 +1,6 @@
+Title: ‘Sonia Disowns Rahul’ Virus Hoax
+Claim: Cell phone users should not accept a video entitled "Sonia Disowns Rahul" because it contains a malicious virus.
+Date: 17.05.01
+Link: https://www.snopes.com/sonia-disowns-rahul-hoax/
+Verdict: false
+

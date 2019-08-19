@@ -1,0 +1,6 @@
+Title: Jingle Bells: A Thanksgiving Carol
+Claim: Jingle Bells was written as a Christmas song.
+Date: 14.12.18
+Link: https://www.snopes.com/holidays/christmas/music/jinglebells.asp
+Verdict: false
+

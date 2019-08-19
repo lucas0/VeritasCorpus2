@@ -1,0 +1,6 @@
+Title: Fake News: Deadly Crash Kills Two Moms, Five Kids
+Claim: A recent fiery automobile accident claim the lives of two mothers and five children as two fathers tried desperately to save them.
+Date: 17.04.11
+Link: https://www.snopes.com/deadly-crash-kills-two-moms-five-kids/
+Verdict: false
+

@@ -1,0 +1,6 @@
+Title: Facebook Drug Task Force
+Claim: Facebook will be working with the DEA to monitor all Facebook posts for indications of drug use.
+Date: 14.08.19
+Link: https://www.snopes.com/media/notnews/drugtaskforce.asp
+Verdict: false
+

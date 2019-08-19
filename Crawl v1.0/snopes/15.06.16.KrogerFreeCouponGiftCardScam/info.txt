@@ -1,0 +1,6 @@
+Title: Kroger Free Coupon/Gift Card Scam
+Claim: Kroger is giving away free grocery coupons or gift cards to Facebook users who like and share a post.
+Date: 15.06.16
+Link: https://www.snopes.com/inboxer/nothing/krogercard.asp
+Verdict: attribution-false
+

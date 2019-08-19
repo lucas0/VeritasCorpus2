@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p4">
+  Since a vehicle battery requires a hundred times as much lithium carbonate as its laptop equivalent, the green-car revolution could make lithium one of the planet’s most strategic commodities. The rush is on to find and develop new sources of it, a race that has mining companies scouring the globe’s remotest corners, from the high-altitude deserts of Chile and Bolivia to the wilds of northern Tibet.
+ </p>
+</blockquote>

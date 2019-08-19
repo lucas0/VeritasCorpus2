@@ -1,0 +1,14 @@
+<blockquote>
+ <p>
+  Barack Obama, the first African-American president of the Harvard Law Review, was born in Kenya and raised in Indonesia and Hawaii. The son of an American anthropologist and a Kenyan finance minister, he attended Columbia University and worked as a financial journalist and editor for Business International Corporation. He served as project coordinator in Harlem for the
+  <nobr>
+   New York
+  </nobr>
+  Public Interest Research Group, and was Executive Director of the Developing Communities Project in Chicago’s South Side. His commitment to social and racial issues will be evident in his first book, Journeys in Black and White.
+ </p>
+ <p>
+  <center>
+   <img data-recalc-dims="1" src="https://us-east-1.tchyn.io/snopes-production/uploads/images/politics/graphics/bookbio.jpg"/>
+  </center>
+ </p>
+</blockquote>

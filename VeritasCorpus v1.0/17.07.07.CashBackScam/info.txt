@@ -1,0 +1,6 @@
+Title: Cash Back Scam
+Claim: Store cashiers commonly steal from customers by secretly initiating cash back requests and then pocketing the money.
+Date: 17.07.07
+Link: https://www.snopes.com/fraud/atm/cashback.asp
+Verdict: false
+

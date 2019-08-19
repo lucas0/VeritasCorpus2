@@ -1,0 +1,6 @@
+Title: ‘Dance of the Pope’ Virus
+Claim: A cell phone virus is circulating disguised as a video called the 'Dance of the Pope.'							See Example( s )
+Date: 16.10.23
+Link: https://www.snopes.com/computer/virus/popedance.asp
+Verdict: false
+

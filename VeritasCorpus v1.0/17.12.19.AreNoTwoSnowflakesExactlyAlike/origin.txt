@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p1" style="text-align: left;">
+  As it tumbles through the clouds, the crystal experiences ever changing temperatures and humidities, and each change makes the arms grow a bit differently. The exact shape of the final snow crystal is determined by the precise path it took through the clouds. But the six arms all took the same path, and so each experienced the same changes at the same times.
+ </p>
+</blockquote>

@@ -1,0 +1,18 @@
+<blockquote>
+ <p>
+  According to
+  <a href="http://cdiac.ornl.gov/trends/landuse/houghton/houghton.html" target="_blank">
+   Houghton and Hackler
+  </a>
+  , land-use changes from 1850-2000 resulted in a net transfer of 154 PgC to the atmosphere. During that same period, 282 PgC were released by combustion of fossil fuels, and 5.5 additional PgC were released to the atmosphere from cement manufacture. This adds up to 154 + 282 + 5.5 = 441.5 PgC, of which 282/444.1 = 64% is due to fossil-fuel combustion.
+ </p>
+ <p>
+  Atmospheric CO2 concentrations rose from 288 ppmv in 1850 to 369.5 ppmv in 2000, for an increase of 81.5 ppmv, or 174 PgC. In other words, about 40% (174/441.5) of the additional carbon has remained in the atmosphere, while the remaining 60% has been transferred to the oceans and terrestrial biosphere.
+ </p>
+ <p>
+  The 369.5 ppmv of carbon in the atmosphere, in the form of CO2, translates into 787 PgC, of which 174 PgC has been added since 1850. From […] above, we see that 64% of that 174 PgC, or 111 PgC, can be attributed to fossil-fuel combustion.
+  <b>
+   This represents about 14% (111/787) of the carbon in the atmosphere in the form of CO2.
+  </b>
+ </p>
+</blockquote>

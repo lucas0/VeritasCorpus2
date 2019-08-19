@@ -1,0 +1,7 @@
+<blockquote>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/02/pregnant-muslimah-fake.jpg" target="_blank">
+   <img alt="pregnant-muslimah-fake" class="alignnone size-full wp-image-76687" data-recalc-dims="1" sizes="(max-width: 678px) 100vw, 678px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/02/pregnant-muslimah-fake.jpg?resize=678,381" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/02/pregnant-muslimah-fake.jpg?w=678 678w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/02/pregnant-muslimah-fake.jpg?resize=300,169 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/02/pregnant-muslimah-fake.jpg?resize=542,305 542w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/02/pregnant-muslimah-fake.jpg?resize=375,211 375w"/>
+  </a>
+ </div>
+</blockquote>

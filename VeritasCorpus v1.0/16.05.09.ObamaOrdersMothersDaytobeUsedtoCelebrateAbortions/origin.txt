@@ -1,0 +1,16 @@
+<blockquote>
+ <div style="text-align: center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/fox-news-the-fb-page.jpg" target="_blank">
+   <img alt="fox news the fb page" class="aligncenter size-full wp-image-33453" data-recalc-dims="1" sizes="(max-width: 626px) 100vw, 626px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/fox-news-the-fb-page.jpg?resize=626,346" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/fox-news-the-fb-page.jpg?w=626 626w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/fox-news-the-fb-page.jpg?resize=300,166 300w" style="border: 1px solid black;"/>
+  </a>
+ </div>
+ <p>
+  As families all across America sit down to Mother’s Day brunch, President Obama plans to make use of the popular holiday to “celebrate reproductive diversity” and “honor mothers who exercise their reproductive freedoms.”
+ </p>
+ <p>
+  In a ceremony Sunday morning Obama singed the ‘Patriot Freedom of Womb Liberty Act’ which would add a new holiday,the
+  <span class="text_exposed_show">
+   ‘National Abortion Freedom Day’ to the already established Mother’s Day holiday.
+  </span>
+ </p>
+</blockquote>

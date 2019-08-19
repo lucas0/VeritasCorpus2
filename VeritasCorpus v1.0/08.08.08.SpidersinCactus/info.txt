@@ -1,0 +1,6 @@
+Title: Spiders in Cactus
+Claim: A cactus can explode and spew baby tarantulas everywhere.							See Example( s )
+Date: 08.08.08
+Link: https://www.snopes.com/horrors/insects/cactus.asp
+Verdict: false
+

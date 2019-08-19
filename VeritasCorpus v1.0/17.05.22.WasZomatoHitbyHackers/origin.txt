@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  The data downloaded as a result of this breach contained five data points for 17 million users – names, emails, numeric user IDs, usernames, and password hashes. The password hashes leak was a little more contained and impacted a subset of 6.6 million users – all the other users were using Facebook/Google for login – we don’t have any password information for those accounts.
+ </p>
+</blockquote>

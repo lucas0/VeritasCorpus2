@@ -1,0 +1,14 @@
+<blockquote>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/630KNm6k8MM" frameborder="0" height="355" width="600">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="355" src="https://www.youtube.com/embed/630KNm6k8MM" width="600">
+    </iframe>
+   </noscript>
+  </center>
+  <br/>
+  As for today, let’s look at a video detailing their animatronic Kaiju parasites used in Guillermo del Toro’s Pacific Rim. They are also referred to as Skinmites, and I guess, Rollie Pollies? Reminder for those that forgot, these are the creatures that live on the Kaiju, much like a Remora fish does with a shark.
+ </p>
+</blockquote>

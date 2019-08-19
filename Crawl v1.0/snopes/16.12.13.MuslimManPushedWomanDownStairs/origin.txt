@@ -1,0 +1,18 @@
+<blockquote>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/68A596JIJKA" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/68A596JIJKA" width="560">
+    </iframe>
+   </noscript>
+  </center>
+  <br>
+   A spokesperson for the Berlin Police Workers’ Party, told Bild : “The incident shows in a brutal and shocking way how quickly everyone in every city in this city can become a victim of senseless violence.
+  </br>
+ </p>
+ <p>
+  “If we can not get more police off the streets and build the necessary pressure from the judiciary through tougher punishments, we run the risk that more and more people believe in our city is the law of the strongest.”
+ </p>
+</blockquote>

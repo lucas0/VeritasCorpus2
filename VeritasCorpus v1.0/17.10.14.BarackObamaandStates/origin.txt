@@ -1,0 +1,21 @@
+<blockquote>
+ <p>
+  “… it is just wonderful to be back in Oregon, and over the last
+  <nobr>
+   15 months
+  </nobr>
+  we’ve traveled to every corner of the United States.  I’ve now been in
+  <nobr>
+   fifty ….
+  </nobr>
+  seven states? I think one left to go. One left to go. Alaska and Hawaii, I was not allowed to go to even though I really wanted to visit but my staff would not justify it.”
+ </p>
+ <p>
+  <center>
+   <object height="240" width="320">
+    <param name="movie" value="http://www.youtube.com/v/EpGH02DtIws&amp;hl=en"/>
+    <embed height="240" src="http://www.youtube.com/v/EpGH02DtIws&amp;hl=en" type="application/x-shockwave-flash" width="320"/>
+   </object>
+  </center>
+ </p>
+</blockquote>

@@ -1,0 +1,32 @@
+<blockquote>
+ <p>
+  Monday night 11/14/2011 at Lambeau Field
+ </p>
+ <p>
+  This is what ESPN failed to show you Monday night,
+  <nobr>
+   11/14/2011.
+  </nobr>
+ </p>
+ <p>
+  Apparently, they thought their commercials were more important than showing this scene for about
+  <nobr>
+   5 seconds.
+  </nobr>
+ </p>
+ <p>
+  <center>
+   <img alt="" class="aligncenter size-full wp-image-108434" data-recalc-dims="1" sizes="(max-width: 604px) 100vw, 604px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2013/11/lambeau2.jpg?resize=604,461" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2013/11/lambeau2.jpg?w=604 604w, https://us-east-1.tchyn.io/snopes-production/uploads/2013/11/lambeau2.jpg?resize=300,229 300w"/>
+  </center>
+ </p>
+ <p>
+  <center>
+   <img alt="" class="aligncenter size-full wp-image-108435" data-recalc-dims="1" sizes="(max-width: 638px) 100vw, 638px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2013/11/lambeau3.jpg?resize=638,415" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2013/11/lambeau3.jpg?w=638 638w, https://us-east-1.tchyn.io/snopes-production/uploads/2013/11/lambeau3.jpg?resize=300,195 300w"/>
+  </center>
+ </p>
+ <p>
+  <center>
+   <img alt="" class="aligncenter size-full wp-image-108436" data-recalc-dims="1" sizes="(max-width: 644px) 100vw, 644px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2013/11/lambeau4.jpg?resize=644,313" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2013/11/lambeau4.jpg?w=644 644w, https://us-east-1.tchyn.io/snopes-production/uploads/2013/11/lambeau4.jpg?resize=300,146 300w"/>
+  </center>
+ </p>
+</blockquote>

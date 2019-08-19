@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  There is a chance that a small amount of Tiangong-1 debris may survive reentry and impact the ground. Should this happen, any surviving debris would fall within a region that is a few hundred kilometers in size and centered along a point on the Earth that the station passes over.
+ </p>
+</blockquote>

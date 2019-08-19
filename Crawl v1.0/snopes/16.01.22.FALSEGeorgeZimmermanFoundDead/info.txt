@@ -1,0 +1,6 @@
+Title: FALSE: George Zimmerman Found Dead
+Claim: George Zimmerman was found dead in January 2016, several months after a Twitter controversy involving photographs of Trayvon Martin's body.							See Example( s )
+Date: 16.01.22
+Link: https://www.snopes.com/george-zimmerman-found-dead/
+Verdict: false
+

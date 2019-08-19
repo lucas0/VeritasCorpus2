@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  <center>
+   <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/03/do-not-cross-field.jpg" target="_blank">
+    <img class="black-border aligncenter wp-image-84145" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/03/do-not-cross-field.jpg?resize=600,469" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/03/do-not-cross-field.jpg?w=716 716w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/03/do-not-cross-field.jpg?resize=300,235 300w"/>
+   </a>
+  </center>
+  <br>
+   Do not cross this field. Unless you can do it in 9 seconds because the bull can do it in 10.
+  </br>
+ </p>
+</blockquote>

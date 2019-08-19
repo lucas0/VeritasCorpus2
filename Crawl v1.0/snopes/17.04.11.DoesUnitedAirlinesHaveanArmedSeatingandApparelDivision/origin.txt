@@ -1,0 +1,18 @@
+<blockquote>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/zzLTIbQUgYI" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/zzLTIbQUgYI" width="560">
+    </iframe>
+   </noscript>
+  </center>
+  <br>
+   Flanked by undercover deputies wearing masks and bulletproof vests, Lake County Sheriff Peyton Grinnell issued a stern warning to heroin dealers in a video posted on his agency’s website that has gone viral: we are coming for you. Run.
+  </br>
+ </p>
+ <p>
+  “Enjoy trying to sleep tonight wondering if tonight’s the night the SWAT team blows your front door off the hinges,” says Grinnell, who was elected in November.
+ </p>
+</blockquote>

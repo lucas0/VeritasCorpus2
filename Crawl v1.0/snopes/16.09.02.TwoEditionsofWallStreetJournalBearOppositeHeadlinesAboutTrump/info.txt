@@ -1,0 +1,6 @@
+Title: Two Editions of ‘Wall Street Journal’ Bear Opposite Headlines About Trump
+Claim: The Wall Street Journal ran Donald Trump stories with opposing headlines on the same day.
+Date: 16.09.02
+Link: https://www.snopes.com/wsj-different-trump-headlines/
+Verdict: true
+

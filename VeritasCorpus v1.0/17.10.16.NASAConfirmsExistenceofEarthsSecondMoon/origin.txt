@@ -1,0 +1,8 @@
+<blockquote>
+ <p class="p3">
+  A small asteroid has been discovered in an orbit around the sun that keeps it as a constant companion of Earth, and it will remain so for centuries to come.
+ </p>
+ <p class="p3">
+  As it orbits the sun, this new asteroid, designated 2016 HO3, appears to circle around Earth as well. It is too distant to be considered a true satellite of our planet, but it is the best and most stable example to date of a near-Earth companion, or “quasi-satellite.”
+ </p>
+</blockquote>

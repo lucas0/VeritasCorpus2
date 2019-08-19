@@ -1,0 +1,6 @@
+Title: 1922 New York Times Article Says Not to Worry About Hitler’s Anti-Semitism
+Claim: A 1922 New York Times article reported that Adolf Hitler “was merely using anti-Semitic propaganda as a bait to catch masses of followers”.							See Example( s )
+Date: 16.11.11
+Link: https://www.snopes.com/1922-new-york-times-hitler/
+Verdict: true
+

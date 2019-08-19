@@ -1,0 +1,6 @@
+Title: The Neverlands
+Claim:  Citizens of the United States have been banned from entering the Netherlands.
+Date: 15.11.19
+Link: https://www.snopes.com/netherlands-bans-united-states/
+Verdict: false
+

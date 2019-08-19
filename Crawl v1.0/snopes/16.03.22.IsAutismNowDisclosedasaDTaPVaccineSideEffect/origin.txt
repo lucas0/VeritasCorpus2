@@ -1,0 +1,16 @@
+<blockquote>
+ <p>
+  There’s widespread and growing lack of confidence in the safety of vaccines …
+ </p>
+ <p>
+  Know anyone who still believes that vaccines can’t cause autism?
+ </p>
+ <p>
+  Take a look at the DTaP vaccine insert:
+ </p>
+ <div style="text-align: center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/dtap-autism-insert.jpg" target="_blank">
+   <img alt="dtap autism insert" class="aligncenter wp-image-21592" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/dtap-autism-insert.jpg?resize=600,600" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/dtap-autism-insert.jpg?w=500 500w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/dtap-autism-insert.jpg?resize=150,150 150w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/dtap-autism-insert.jpg?resize=300,300 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/dtap-autism-insert.jpg?resize=32,32 32w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/dtap-autism-insert.jpg?resize=50,50 50w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/dtap-autism-insert.jpg?resize=64,64 64w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/dtap-autism-insert.jpg?resize=96,96 96w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/dtap-autism-insert.jpg?resize=128,128 128w" style="border: 1px solid black;"/>
+  </a>
+ </div>
+</blockquote>

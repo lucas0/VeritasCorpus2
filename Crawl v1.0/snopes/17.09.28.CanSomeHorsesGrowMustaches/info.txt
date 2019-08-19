@@ -1,0 +1,6 @@
+Title: Can Some Horses Grow Mustaches?
+Claim: Some horses can grow mustaches.
+Date: 17.09.28
+Link: https://www.snopes.com/can-horses-grow-mustaches/
+Verdict: true
+

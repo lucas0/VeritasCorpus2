@@ -1,0 +1,6 @@
+Title: Was Zomato Hit by Hackers?
+Claim: The restaurant review website Zomato suffered an attack that compromised 17 million users' data
+Date: 17.05.22
+Link: https://www.snopes.com/zomato-hack/
+Verdict: true
+

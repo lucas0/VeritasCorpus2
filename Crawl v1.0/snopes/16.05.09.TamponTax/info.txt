@@ -1,0 +1,6 @@
+Title: Tampon Tax
+Claim: Feminine hygiene products are subject to sales tax in most states.							See Example( s )
+Date: 16.05.09
+Link: https://www.snopes.com/tampon-tax/
+Verdict: true
+

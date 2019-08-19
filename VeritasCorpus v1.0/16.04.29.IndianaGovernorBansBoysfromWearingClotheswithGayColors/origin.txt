@@ -1,0 +1,17 @@
+<blockquote>
+ <div class="content-list-component mt-paragraph text">
+  <p>
+   Indiana Gov. Mike Pence signed an executive order Wednesday that bans what he called “gay colors” to be worn by boys in public elementary and secondary schools in the state.
+  </p>
+ </div>
+ <div class="content-list-component mt-paragraph text">
+  <p>
+   Pence referred to pink, chartreuse, teal and magenta, in particular, as “gateway colors” for young boys who might have an inclination toward homosexuality.
+  </p>
+ </div>
+ <div class="content-list-component mt-paragraph text">
+  <p>
+   “Governor Pence believes that if boys wear clothes with colors traditionally worn by young girls, this can cause gender confusion for the boy,” said Hugh Strait, a spokesman for the governor.
+  </p>
+ </div>
+</blockquote>

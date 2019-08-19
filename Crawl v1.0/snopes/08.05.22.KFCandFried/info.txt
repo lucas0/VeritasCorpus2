@@ -1,0 +1,6 @@
+Title: KFC and Fried
+Claim: The restaurant chain formerly known as "Kentucky Fried Chicken" changed its name to KFC to eliminate the word "fried" from its title.
+Date: 08.05.22
+Link: https://www.snopes.com/lost/kfc.asp
+Verdict: false
+

@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  A photo of an alleged sex offender named “Brian Peppers” surfaced in my office today.  The picture was obtained from the ohio sex offender website.
+ </p>
+ <p>
+  The picture looks too gruesome to be real.
+ </p>
+ <p>
+  <center>
+   <img data-recalc-dims="1" src="https://us-east-1.tchyn.io/snopes-production/uploads/images/photos/people/graphics/pepper1.jpg"/>
+  </center>
+ </p>
+</blockquote>

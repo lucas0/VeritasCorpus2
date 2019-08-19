@@ -1,0 +1,10 @@
+<blockquote>
+ <div style="text-align: center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/news-4-ktla.jpg" target="_blank">
+   <img alt="news 4 ktla" class="aligncenter size-full wp-image-32858" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/news-4-ktla.jpg?resize=600,330" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/news-4-ktla.jpg?w=600 600w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/news-4-ktla.jpg?resize=300,165 300w"/>
+  </a>
+ </div>
+ <p>
+  Authorities say roughly 11 million liters of state purchased water have been distributed to Flint residents since the emergency was declared in January over the cities tainted drinking water. However, a grisly discovery was made on Friday morning when surveyors discovered 22 bodies at the bottom of the lake weighed down by concrete blocks and chains. Three retired Michigan state employees are being questioned in connection with the disposal of the dead bodies that led to the contamination of Flint’s municipal water system. The corners office is currently trying to identify the victims.
+ </p>
+</blockquote>

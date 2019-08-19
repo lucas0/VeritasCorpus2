@@ -1,0 +1,6 @@
+Title: Google News Reported Orlando Pulse Shooting Hours in Advance
+Claim: Google News carried an Atlanta Sun Times article about the Orlando shooting several hours prior to the incident.							See Example( s )
+Date: 16.06.17
+Link: https://www.snopes.com/google-orlando-pulse-shooting-advance/
+Verdict: false
+

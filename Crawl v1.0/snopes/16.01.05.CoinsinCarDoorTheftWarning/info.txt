@@ -1,0 +1,6 @@
+Title: Coins in Car Door Theft Warning
+Claim: Criminals are furtively wedging coins into car door handles in order to more easily break into vehicles.							See Example( s )
+Date: 16.01.05
+Link: https://www.snopes.com/coin-car-handle-warning/
+Verdict: false
+

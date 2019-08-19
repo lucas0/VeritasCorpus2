@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  This website is an entertainment website, news are created by users. These are humourous news, fantasy, fictional, that should not be seriously taken or as a source of information.
+ </p>
+</blockquote>

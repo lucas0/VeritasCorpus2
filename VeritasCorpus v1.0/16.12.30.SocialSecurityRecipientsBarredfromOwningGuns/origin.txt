@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  Criteria for inclusion in the NICS include that an individual is disabled based on a finding that the individual’s impairment(s) meets or medically equals the requirements of one of the mental disorders listings. These listings consist of medical conditions that we consider severe enough to prevent a person from doing any gainful activity, regardless of age, education, or work experience. Individuals whose impairments meet a listing are the most severely disabled individuals we serve. If we find an individual to be disabled based on a listing-level mental impairment, and he or she satisfies all of the remaining requirements, we are required to report them to the NICS. If we do not find an individual to be disabled based on a mental impairment, he or she has not met the reporting requirements and we will not report them to the NICS.
+ </p>
+</blockquote>

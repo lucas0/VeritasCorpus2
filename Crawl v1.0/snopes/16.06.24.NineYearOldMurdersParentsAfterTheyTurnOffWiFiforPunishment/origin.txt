@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/fake-news.jpg" target="_blank">
+   <img alt="fake news" class="black-border aligncenter wp-image-38266 size-full" data-recalc-dims="1" sizes="(max-width: 588px) 100vw, 588px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/fake-news.jpg?resize=588,290" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/fake-news.jpg?w=588 588w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/06/fake-news.jpg?resize=300,148 300w"/>
+  </a>
+ </p>
+ <p>
+  A 9 year-old boy has been taken into custody by the Fairfax County, Virginia Police Department after he shot his parents to death over their decision to turn off the Internet for punishment. According to reports, the juvenile had been caught abusing a litter of kittens he found in the bushes near his house. Eyewitnesses say he put them in a trash bag and was slamming it against the tree. Neighbors immediately notified his parents who quickly took action.
+ </p>
+</blockquote>

@@ -1,0 +1,6 @@
+Title: Does the United States Deport Military Veterans?
+Claim: The United States is deporting military veterans.
+Date: 17.02.14
+Link: https://www.snopes.com/united-states-deporting-veterans/
+Verdict: true
+

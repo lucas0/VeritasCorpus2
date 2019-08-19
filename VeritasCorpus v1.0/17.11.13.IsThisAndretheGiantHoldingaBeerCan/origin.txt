@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/andre-the-giant-can-pic.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-114881" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/andre-the-giant-can-pic.jpg?resize=600,405" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/andre-the-giant-can-pic.jpg?w=1151 1151w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/andre-the-giant-can-pic.jpg?resize=300,202 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/andre-the-giant-can-pic.jpg?resize=768,518 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/andre-the-giant-can-pic.jpg?resize=1024,690 1024w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  That’s no small beer on the right, it’s a normal 12-ounce can in the hand of 7’4″, 500-pound wrestler Andre the Giant. The glass is in the prodigious paw of the author, a former superweight powerlifting champion, who describes what life is like for a man who has made the most of being the biggest.
+ </p>
+</blockquote>

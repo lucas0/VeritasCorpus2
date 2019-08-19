@@ -1,0 +1,11 @@
+<blockquote>
+ <p class="story-body__introduction">
+  Eight people have been killed when a storm lashed the South African city of Cape Town following months of drought.
+ </p>
+ <p>
+  Among the dead is a family of four killed in a fire started by lightning, officials say. Thousands of people have been left homeless.
+ </p>
+ <p>
+  The storm comes two weeks after the region declared a drought disaster.
+ </p>
+</blockquote>

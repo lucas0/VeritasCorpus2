@@ -1,0 +1,8 @@
+<blockquote>
+ <p class="p3">
+  For many years, the assumption has been that the United States leads the world as an advanced civilization, dominating in categories like education, quality of life, and life expectancy. But a new study released this year by the Society of Actuaries (SOA) paints a much different picture, suggesting that Americans are less healthy and will more than likely live much shorter lives compared to those in previous generations.
+ </p>
+ <p class="p3">
+  Over the past several years, the report explains, American health has taken a major downturn. Life expectancy amongst 65-year-olds is down by about six months, on average. It’s also down for younger Americans, who are likewise expected to live about six months less than in previous generations. In nearly every generational category, including “Baby Boomers,” “Generation X,” and “Millennials,” life expectancy is down, and will likely continue to go down.
+ </p>
+</blockquote>

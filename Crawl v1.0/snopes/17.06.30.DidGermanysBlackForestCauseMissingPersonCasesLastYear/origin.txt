@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/black-forest-1.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-96212" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/black-forest-1.jpg?resize=600,369" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/black-forest-1.jpg?w=647 647w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/black-forest-1.jpg?resize=300,185 300w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p style="text-align: center;">
+  The Black Forest is outlined in green on the map (left) and the city of Hameln is marked in red (right).
+ </p>
+</blockquote>

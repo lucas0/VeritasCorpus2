@@ -1,0 +1,7 @@
+<blockquote>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/food-babe-cheez-it.jpg" target="_blank">
+   <img alt="food babe cheez it" class="alignnone size-full wp-image-48070" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/food-babe-cheez-it.jpg?resize=600,600" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/food-babe-cheez-it.jpg?w=2000 2000w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/food-babe-cheez-it.jpg?resize=150,150 150w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/food-babe-cheez-it.jpg?resize=300,300 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/food-babe-cheez-it.jpg?resize=768,768 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/food-babe-cheez-it.jpg?resize=1024,1024 1024w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/food-babe-cheez-it.jpg?resize=32,32 32w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/food-babe-cheez-it.jpg?resize=50,50 50w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/food-babe-cheez-it.jpg?resize=64,64 64w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/food-babe-cheez-it.jpg?resize=96,96 96w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/food-babe-cheez-it.jpg?resize=128,128 128w"/>
+  </a>
+ </div>
+</blockquote>

@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/babylon-bee.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-98176" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/babylon-bee.jpg?resize=600,340" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/babylon-bee.jpg?w=696 696w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/babylon-bee.jpg?resize=300,170 300w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  COLLEGE PARK, GA—Creflo Dollar reportedly broke in his new, looming pulpit made entirely out of hundred-dollar bills Sunday by preaching a convicting, passionate sermon on humility, sources at World Changers Church confirmed Friday.
+ </p>
+ <p>
+  The large, intimidating money pulpit was constructed out of all the crisp, freshly banded c-notes placed in the offering plate by Dollar’s church members over the past several weeks,
+ </p>
+</blockquote>

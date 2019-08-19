@@ -1,0 +1,5 @@
+Title: TRUE: Seagull Loves Chips!
+Claim:   Video clip shows a seagull snatching a bag of Doritos from a shop.
+Date: 14.09.23
+Link: https://www.snopes.com/photos/animals/seagull.asp
+Verdict: true

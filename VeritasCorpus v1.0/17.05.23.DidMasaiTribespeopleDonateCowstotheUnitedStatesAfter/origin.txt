@@ -1,0 +1,15 @@
+<blockquote>
+ <div class="story-body-supplemental">
+  <div class="story-body story-body-1">
+   <p class="story-body-text story-content" data-para-count="237" data-total-count="415">
+    … [W]hen Kimeli Naiyomah returned recently to this tiny village from his studies in the United States, he found only the vaguest understanding among his fellow Masai of what had happened in that far-away place called New York on Sept. 11.
+   </p>
+   <p class="story-body-text story-content" data-para-count="255" data-total-count="670">
+    Some in this nomadic community of cattle raisers had missed the story entirely. ”I never knew about Sept. 9,” said William Oltetia, chief of the young warriors known here as morans, who was still confused as to the date. ”I just never heard about it.”
+   </p>
+   <p class="story-body-text story-content" data-para-count="309" data-total-count="979">
+    Most Masai had learned of the attacks from the radio soon after they occurred. But the horrible television images passed by many Masai, who got electricity in their village only shortly before the attacks. In the oral tradition they rely on, Mr. Naiyomah sat them down and told them stories that stunned them.
+   </p>
+  </div>
+ </div>
+</blockquote>

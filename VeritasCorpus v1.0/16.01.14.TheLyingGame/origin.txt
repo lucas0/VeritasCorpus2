@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  <span data-reactid=".1.1.0.0.2.1.0.0.1">
+   <span data-reactid=".1.1.0.0.2.1.0.0.1.0">
+    OMG I WON $1.5 BILLION!!!!! I’m posting this in case anyone tries to jack me this is proof! Look it up, I bought in chino hills where I grew up!
+   </span>
+   <a data-reactid=".1.1.0.0.2.1.0.0.1.$text0/=1$entity0/=010" href="https://www.instagram.com/explore/tags/powerball/" target="_blank">
+    #powerball
+   </a>
+  </span>
+ </p>
+</blockquote>

@@ -1,0 +1,15 @@
+<blockquote>
+ <p>
+  Starting today, riders who request an uberX in San Francisco will be matched with a Self-Driving Uber if one is available. Expanding our self-driving pilot allows us to continue to improve our technology through real-world operations. With its challenging roads and often varied weather, Pittsburgh provided a wide array of experiences. San Francisco comes with its own nuances including more bikes on the road, high traffic density and narrow lanes.
+ </p>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/OKJK3_XIGD4" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/OKJK3_XIGD4" width="560">
+    </iframe>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

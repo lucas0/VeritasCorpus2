@@ -1,0 +1,8 @@
+<blockquote>
+ <p class="p3">
+  The idea of two genetically distinct populations of cells, or their DNA, residing in one individual isn’t new. It’s called microchimerism. […] Medical chimerism arises after a transfusion or transplant, and it may follow pregnancy. Our microbiomes, the bacteria within us, are more like guests than body parts.
+ </p>
+ <p class="p3">
+  [The research groups responsible for the 2012 study] found Y chromosome DNA sequences in several brain regions in autopsy slides from 37 out of 59 women. Such DNA liberated from fetal cells can come from several sources: children, fetuses that never made it to be born, older siblings, or twins. Both son and daughter DNA partake in this “feto-maternal trafficking,” but female DNA, at the chromosomal level, is harder to detect amid the maternal two X’s.
+ </p>
+</blockquote>

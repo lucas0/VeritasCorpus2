@@ -1,0 +1,20 @@
+<blockquote>
+ <div style="text-align: center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/pork-corpse.jpg" target="_blank">
+   <img alt="pork corpse" class="aligncenter size-full wp-image-33559" data-recalc-dims="1" sizes="(max-width: 610px) 100vw, 610px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/pork-corpse.jpg?resize=610,458" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/pork-corpse.jpg?w=610 610w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/pork-corpse.jpg?resize=300,225 300w" style="border: 1px solid black;"/>
+  </a>
+ </div>
+ <p class="first-text">
+  Capcom is sponsoring an art installation in East London. That sounds innocuous, except that said art installation is at the Smithfield Meat Market, and is called “Wesker &amp; Son Resident Evil Human Butchery.”
+  <br>
+   Well, that’s certainly one way to get attention for next week’s release of
+   <em>
+    Resident Evil 6
+   </em>
+   .
+  </br>
+ </p>
+ <p>
+  The meat market is not, of course, selling actual human meat, but they are selling meat, mostly pork varieties, rather disturbingly shaped to resemble humans. Along with a variety of human ears, hands, feet, and heads, brave consumers can also purchase carefully recreated sausage fingers and, yes, phalluses.
+ </p>
+</blockquote>

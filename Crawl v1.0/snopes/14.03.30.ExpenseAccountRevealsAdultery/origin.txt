@@ -1,0 +1,267 @@
+<blockquote>
+ <p>
+  Expense Account for June 1995
+  <br>
+   —————————————-
+  </br>
+ </p>
+ <table cellspacing="15" width="680">
+  <tbody>
+   <tr>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      1 June
+     </span>
+    </td>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      Ad for female stenographer
+     </span>
+    </td>
+    <td align="RIGHT">
+     <span style="font-family: Verdana; font-size: small;">
+      $5.00
+     </span>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      2 June
+     </span>
+    </td>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      Violets for new stenographer
+     </span>
+    </td>
+    <td align="RIGHT">
+     <span style="font-family: Verdana; font-size: small;">
+      $7.50
+     </span>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      6 June
+     </span>
+    </td>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      Week’s salary for stenographer
+     </span>
+    </td>
+    <td align="RIGHT">
+     <span style="font-family: Verdana; font-size: small;">
+      $225.00
+     </span>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      9 June
+     </span>
+    </td>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      Roses for stenographer
+     </span>
+    </td>
+    <td align="RIGHT">
+     <span style="font-family: Verdana; font-size: small;">
+      $25.00
+     </span>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      10 June
+     </span>
+    </td>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      Candy for wife
+     </span>
+    </td>
+    <td align="RIGHT">
+     <span style="font-family: Verdana; font-size: small;">
+      $4.50
+     </span>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      12 June
+     </span>
+    </td>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      Lunch for stenographer
+     </span>
+    </td>
+    <td align="RIGHT">
+     <span style="font-family: Verdana; font-size: small;">
+      $35.00
+     </span>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      13 June
+     </span>
+    </td>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      Week’s salary for stenographer
+     </span>
+    </td>
+    <td align="RIGHT">
+     <span style="font-family: Verdana; font-size: small;">
+      $300.00
+     </span>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      16 June
+     </span>
+    </td>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      Movie tickets for self and wife
+     </span>
+    </td>
+    <td align="RIGHT">
+     <span style="font-family: Verdana; font-size: small;">
+      $6.00
+     </span>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      18 June
+     </span>
+    </td>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      Theater tickets for self and stenographer
+     </span>
+    </td>
+    <td align="RIGHT">
+     <span style="font-family: Verdana; font-size: small;">
+      $75.00
+     </span>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      19 June
+     </span>
+    </td>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      Ice cream soda for wife
+     </span>
+    </td>
+    <td align="RIGHT">
+     <span style="font-family: Verdana; font-size: small;">
+      $1.50
+     </span>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      20 June
+     </span>
+    </td>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      Virginia’s salary
+     </span>
+    </td>
+    <td align="RIGHT">
+     <span style="font-family: Verdana; font-size: small;">
+      $375.00
+     </span>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      23 June
+     </span>
+    </td>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      Champagne and dinner for “Ginny”
+     </span>
+    </td>
+    <td align="RIGHT">
+     <span style="font-family: Verdana; font-size: small;">
+      $160.00
+     </span>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      25 June
+     </span>
+    </td>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      Doctor for stupid stenographer
+     </span>
+    </td>
+    <td align="RIGHT">
+     <span style="font-family: Verdana; font-size: small;">
+      $1,500.00
+     </span>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      25 June
+     </span>
+    </td>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      Fur coat for wife
+     </span>
+    </td>
+    <td align="RIGHT">
+     <span style="font-family: Verdana; font-size: small;">
+      $6,800.00
+     </span>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      27 June
+     </span>
+    </td>
+    <td>
+     <span style="font-family: Verdana; font-size: small;">
+      Ad for male stenographer
+     </span>
+    </td>
+    <td align="RIGHT">
+     <span style="font-family: Verdana; font-size: small;">
+      $6.50
+     </span>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</blockquote>

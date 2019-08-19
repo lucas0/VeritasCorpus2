@@ -1,0 +1,25 @@
+<blockquote>
+ <p>
+  A photo seems to be making the rounds on all the “fail” sites. It shows a pregnant woman with “Welcome home daddy” written on her stomach. Images imply that the “father” is returning from a
+  <nobr>
+   12 month
+  </nobr>
+  tour in Iraq, and therefore couldn’t be the father. I am curious about the veracity of this, I have been unable to find an actual news article in which this was posted, for all I know the
+  <nobr>
+   “12 month”
+  </nobr>
+  thing was photoshopped. A lot of posted comments sort of fall into an argument of whether the guy had leave, or if they don’t allow leave to visit family.
+ </p>
+ <figure class="wp-caption alignnone" id="attachment_122657" style="width: 481px">
+  <img alt="" class="size-full wp-image-122657" data-src="https://www.snopes.com/uploads/2015/01/welcomehome.jpg" data-srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2015/01/welcomehome.jpg?w=481 481w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/01/welcomehome.jpg?resize=300,213 300w" height="342" sizes="(max-width: 481px) 100vw, 481px" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="481"/>
+  <figcaption class="wp-caption-text">
+   <noscript>
+    <img alt="" class="size-full wp-image-122657" data-recalc-dims="1" sizes="(max-width: 481px) 100vw, 481px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2015/01/welcomehome.jpg?resize=481,342" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2015/01/welcomehome.jpg?w=481 481w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/01/welcomehome.jpg?resize=300,213 300w"/>
+   </noscript>
+   <br/>
+   <font face="verdana" size="2">
+    US President Barack Obama warned of “difficult days ahead” in Iraq as US troops withdraw from towns and cities, six years after the invasion. Here a young boy reacts upon seeing his father return from a 12-month tour in Iraq.
+   </font>
+  </figcaption>
+ </figure>
+</blockquote>

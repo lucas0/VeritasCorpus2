@@ -1,0 +1,8 @@
+<blockquote>
+ <p>
+  Facebook workers routinely suppressed news stories of interest to conservative readers from the social network’s influential “trending” news section, according to a former journalist who worked on the project. This individual says that workers prevented stories about the right-wing CPAC gathering, Mitt Romney, Rand Paul, and other conservative topics from appearing in the highly-influential section, even though they were organically trending among the site’s users.
+ </p>
+ <p>
+  Several former Facebook “news curators,” as they were known internally, also told Gizmodo that they were instructed to artificially “inject” selected stories into the trending news module, even if they weren’t popular enough to warrant inclusion—or in some cases weren’t trending at all. The former curators, all of whom worked as contractors, also said they were directed not to include news about Facebook itself in the trending module.
+ </p>
+</blockquote>

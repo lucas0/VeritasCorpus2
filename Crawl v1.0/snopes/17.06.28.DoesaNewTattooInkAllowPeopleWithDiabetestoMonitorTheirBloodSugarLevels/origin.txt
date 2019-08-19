@@ -1,0 +1,8 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/diabetes_tattoo_meme.png" target="_blank">
+   <img alt="" class="aligncenter wp-image-95963" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/diabetes_tattoo_meme.png?resize=600,493" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/diabetes_tattoo_meme.png?w=721 721w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/06/diabetes_tattoo_meme.png?resize=300,247 300w" style="border: 1px solid black;"/>
+  </a>
+  This tattoo ink changes color when blood sugar levels rise or fall, so people with diabetes can monitor in real time.
+ </p>
+</blockquote>

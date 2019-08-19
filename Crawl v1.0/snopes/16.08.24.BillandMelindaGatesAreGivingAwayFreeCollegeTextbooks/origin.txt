@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  OpenStax’s partnership program is designed to provide free consultation for schools wanting to increase the use of OER [Open Educational Resource] on campus and to build a community of institutions dedicated to lowering the cost of course materials using OER. Selected institutions were required to demonstrate their commitment to using OER to drive student success and graduation rates.
+ </p>
+ <p>
+  “We’ve seen significant demand for this program,” said Nicole Finkbeiner, associate director for institutional relations at OpenStax. “Each partner school has demonstrated a desire to replace costly textbooks with as many open educational resources, including OpenStax textbooks, as possible. We’re thrilled to offer these institutions the support they need to make college more accessible and affordable for their students.”
+ </p>
+ <p>
+  OpenStax uses philanthropic grants to produce high-quality, peer-reviewed textbooks that are free online and low-cost in print. It launched in 2012 with the goal of publishing free textbooks for the nation’s 25 most-attended college courses and is on track to meet its goal of saving students $500 million by 2020.
+ </p>
+</blockquote>

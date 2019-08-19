@@ -1,0 +1,6 @@
+Title: Is ‘Bluetooth’ Technology Named After a Viking King?
+Claim: The name "Bluetooth," which refers to the standard for shortrange wireless connections, is derived from Viking king Harald Gormsson, who is credited with uniting Scandinavia.
+Date: 18.01.19
+Link: https://www.snopes.com/bluetooth-etymology/
+Verdict: true
+

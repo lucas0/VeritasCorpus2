@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  This man posed proudly with the bear he shot while it was hibernating. The poor animal didn’t stand a chance.
+ </p>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/03/bear-hunting.jpg" target="_blank">
+   <img class="black-border aligncenter wp-image-84303" data-recalc-dims="1" sizes="(max-width: 500px) 100vw, 500px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/03/bear-hunting.jpg?resize=500,374" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/03/bear-hunting.jpg?w=468 468w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/03/bear-hunting.jpg?resize=300,224 300w"/>
+  </a>
+ </p>
+</blockquote>

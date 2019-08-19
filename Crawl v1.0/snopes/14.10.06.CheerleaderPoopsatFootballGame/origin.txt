@@ -1,0 +1,8 @@
+<blockquote>
+ <p>
+  This.  Is.  Hilarious.  I mean, so sad.  This girl will NEVER EVER be the same.  Her reputation is forever tarnished.  Because of pooh.
+ </p>
+ <p>
+  <img alt="" class="aligncenter size-full wp-image-126563" data-recalc-dims="1" sizes="(max-width: 487px) 100vw, 487px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2014/10/cheerleader.jpg?resize=487,698" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2014/10/cheerleader.jpg?w=487 487w, https://us-east-1.tchyn.io/snopes-production/uploads/2014/10/cheerleader.jpg?resize=209,300 209w"/>
+ </p>
+</blockquote>

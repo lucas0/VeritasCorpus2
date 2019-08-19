@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  The phenomenon occurs in pure, undisturbed substances which are slowly cooled below the normal freezing (or melting) point. So long as no atoms or molecules join to form a solid nucleus, the sample remains liquid. Once a solid forms [for example, an ice crystal], though, it spreads rapidly through the sample.
+ </p>
+</blockquote>

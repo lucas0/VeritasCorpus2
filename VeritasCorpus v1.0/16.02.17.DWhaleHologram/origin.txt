@@ -1,0 +1,9 @@
+<blockquote>
+ <p>
+  According to Magic Leap’s Abovitz, the still-unseen gadget that Magic Leap will become will stay on your head, and be something you can use in the real world, even while talking to other people. The last gadget that attempted this was
+  <span class="link">
+   Google Glass
+  </span>
+  . And the goals seem similar: make a device that can be on you but “won’t take over your world,” and something that can show you what you need to see while still making eye contact with real people. Maybe these will feel more like magic glasses than magic headgear, but no image of Magic Leap’s physical hardware has yet been shown.
+ </p>
+</blockquote>

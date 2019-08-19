@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  Cardholders may be adjusting to “dipping” their chip cards instead of swiping them, but they won’t have to adjust to fraud liability changes.
+ </p>
+ <p>
+  If an authorized transaction occurs against a consumer’s credit account, they will continue to be reimbursed by their card issuer for the charges per the major networks’ (Visa, MasterCard, American Express and Discover) zero-liability policies. If the issuer finds that the fraud occurred at a non-EMV compliant merchant, it can request a refund for the chargeback transaction, but the consumer is not involved.
+ </p>
+ <p>
+  Consumers will not be responsible for fraud charges that result from a merchant not being prepared to properly accept EMV cards or because their card issuer has not yet sent them a chip-embedded card.
+  <br>
+  </br>
+ </p>
+</blockquote>

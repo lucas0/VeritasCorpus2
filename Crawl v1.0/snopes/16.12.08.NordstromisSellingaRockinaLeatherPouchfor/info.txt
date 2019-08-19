@@ -1,0 +1,6 @@
+Title: Nordstrom is Selling a Rock in a Leather Pouch for $85
+Claim: Nordstrom sells a rock in a leather pouch for $85, and a smaller version for $65.							See Example( s )
+Date: 16.12.08
+Link: https://www.snopes.com/nordstrom-selling-rock-leather-pouch-85/
+Verdict: true
+

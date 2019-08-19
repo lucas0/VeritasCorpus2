@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  Chosen at random through proven methodology, Nielsen’s U.S. TV families represent a cross-section of representative homes throughout the country. We measure viewing using our national and local people meters, which capture information about what’s being viewed and when, and in the major U.S. markets, specifically who and how many people are watching. We also have TV set meters in many local markets, and we collect more than two million paper diaries from audiences across the country each year during “sweeps” — specific periods during the months of February, May, July and November. To measure video content viewed on mobile devices, we have expanded our panels to incorporate census-style data from third parties in order to capture the breadth and depth of consumer usage.
+ </p>
+</blockquote>

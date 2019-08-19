@@ -1,0 +1,6 @@
+Title: Rowan Atkinson Death Hoax
+Claim: British actor Rowan Atkinson, best known as 'Mr. Bean,' has died.
+Date: 17.03.18
+Link: https://www.snopes.com/rowan-atkinson-death-hoax/
+Verdict: false
+

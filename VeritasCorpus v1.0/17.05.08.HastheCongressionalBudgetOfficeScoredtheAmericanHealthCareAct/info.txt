@@ -1,0 +1,6 @@
+Title: Has the Congressional Budget Office Scored the American Health Care Act?
+Claim: The American Health Care Act was scored twice by the CBO and it went through four committees before the House voted on it.
+Date: 17.05.08
+Link: https://www.snopes.com/cbo-ahca-score/
+Verdict: mfalse
+

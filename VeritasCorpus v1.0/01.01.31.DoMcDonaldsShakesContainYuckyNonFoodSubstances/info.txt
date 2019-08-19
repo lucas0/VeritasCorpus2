@@ -1,0 +1,6 @@
+Title: Do McDonald’s Shakes Contain Yucky Non-Food Substances?
+Claim: McDonald's beverages contain yucky non-food substances.
+Date: 01.01.31
+Link: https://www.snopes.com/horrors/food/mcdshake.asp
+Verdict: false
+

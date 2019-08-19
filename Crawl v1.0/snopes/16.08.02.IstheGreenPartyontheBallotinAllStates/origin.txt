@@ -1,0 +1,18 @@
+<blockquote>
+ <div style="text-align: center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/Ballot-Access-Map-August-02.png" target="_blank">
+   <img alt="Ballot-Access-Map-August-02" class="black-border aligncenter wp-image-44072 size-full" data-recalc-dims="1" sizes="(max-width: 800px) 100vw, 800px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/Ballot-Access-Map-August-02.png?resize=800,601" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/Ballot-Access-Map-August-02.png?w=800 800w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/Ballot-Access-Map-August-02.png?resize=300,225 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/Ballot-Access-Map-August-02.png?resize=768,577 768w"/>
+  </a>
+ </div>
+ <p>
+  <em>
+   We’re already on the ballot in 23 states (including the District of Columbia). But we need your help to get on the ballot in the remaining states listed below. A list of Ballot Access Coordinators can be found here.
+  </em>
+ </p>
+ <p>
+  High-priority states are Connecticut and New Hampshire.
+ </p>
+ <p>
+  If you live in a state where we’re already on the ballot, you might be allowed to travel to a neighboring state to petition—if the state law allows. Please check in with the specific state’s coordinator(s) to find out and to plan.
+ </p>
+</blockquote>

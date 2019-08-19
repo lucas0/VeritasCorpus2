@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  The Oklahoma Department of Public Safety has purchased several devices capable of seizing funds loaded on to prepaid debit cards to aid troopers in roadside seizures of suspected drug-trafficking proceeds.
+ </p>
+ <p>
+  The portable card scanners are designed to be carried in law enforcement vehicles, allow troopers to freeze and seize money loaded onto a prepaid debit card, and to return money to an account whose funds were seized or frozen.
+ </p>
+ <p>
+  The vehicle-mounted scanners are also capable of retrieving and storing limited account information from other cards as well, such as banking debit cards, credit cards and “payment account information from virtually any magnetic stripe card,” according to the website and patent documents of the device manufacturer, Texas-based ERAD Group Inc. ERAD stands for Electronic Recovery and Access to Data.
+ </p>
+</blockquote>

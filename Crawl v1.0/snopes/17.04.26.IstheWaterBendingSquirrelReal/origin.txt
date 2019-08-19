@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  The program(GIMP in this case) actually did most of the work, all I did was get a stock photo of some water, selected the splash and made it transparent(there’s a option for it) and just pasted it in(as a new layer so I could move it). The hard bit was fiddling around with color settings ’til it sorta matched the photo.
+ </p>
+</blockquote>

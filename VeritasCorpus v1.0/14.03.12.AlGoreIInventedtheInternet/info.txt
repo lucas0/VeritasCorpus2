@@ -1,0 +1,6 @@
+Title: Al Gore: ‘I Invented the Internet’
+Claim: Vice-President Al Gore claimed during a news interview that he "invented" the Internet.
+Date: 14.03.12
+Link: https://www.snopes.com/quotes/internet.asp
+Verdict: false
+

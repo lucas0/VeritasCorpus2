@@ -1,0 +1,6 @@
+Title: Finial Duty
+Claim: The gold ball atop a military flagpole contains a razor, a match, and a bullet.							See Example( s )
+Date: 10.10.25
+Link: https://www.snopes.com/military/flagball.asp
+Verdict: false
+

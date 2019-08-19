@@ -1,0 +1,16 @@
+<blockquote>
+ <p>
+  Why You Shouldn’t Swim After a Hurricane
+ </p>
+ <p>
+  This picture was taken in Puerto Rico shortly after Hurricane Irene ravaged the island. Yes, that’s a shark swimming down the street next to a car, and this is exactly why authorities in NYC are warning people not to go swimming in flood waters after a hurricane. Sharks go where fish go, and fish go where water goes, and if that water (and those subsequent fish) happen to be right outside your front door, then guess where that freakin’ shark’s going to be?!
+ </p>
+ <p>
+  <center>
+   <img data-src="https://www.snopes.com/uploads/images/photos/animals/graphics/puertorico.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+   <noscript>
+    <img data-recalc-dims="1" src="https://us-east-1.tchyn.io/snopes-production/uploads/images/photos/animals/graphics/puertorico.jpg"/>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

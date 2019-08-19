@@ -1,0 +1,14 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/home-improvement-reunion.jpg" target="_blank">
+   <img alt="home improvement reunion" class="aligncenter size-full wp-image-20592" data-recalc-dims="1" sizes="(max-width: 783px) 100vw, 783px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/home-improvement-reunion.jpg?resize=783,699" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/home-improvement-reunion.jpg?w=783 783w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/home-improvement-reunion.jpg?resize=300,268 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/home-improvement-reunion.jpg?resize=768,686 768w"/>
+  </a>
+ </p>
+ <p>
+  “It was awesome,” said (Patricia) Richardson, who invited her on-screen sons Taylor, Taran Noah Smith, and Zachery Ty Bryan back to her house after the shoot. “You know where you can pick up and it feels like no time has passed at all? And at the same time you look at them and say, ‘How can you possibly be that age because that makes me
+  <em>
+   way
+  </em>
+  old!’”
+ </p>
+</blockquote>

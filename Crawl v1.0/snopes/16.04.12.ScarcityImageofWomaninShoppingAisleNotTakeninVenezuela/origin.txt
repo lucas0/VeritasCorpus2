@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/hurricane-irene-shopping-aisle.jpg" target="_blank">
+   <img alt="hurricane irene shopping aisle" class="aligncenter size-large wp-image-30909" data-recalc-dims="1" sizes="(max-width: 660px) 100vw, 660px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/hurricane-irene-shopping-aisle.jpg?resize=660,442" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/hurricane-irene-shopping-aisle.jpg?resize=1024,686 1024w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/hurricane-irene-shopping-aisle.jpg?resize=300,201 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/hurricane-irene-shopping-aisle.jpg?resize=768,515 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/hurricane-irene-shopping-aisle.jpg?w=1600 1600w"/>
+  </a>
+ </p>
+ <p>
+  A shopper passes by empty shelves while looking for bottled water at a Stop and Shop at Rockaway Beach in New York, August 26, 2011.
+ </p>
+</blockquote>

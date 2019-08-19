@@ -1,0 +1,6 @@
+Title: ‘I Am Legend’ Super Bowl Prediction
+Claim: The 2007 film I Am Legend accurately predicted the results of the 2008 Super Bowl.
+Date: 15.01.31
+Link: https://www.snopes.com/sports/football/iamlegend.asp
+Verdict: false
+

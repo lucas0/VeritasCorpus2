@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/blood-of-jesus.jpg" target="_blank">
+   <img class="black-border aligncenter wp-image-85791 size-full" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/blood-of-jesus.jpg?resize=600,800" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/blood-of-jesus.jpg?w=600 600w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/blood-of-jesus.jpg?resize=225,300 225w"/>
+  </a>
+ </p>
+ <p>
+  This beautiful flower grows in New Zealand and called “Blood of Jesus on the Cross”
+ </p>
+ <p>
+  This flower grows only in the Holy week. You can see the Cross in the centre of the flower.
+ </p>
+</blockquote>

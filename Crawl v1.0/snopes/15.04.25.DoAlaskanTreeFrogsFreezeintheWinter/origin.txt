@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  The Alaskan tree frog. Freezes solid in winter, its heart stopping, then thaws in spring and merrily hops off.
+ </p>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2015/04/frozenfrog.jpg" target="_blank">
+   <img alt="" class="alignnone size-full wp-image-79667" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2015/04/frozenfrog.jpg?resize=600,459" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2015/04/frozenfrog.jpg?w=600 600w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/04/frozenfrog.jpg?resize=300,230 300w"/>
+  </a>
+ </p>
+</blockquote>

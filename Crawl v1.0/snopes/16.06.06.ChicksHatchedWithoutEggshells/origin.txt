@@ -1,0 +1,17 @@
+<blockquote>
+ <p>
+  <em>
+   For the first time in history, a group of Japanese high-schoolers have found a way to hatch an egg, without the egg! Now biology classes can observe development while still keeping the chick alive!
+  </em>
+ </p>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/am3iGHDnJHc" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/am3iGHDnJHc" width="560">
+    </iframe>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

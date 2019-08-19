@@ -1,0 +1,6 @@
+Title: KFC Extra Crispy Sunscreen
+Claim: A KFC promotion offered Extra Crispy Sunscreen to consumers.
+Date: 16.08.23
+Link: https://www.snopes.com/kfc-extra-crispy-sunscreen/
+Verdict: true
+

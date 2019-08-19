@@ -1,0 +1,6 @@
+Title: State I.Q. Voting Patterns
+Claim: A chart shows the relationship of voting patterns and intelligence quotients by state.
+Date: 10.01.13
+Link: https://www.snopes.com/politics/ballot/stateiq.asp
+Verdict: false
+

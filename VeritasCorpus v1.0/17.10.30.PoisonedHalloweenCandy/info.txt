@@ -1,0 +1,6 @@
+Title: Poisoned Halloween Candy
+Claim: Police have documented cases of people randomly distributing poisoned goodies to children on Halloween.
+Date: 17.10.30
+Link: https://www.snopes.com/horrors/poison/halloween.asp
+Verdict: false
+

@@ -1,0 +1,9 @@
+<blockquote>
+ <p class="p3">
+  To investigate further the relationship between handedness and age of death, we have analysed all baseball players listed in
+  <i>
+   The Baseball Encyclopedia
+  </i>
+  for whom dates of birth and death, as well as throwing and batting hand, are reported. A subject was assigned to a handedness a group only when both throwing and batting hand were the same with no indicated I change in hand use. Mean age at death for the 1,472 right-handers was 64.64 years (s.d. = 15.5) and ( 236 left-handers was 63.97 years (s.d. = 15.4).
+ </p>
+</blockquote>

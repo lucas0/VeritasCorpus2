@@ -1,0 +1,6 @@
+Title: Does the Zello Phone App Work Without the Internet?
+Claim: The Zello walkie-talkie cellphone app can be used without the internet.
+Date: 17.09.06
+Link: https://www.snopes.com/zello-work-without-internet/
+Verdict: false
+

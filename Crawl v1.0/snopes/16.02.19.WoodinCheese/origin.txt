@@ -1,0 +1,6 @@
+<blockquote class="twitter-tweet" data-lang="en">
+ <p dir="ltr" lang="en">
+  <script async="" charset="utf-8" src="//platform.twitter.com/widgets.js">
+  </script>
+ </p>
+</blockquote>

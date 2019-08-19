@@ -1,0 +1,30 @@
+<blockquote>
+ <p>
+  Create A Prank And Trick All Your Friends!
+ </p>
+ <p>
+  Simply Create Your Own Prank And Then Share It On Your Social Network Pages!
+ </p>
+ <p>
+  <strong>
+   Tips:
+  </strong>
+  You must be creative but keep in mind to make it fun.
+  <br>
+   <strong>
+    Fake Title:
+   </strong>
+   Choose a catchy title for your joke. Make your friends curious.
+   <br/>
+   <strong>
+    Description:
+   </strong>
+   Be creative and make your friends curious.
+   <br/>
+   <strong>
+    Image:
+   </strong>
+   Upload one or search one via google images
+  </br>
+ </p>
+</blockquote>

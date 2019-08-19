@@ -1,0 +1,19 @@
+<blockquote>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://player.vimeo.com/video/109169719" frameborder="0" height="360" width="640">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="360" src="https://player.vimeo.com/video/109169719" width="640">
+    </iframe>
+   </noscript>
+  </center>
+  <br>
+   Crowd dynamics test using Miarmy for Maya.
+   <br/>
+   Shows the new servo force feature which allows struggling animation once the agent has become dynamic
+   <br/>
+   Rendered with Arnold
+  </br>
+ </p>
+</blockquote>

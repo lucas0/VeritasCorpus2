@@ -1,0 +1,6 @@
+Title: Waffle Dowse
+Claim:  The Federal Emergency Management Agency (FEMA) uses an index based on Waffle House closures to determine the severity of natural disasters.
+Date: 15.11.30
+Link: https://www.snopes.com/fema-waffle-house-index/
+Verdict: MIXTURE:
+

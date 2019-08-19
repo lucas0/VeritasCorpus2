@@ -1,0 +1,18 @@
+<blockquote>
+ <p>
+  “The turkey legs at Disneyland, I’ve come to find out, are not actually turkey. They’re emu legs. Shocker right? No I swear.
+ </p>
+ <p>
+  I have friends that have worked for Disneyland, and I was talking about how the turkey legs tasted more like ham than they tasted like turkey, which is already befuddling, and they said, ‘Well, they’re actually emu. Those are big, big old emu legs.’ So if you’ve had a turkey leg at Disneyland, you’ve eaten an emu, folks.”
+ </p>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/ktlk8lGHYTE" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/ktlk8lGHYTE" width="560">
+    </iframe>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

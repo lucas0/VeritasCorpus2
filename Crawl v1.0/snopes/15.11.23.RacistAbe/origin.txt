@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  Fox news has reported that Missouri State University students are protesting because Abraham Lincoln was racist. Is this true?
+ </p>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/lincoln-was-racist.png" target="_blank">
+   <img alt="lincoln was racist" class="aligncenter size-large wp-image-12668" data-recalc-dims="1" sizes="(max-width: 660px) 100vw, 660px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/lincoln-was-racist.png?resize=660,260" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/lincoln-was-racist.png?resize=1024,404 1024w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/lincoln-was-racist.png?resize=300,118 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/lincoln-was-racist.png?resize=768,303 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/11/lincoln-was-racist.png?w=1258 1258w" style="border: 1px solid black;"/>
+  </a>
+  Missouri State University Black Lives Matter activist are demanding that Abraham Lincoln’s image be remove from all U.S. currency and public buildings.Citing statements Lincoln made to Frederick Douglass proving that the sixteenth President was racist.
+ </p>
+</blockquote>

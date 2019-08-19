@@ -1,0 +1,6 @@
+Title: Cheez-It Crackers and TBHQ
+Claim: Cheez-It brand crackers contain the preservative TBHQ, which is made from butane and is dangerous to consume.
+Date: 16.08.25
+Link: https://www.snopes.com/cheez-it-tbhq/
+Verdict: mfalse
+

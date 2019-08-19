@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  Because of the crystal-clear water, Flathead Lake in Montana seems shallow, but in reality is 370 feet in depth.
+ </p>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2015/03/flathead.jpg" target="_blank">
+   <img alt="" class="aligncenter size-full wp-image-96047" data-recalc-dims="1" sizes="(max-width: 1000px) 100vw, 1000px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2015/03/flathead.jpg?resize=1000,666" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2015/03/flathead.jpg?w=1000 1000w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/03/flathead.jpg?resize=300,200 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/03/flathead.jpg?resize=768,511 768w"/>
+  </a>
+ </p>
+</blockquote>

@@ -1,0 +1,6 @@
+Title: Did a Judge Rule That CNN Is ‘Fake News’?
+Claim: A federal judge ruling in a defamation suit declared that CNN was "fake news."
+Date: 17.02.17
+Link: https://www.snopes.com/cnn-fake-news/
+Verdict: mfalse
+

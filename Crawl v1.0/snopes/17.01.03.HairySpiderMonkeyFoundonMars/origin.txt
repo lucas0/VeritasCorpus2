@@ -1,0 +1,10 @@
+<blockquote>
+ <div style="text-align: center">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/3BB8A25D00000578-0-image-a-3_1483125821574.jpg" target="_blank">
+   <img alt="3BB8A25D00000578-0-image-a-3_1483125821574" class="aligncenter size-full wp-image-70542" data-recalc-dims="1" sizes="(max-width: 634px) 100vw, 634px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/3BB8A25D00000578-0-image-a-3_1483125821574.jpg?resize=634,412" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/3BB8A25D00000578-0-image-a-3_1483125821574.jpg?w=634 634w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/3BB8A25D00000578-0-image-a-3_1483125821574.jpg?resize=300,195 300w"/>
+  </a>
+ </div>
+ <p>
+  I found this four legged alien creature on Mars and it looks like a hairy spider monkey. The longer upper arms are holding it up as well as its shorter lower legs. If you add light to the face, you can easily make out two eyes. As you can see, this animal is watching the Mars rover.
+ </p>
+</blockquote>

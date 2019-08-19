@@ -1,0 +1,8 @@
+<blockquote>
+ <p>
+  Uber has been accused of taking too long to turn off its “surge pricing” feature after a deadly terror attack in the heart of London.
+ </p>
+ <p class="speakable">
+  App users complained that they were being charged inflated prices on Saturday night after a van plowed into pedestrians on London Bridge and three knife-wielding men attacked revelers in a nearby nightlife district.
+ </p>
+</blockquote>

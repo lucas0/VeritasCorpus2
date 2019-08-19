@@ -1,0 +1,6 @@
+Title: Fret Matrix
+Claim:  The FBI warned people not to use New York City Subways due to a pending attack.
+Date: 15.11.18
+Link: https://www.snopes.com/nyc-subway-isis-warning/
+Verdict: false
+

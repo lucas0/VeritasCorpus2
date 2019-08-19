@@ -1,0 +1,42 @@
+<blockquote>
+ <p>
+  <strong>
+   What do I pay as an inpatient?
+  </strong>
+ </p>
+ <p>
+  • Medicare Part A (Hospital Insurance) covers inpatient hospital services. Generally, this means you pay a
+  <nobr>
+   one-time
+  </nobr>
+  deductible for all of your hospital services for the first
+  <nobr>
+   60 days
+  </nobr>
+  you’re in the hospital.
+ </p>
+ <p>
+  • Medicare Part B (Medical Insurance) covers most of your doctor services when you’re an inpatient. You pay 20% of the Medicare-approved amount for doctor services after paying the
+  <nobr>
+   Part B
+  </nobr>
+  deductible.
+ </p>
+ <p>
+  <b>
+   What do I pay as an outpatient?
+  </b>
+ </p>
+ <p>
+  • Medicare Part B covers outpatient hospital services. Generally, this means you pay a copayment for each individual outpatient hospital service. This amount may vary by service.
+ </p>
+ <p>
+  • Part B also covers most of your doctor services when you’re a hospital outpatient. You pay 20% of the Medicare-approved amount after you pay the
+  <nobr>
+   Part B
+  </nobr>
+  deductible.
+  <br>
+  </br>
+ </p>
+</blockquote>

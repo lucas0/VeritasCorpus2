@@ -1,0 +1,19 @@
+<blockquote>
+ <p>
+  Speaker Ryan has heard from many individuals who have serious concerns about what the implementation of the Affordable Care Act (ACA) will mean for them, their families, and their businesses. In an effort to clear the way for common-sense reform, the House has acted boldly. HR 3762 — the Restoring Americans’ Healthcare Freedom Reconciliation Act — dismantles the president’s health care law. It repeals the individual and employer mandates, the medical device tax, and the “Cadillac tax” on high-value insurance plans. This bill eliminates the most harmful pieces of the ACA and lays the foundation for a patient-centered system.
+ </p>
+ <p>
+  Not surprisingly, President Obama vetoed HR 3762. On February 2, in bipartisan fashion, the House voted 241-186 to override the president’s veto. While this bipartisan majority failed to meet the two-thirds threshold required by the Constitution to override a presidential veto, the House demonstrated its unwavering commitment to repealing the ACA by completing the entirety of the constitutional process.
+ </p>
+ <p>
+  If you support President Obama’s healthcare law, press 1. If you are opposed to President Obama’s healthcare law, press 2.
+ </p>
+ <p>
+  <iframe data-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294107343&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true" frameborder="no" height="450" scrolling="no" width="100%">
+  </iframe>
+  <noscript>
+   <iframe frameborder="no" height="450" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294107343&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true" width="100%">
+   </iframe>
+  </noscript>
+ </p>
+</blockquote>

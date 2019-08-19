@@ -1,0 +1,18 @@
+<blockquote>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/MxBdzH66wZo" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/MxBdzH66wZo" width="560">
+    </iframe>
+   </noscript>
+  </center>
+  <em>
+   And on this occasion, I always enjoy reflecting on a piece of scripture that’s been meaningful to me or otherwise sustained me throughout the year.  And lately, I’ve been thinking and praying on a verse from Second Timothy:  “For God has not given us a spirit of fear, but of power and of love and of a sound mind.”
+   <strong>
+    For God has not given us a spirit of fear, but of power and of love and of a sound mind.
+   </strong>
+  </em>
+ </p>
+</blockquote>

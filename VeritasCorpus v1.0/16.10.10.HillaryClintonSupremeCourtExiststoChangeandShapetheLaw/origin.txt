@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  <center>
+   <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/clinton-quote.jpg" target="_blank">
+    <img alt="clinton quote" class="alignnone size-full wp-image-54870" data-recalc-dims="1" sizes="(max-width: 522px) 100vw, 522px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/clinton-quote.jpg?resize=522,500" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/clinton-quote.jpg?w=522 522w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/clinton-quote.jpg?resize=300,287 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/clinton-quote.jpg?resize=32,32 32w"/>
+   </a>
+  </center>
+  <br>
+   “The Supreme Court is not about checks and balances, nor to interpret the law. It’s there to change and shape the law.”
+  </br>
+ </p>
+</blockquote>

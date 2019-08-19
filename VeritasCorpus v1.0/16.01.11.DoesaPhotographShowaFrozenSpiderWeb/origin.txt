@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  This year, I am attending the Helsinki Zoo International Ice Sculpture Competition, in Finland. One question I am almost always asked at events is, “How did you get into ice carving, yet there is no ice in Kenya.” I would often reply by saying that ice is just like any other medium.
+ </p>
+ <p>
+  This year I travelled alone to the Helsinki Zoo International Ice Carving Competition. The organizers had arranged for me to join a Finnish ice carver to form a team. We are required to carve two sculptures during the four day event. First, we carved a spider web. Our next piece will depict a bee on a flower. I am the only African taking part in the event. The other competitors are from Europe, Asia and North America.
+ </p>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/art-meets-ice.jpg" target="_blank">
+   <img alt="art meets ice" class="aligncenter size-full wp-image-15899" data-recalc-dims="1" sizes="(max-width: 267px) 100vw, 267px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/art-meets-ice.jpg?resize=267,400" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/art-meets-ice.jpg?w=267 267w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/art-meets-ice.jpg?resize=200,300 200w"/>
+  </a>
+ </p>
+</blockquote>

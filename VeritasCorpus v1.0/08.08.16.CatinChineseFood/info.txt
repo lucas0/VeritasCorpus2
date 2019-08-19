@@ -1,0 +1,6 @@
+Title: Cat in Chinese Food
+Claim: Chinese restaurants in the U.S. use cat meat in their entrees.
+Date: 08.08.16
+Link: https://www.snopes.com/horrors/food/chinese.asp
+Verdict: false
+

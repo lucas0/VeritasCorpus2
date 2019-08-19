@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  Cacao plants are slated to disappear by as early as 2050 thanks to warmer temperatures and dryer weather conditions.
+ </p>
+</blockquote>

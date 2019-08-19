@@ -1,0 +1,7 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/image.jpeg" target="_blank">
+   <img alt="Ezra Taft Benson" class="aligncenter wp-image-55406" data-recalc-dims="1" sizes="(max-width: 500px) 100vw, 500px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/image.jpeg?resize=500,637" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/image.jpeg?w=564 564w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/image.jpeg?resize=236,300 236w"/>
+  </a>
+ </p>
+</blockquote>

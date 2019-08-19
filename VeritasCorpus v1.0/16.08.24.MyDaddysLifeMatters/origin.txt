@@ -1,0 +1,7 @@
+<blockquote>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/daddys-life-matters.jpg" target="_blank">
+   <img alt="daddy's life matters" class="alignnone size-full wp-image-47696" data-recalc-dims="1" sizes="(max-width: 480px) 100vw, 480px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/daddys-life-matters.jpg?resize=480,720" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/daddys-life-matters.jpg?w=480 480w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/daddys-life-matters.jpg?resize=200,300 200w"/>
+  </a>
+ </div>
+</blockquote>

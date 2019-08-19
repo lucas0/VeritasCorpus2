@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  This is a photo taken by Hubble. Scientists cannot begin to figure out what it is. I like to think of it as the gate of heaven.
+ </p>
+ <div style="text-align: center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/12507579_10207567679504102_6589331564951282548_n.jpg" target="_blank">
+   <img alt="gates of heaven" class="aligncenter size-full wp-image-16815" data-recalc-dims="1" sizes="(max-width: 368px) 100vw, 368px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/12507579_10207567679504102_6589331564951282548_n.jpg?resize=368,559" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/12507579_10207567679504102_6589331564951282548_n.jpg?w=368 368w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/12507579_10207567679504102_6589331564951282548_n.jpg?resize=197,300 197w"/>
+  </a>
+ </div>
+</blockquote>

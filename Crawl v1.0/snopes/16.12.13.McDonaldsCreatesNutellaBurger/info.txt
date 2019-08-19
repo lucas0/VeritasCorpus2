@@ -1,0 +1,6 @@
+Title: McDonald’s Creates Nutella Burger
+Claim: McDonald's has a burger filled with Nutella.							See Example( s )
+Date: 16.12.13
+Link: https://www.snopes.com/fact-check-mcdonalds-creates-nutella-burger/
+Verdict: true
+

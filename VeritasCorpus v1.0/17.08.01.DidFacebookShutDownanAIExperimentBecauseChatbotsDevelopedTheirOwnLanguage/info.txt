@@ -1,0 +1,6 @@
+Title: Did Facebook Shut Down an AI Experiment Because Chatbots Developed Their Own Language?
+Claim: Concerned artificial intelligence researchers hurriedly abandoned an experimental chatbot program after they realized that the bots were inventing their own language.
+Date: 17.08.01
+Link: https://www.snopes.com/facebook-ai-developed-own-language/
+Verdict: false
+

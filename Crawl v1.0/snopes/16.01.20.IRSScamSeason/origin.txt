@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  <strong>
+   The IRS doesn’t
+   <i>
+    initiate
+   </i>
+   contact with taxpayers by email, text messages or social media channels to request personal or financial information.
+  </strong>
+  This includes requests for PIN numbers, passwords or similar access information for credit cards, banks or other financial accounts.
+ </p>
+</blockquote>

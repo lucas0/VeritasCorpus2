@@ -1,0 +1,16 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/05/burn-flag.png" target="_blank">
+   <img alt="" class="aligncenter size-full wp-image-92605" data-recalc-dims="1" sizes="(max-width: 650px) 100vw, 650px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/05/burn-flag.png?resize=650,326" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/05/burn-flag.png?w=650 650w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/05/burn-flag.png?resize=300,150 300w"/>
+  </a>
+ </p>
+ <p>
+  The Masjid Abu Bakr mosque in Flushing, New York, burned an American flag on Saturday in protest of the Trump presidency.
+ </p>
+ <p>
+  “Down with Trump!” and “Not my president”, they chanted as the flag burned.
+ </p>
+ <p>
+  Many are disgusted by the act and have called for the mosque to face legal punishment, or at the very least lose their tax exempt status.
+ </p>
+</blockquote>

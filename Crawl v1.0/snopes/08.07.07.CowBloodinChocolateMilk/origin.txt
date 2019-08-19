@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/uz4cyGSaDVQ" frameborder="0" height="315" width="560">
+  </iframe>
+  <noscript>
+   <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/uz4cyGSaDVQ" width="560">
+   </iframe>
+  </noscript>
+ </p>
+ <p>
+  “In this case on the left we have a lot of blood in the milk. It doesn’t happen often like that but occasionally you get blood in the milk because maybe there’s a blood vessel burst in the udder or something. That always comes right in the end. Might take a week of milking. But as you can see it’s not fit for human consumption. So we have to keep that out at the end.”
+ </p>
+</blockquote>

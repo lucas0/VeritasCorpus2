@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  When Microsoft developed a new graphical font, Webdings, in 1997, Kuresman said typographers took pains to ensure that the image corresponding with the capital letters NYC was a pleasant one. Users who type in that string of letters in Webdings are greeted with graphics for an eye, a heart and a city skyline, symbols for the message “I Love New York.”
+ </p>
+</blockquote>

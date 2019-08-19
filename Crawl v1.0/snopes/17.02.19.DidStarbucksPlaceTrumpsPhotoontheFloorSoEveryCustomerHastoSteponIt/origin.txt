@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <center>
+   <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/02/starbucks-disney.jpg" target="_blank">
+    <img alt="" class="alignnone size-full wp-image-78359" data-recalc-dims="1" sizes="(max-width: 550px) 100vw, 550px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/02/starbucks-disney.jpg?resize=550,598" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/02/starbucks-disney.jpg?w=550 550w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/02/starbucks-disney.jpg?resize=276,300 276w"/>
+   </a>
+  </center>
+  Executives with Starbucks open the doors for the first time at the newest coffee shop in Downtown Disney at the Disneyland Resort in Anaheim.
+ </p>
+</blockquote>

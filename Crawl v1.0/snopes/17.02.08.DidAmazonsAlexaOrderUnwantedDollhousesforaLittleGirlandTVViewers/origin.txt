@@ -1,0 +1,17 @@
+<blockquote>
+ <p>
+  [In January 2017] it was reported that an Amazon Echo in Dallas, Texas, had ordered a $170 dollhouse after six-year-old Brooke Neitzel asked: ‘Can you play dollhouse with me and get me a dollhouse?’
+ </p>
+ <p>
+  Although the little girl apparently meant it as a rhetorical question the device saw it as a command and ordered a KidKraft Sparkle mansion dollhouse, as well as four pounds of sugar cookies.
+ </p>
+ <p>
+  But to make matters worse many Amazon Echoes apparently picked up on TV anchor Jim Patton’s words in the report: ‘I love the little girl saying “Alexa ordered me a dollhouse”.’
+ </p>
+ <p>
+  Viewers at home were then left stunned when their own Amazon Echoes picked up the voice requests in the report and ordered dolls houses too.
+ </p>
+ <p>
+  As voice-command purchasing is enabled as a default on the Alexa devices, viewers found it had mistaken the show for their command and bought the toy.
+ </p>
+</blockquote>

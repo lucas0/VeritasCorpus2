@@ -1,0 +1,6 @@
+Title: Package Delivery Failure Virus
+Claim: Scammers trick e-mail users into opening virus-launching attachments by sending phony package delivery failure notifications.
+Date: 14.11.19
+Link: https://www.snopes.com/computer/virus/ups.asp
+Verdict: true
+

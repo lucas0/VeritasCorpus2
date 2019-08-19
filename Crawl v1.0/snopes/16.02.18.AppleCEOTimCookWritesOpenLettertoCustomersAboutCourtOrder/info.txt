@@ -1,0 +1,6 @@
+Title: Apple CEO Tim Cook Writes Open Letter to Customers About Court Order
+Claim: Apple CEO Tim Cook wrote an open letter to customers explaining why the company was fighting a court order to unlock an iPhone tied to the San Bernardino attack.							See Example( s )
+Date: 16.02.18
+Link: https://www.snopes.com/apple-letter-san-bernardino/
+Verdict: true
+

@@ -1,0 +1,6 @@
+Title: Does a HIPAA ‘Medical Hack’ Avoid Insurance Claim Denials?
+Claim: Patients can circumvent insurance company claim denials by requesting a specific form of documentation, as the insurance company will opt to simply cover the cost rather than provide the paperwork.
+Date: 15.12.15
+Link: https://www.snopes.com/hipaa-medical-hack-insurance-claim-denials/
+Verdict: mixture
+

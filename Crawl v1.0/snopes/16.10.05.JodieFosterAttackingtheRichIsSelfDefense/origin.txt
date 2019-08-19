@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/jodie-foster-quote.jpg" target="_blank">
+   <img alt="jodie foster quote" class="alignnone size-full wp-image-54041" data-recalc-dims="1" sizes="(max-width: 805px) 100vw, 805px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/jodie-foster-quote.jpg?resize=805,808" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/jodie-foster-quote.jpg?w=805 805w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/jodie-foster-quote.jpg?resize=150,150 150w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/jodie-foster-quote.jpg?resize=300,300 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/jodie-foster-quote.jpg?resize=768,771 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/jodie-foster-quote.jpg?resize=32,32 32w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/jodie-foster-quote.jpg?resize=50,50 50w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/jodie-foster-quote.jpg?resize=64,64 64w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/jodie-foster-quote.jpg?resize=96,96 96w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/10/jodie-foster-quote.jpg?resize=128,128 128w"/>
+  </a>
+ </p>
+ <p>
+  Attacking the rich is not envy. It is self defense. The hoarding of wealth is the cause of poverty. The rich aren’t just indifferent to poverty; they create it and maintain it.
+ </p>
+</blockquote>

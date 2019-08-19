@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  GlaxoSmithKline is recalling nearly 600,000 prescription inhalers over defects, the FDA announced.
+ </p>
+ <p>
+  The voluntary recall targets Ventolin HFA (albuterol sulfate) Inhalation Aerosol, distributed via prescription nationwide.
+  <br>
+   The manufacturer said the drug delivery system is defective.
+  </br>
+ </p>
+</blockquote>

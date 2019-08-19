@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  <center>
+   <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/marijuana.jpg" target="_blank">
+    <img alt="" class="aligncenter wp-image-86190" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/marijuana.jpg?resize=600,337" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/marijuana.jpg?w=770 770w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/marijuana.jpg?resize=300,168 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/marijuana.jpg?resize=768,431 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/marijuana.jpg?resize=733,412 733w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/marijuana.jpg?resize=542,305 542w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/marijuana.jpg?resize=375,211 375w"/>
+   </a>
+  </center>
+  Marijuana now legal in state of Texas
+ </p>
+ <p>
+  In a 10-2 vote marijuana has now been legalized in the state of Texas. Texas first marijuana dispensaries said to open up in Corpus Christi, TX April 12, 2017. We were out speaking with local residents of Corpus Christi today who were very excited to say the least of the legalization.
+ </p>
+</blockquote>

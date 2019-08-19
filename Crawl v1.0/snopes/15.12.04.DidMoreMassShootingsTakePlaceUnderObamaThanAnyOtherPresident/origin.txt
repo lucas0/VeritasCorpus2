@@ -1,0 +1,31 @@
+<blockquote>
+ <p>
+  Mass Shootings under the Last Five Presidents
+ </p>
+ <p>
+  Ronald Reagan: 1981-1989 (8 years) 11 mass shootings
+  <br>
+   Incidents with 8 or more deaths = 5
+  </br>
+ </p>
+ <p>
+  George H. W. Bush: 1989-1993 (4 years) 12 mass murders
+  <br/>
+  Incidents with 8 or more deaths = 3
+ </p>
+ <p>
+  Bill Clinton: 1993-2001 (8 years) 23 mass murders
+  <br/>
+  Incidents with 8 or more deaths = 4
+ </p>
+ <p>
+  George W. Bush: 2001-2009 (8 years) 20 mass murders
+  <br/>
+  Incidents with 8 or more deaths = 5
+ </p>
+ <p>
+  Barrack H. Obama: 2009-2015 (in 7th year) 162 mass murders
+  <br/>
+  Incidents with 8 or more deaths = 18
+ </p>
+</blockquote>

@@ -1,0 +1,17 @@
+<blockquote>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/iZyaDKaun7w" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/iZyaDKaun7w" width="560">
+    </iframe>
+   </noscript>
+  </center>
+  <em>
+   I want people to realize the synchronicity here and all the connections. This was put out in 2000. Fifteen years ago. Fifteen years ago. Now this is happening.
+   <br>
+   </br>
+  </em>
+ </p>
+</blockquote>

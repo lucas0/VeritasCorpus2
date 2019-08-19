@@ -1,0 +1,17 @@
+<blockquote>
+ <p>
+  <em>
+   On September 15th, 2016, The Dr. Phil Show YouTube channel uploaded a clip in which a 13-year-old girl named Danielle appears on the show with her mother, who has turned to Dr. Phil because Danielle is stealing cars. Tired of the audience laughing at her, she cries “Catch me outside, how about that?”
+  </em>
+ </p>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/Gu10IiXVNBk" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/Gu10IiXVNBk" width="560">
+    </iframe>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

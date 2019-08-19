@@ -1,0 +1,6 @@
+Title: Does a Viral Video Show a Polar Bear Starving to Death?
+Claim: A video shared widely in December 2017 shows a polar bear starving to death on Baffin Island in the Canadian Arctic.
+Date: 17.12.12
+Link: https://www.snopes.com/starving-polar-bear-viral/
+Verdict: true
+

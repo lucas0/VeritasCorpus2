@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/BreakingNewsBaseballpic.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-114706 size-full" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/BreakingNewsBaseballpic.jpg?resize=600,696" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/BreakingNewsBaseballpic.jpg?w=600 600w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/BreakingNewsBaseballpic.jpg?resize=259,300 259w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  Archival photos reveal several white baseball players kneeling during the national anthem in protest of the lynching of innocent negroes and Jim Crow laws. The practice was quickly ended when the players realized that most of their fans were either KKK members or sympathizers.
+ </p>
+</blockquote>

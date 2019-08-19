@@ -1,0 +1,6 @@
+Title: Johnson’s Winking Glue
+Claim: An image shows an advertisement for a real product called Johnson's Winking Glue.
+Date: 16.08.16
+Link: https://www.snopes.com/winking-glue/
+Verdict: false
+

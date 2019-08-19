@@ -1,0 +1,6 @@
+Title: Santa’s Phone Number
+Claim: A number advertised on a Facebook page lets callers "leave messages" for Santa Claus.							See Example( s )
+Date: 16.12.14
+Link: https://www.snopes.com/santas-phone-number/
+Verdict: false
+

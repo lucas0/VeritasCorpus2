@@ -1,0 +1,17 @@
+<blockquote>
+ <p>
+  The Area Number is assigned by the geographical region. Prior to 1972, cards were issued in local Social Security offices around the country and the Area Number represented the State in which the card was issued.
+  <strong>
+   This did not necessarily have to be the State where the applicant lived, since a person could apply for their card in any Social Security office
+  </strong>
+  . Since 1972, when SSA began assigning SSNs and issuing cards centrally from Baltimore, the area number assigned has been based on the ZIP code in the mailing address provided on the application for the original Social Security card.
+  <strong>
+   The applicant’s mailing address does not have to be the same as their place of residence
+  </strong>
+  . Thus,
+  <strong>
+   the Area Number does not necessarily represent the State of residence of the applicant
+  </strong>
+  , either prior to 1972 or since..
+ </p>
+</blockquote>

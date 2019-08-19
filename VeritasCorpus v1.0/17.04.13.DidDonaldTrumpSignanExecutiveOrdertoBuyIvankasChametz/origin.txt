@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/Screenshot-2017-04-13-at-11.16.09-AM.png" target="_blank">
+   <img alt="" class="aligncenter size-full wp-image-86034" data-recalc-dims="1" sizes="(max-width: 270px) 100vw, 270px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/Screenshot-2017-04-13-at-11.16.09-AM.png?resize=270,344" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/Screenshot-2017-04-13-at-11.16.09-AM.png?w=270 270w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/Screenshot-2017-04-13-at-11.16.09-AM.png?resize=235,300 235w"/>
+  </a>
+ </p>
+ <p>
+  I Donald J. Trump, with this executive order, hereby purchase the entirety of my daughter Ivanka’s Chametz. Payment of 10 dollars has been transferred to her in exchange for this chametz
+ </p>
+</blockquote>

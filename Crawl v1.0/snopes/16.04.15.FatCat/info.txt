@@ -1,0 +1,6 @@
+Title: Fat Cat
+Claim: A photograph shows an obese tiger.							See Example( s )
+Date: 16.04.15
+Link: https://www.snopes.com/obese-tiger-photo/
+Verdict: false
+

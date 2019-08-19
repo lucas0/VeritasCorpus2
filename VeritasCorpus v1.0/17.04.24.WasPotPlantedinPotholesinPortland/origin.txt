@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/potholes-passive-aggressive.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-87540" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/potholes-passive-aggressive.jpg?resize=600,800" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/potholes-passive-aggressive.jpg?w=900 900w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/potholes-passive-aggressive.jpg?resize=225,300 225w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/potholes-passive-aggressive.jpg?resize=768,1024 768w"/>
+  </a>
+ </p>
+ <p>
+  The passive aggressive way of getting your town to deal with potholes.
+ </p>
+</blockquote>

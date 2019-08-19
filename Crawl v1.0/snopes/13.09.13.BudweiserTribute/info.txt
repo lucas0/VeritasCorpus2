@@ -1,0 +1,6 @@
+Title: Budweiser 9/11 Tribute
+Claim: A video clip shows a Budweiser tribute to the victims of 9/11 that was only aired once.							See Example( s )
+Date: 13.09.13
+Link: https://www.snopes.com/rumors/tributes/budweiser.asp
+Verdict: true
+

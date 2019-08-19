@@ -1,0 +1,16 @@
+<blockquote>
+ <p>
+  Frozen Dairy Dessert products are made with many of the same high-quality ingredients that are commonly found in Ice Cream – like fresh milk, cream and sugar – and offer a great taste and even smoother texture. According to the FDA, in order for a product to be labeled ice cream, it needs to meet two key requirements:
+ </p>
+ <ul>
+  <li>
+   Not less than 10% dairy fat
+  </li>
+  <li>
+   A percentage of overrun that results in a finished product weighing more than 4.5 pounds per gallon
+  </li>
+ </ul>
+ <p>
+  Anything that does not meet both of those requirements is not considered ice cream.
+ </p>
+</blockquote>

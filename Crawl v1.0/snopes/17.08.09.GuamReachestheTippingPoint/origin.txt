@@ -1,0 +1,62 @@
+<blockquote>
+ <p>
+  <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/v7XXVLKWd3Q" frameborder="0" height="315" width="560">
+  </iframe>
+  <noscript>
+   <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/v7XXVLKWd3Q" width="560">
+   </iframe>
+  </noscript>
+ </p>
+ <p>
+  <strong>
+   Johnson
+  </strong>
+  : This is a[n] island that at its widest level is what … twelve miles from shore to shore? And at its smallest level … uh, smallest location … it’s seven miles between one shore and the other? Is that correct?
+ </p>
+ <p>
+  <strong>
+   Willard
+  </strong>
+  : I don’t have the exact dimensions, but to your point, sir, I think Guam is a small island.
+ </p>
+ <p>
+  <strong>
+   Johnson
+  </strong>
+  : Very small island, about twenty-four miles, if I recall, long, twenty-four miles long, about seven miles wide at the least widest place on the island and about twelve miles wide on the widest part of the island, and I don’t know how many square miles that is. Do you happen to know?
+ </p>
+ <p>
+  <strong>
+   Willard
+  </strong>
+  : I don’t have that figure with me, sir, I can certainly supply it to you if you like.
+ </p>
+ <p>
+  <strong>
+   Johnson
+  </strong>
+  : Yeah, my fear is that the whole island will become so overly populated that it will tip over and capsize.
+ </p>
+ <p>
+  <strong>
+   Willard
+  </strong>
+  : We don’t anticipate that … the Guam population I think currently about 175,000 and again with 8,000 Marines and their families it’s an addition of about 25,000 more into the population.
+ </p>
+ <p>
+  <strong>
+   Johnson
+  </strong>
+  : And also things like the environment, the sensitive areas of the environment, coral reefs and those kinds of things, and I know that lots of people don’t like to think about that but … you know, we don’t think about global warming either, and now we
+  <u>
+   do
+  </u>
+  have to think about it, and so I’m concerned from an environmental standpoint whether or not Guam is the best place to do this relocation. but it’s actually the only place, is that correct?
+ </p>
+ <p>
+  <strong>
+   Willard
+  </strong>
+  : This is the best place, this is the farthest west U.S. territory that we own and this is part of our nation, and in readdressing the forward presence and posture importance to Pacific Command, Guam is vital to this decision.
+ </p>
+</blockquote>

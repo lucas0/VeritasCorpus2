@@ -1,0 +1,194 @@
+NO CONTENT 2: https://www.businesskorea.co.kr/article/7485/new-honeymoon-iphone-6-features-flood-components-made-samsung
+NO CONTENT 2: https://www.newsandstar.co.uk/news/carlisle-head-slapper-attacks-sneezing-women-1.1199717
+NO CONTENT 2: https://leancrew.com/all-this/2015/03/apple-gold/
+REDIRECT: https://techcrunch.com/2015/03/06/the-apple-watch-is-time-saved/#InYuXY:HADe
+NO CONTENT 2: https://theracketreport.com/kfc-gets-occupational-business-license-to-sell-marijuana-in-colorado-restaurants/
+NO CONTENT 2: https://thegame730am.com/pga-golfer-dan-olsen-says-tiger-woods-is-armstrong-of-golf/
+NO CONTENT 2: https://www.dailymail.co.uk/news/article-2958640/Photos-school-lunches-served-world-reveal-just-meager-America-s-meals-compared-cash-strapped-nations.html
+NO CONTENT 2: https://lifenews.ru/news/150348
+NO CONTENT 2: https://www.dailymail.co.uk/news/article-2958242/Brazilian-former-porn-star-Diane-DeJesus-mystery-figure-5million-year-YouTube-sensation-DC-Toys-Collector.html
+ERROR (selenium): https://english.farsnews.com/newstext.aspx?nn=13931204001534timed out
+ERROR (requests): https://english.farsnews.com/newstext.aspx?nn=13931204001534
+ERROR (selenium): nanMessage: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot navigate to invalid URL"}
+  (Session info: headless chrome=66.0.3359.181)
+  (Driver info: chromedriver=2.38.552518 (183d19265345f54ce39cbb94cf81ba5f15905011),platform=Mac OS X 10.13.4 x86_64)
+
+ERROR (requests): nan
+NO CONTENT 2: https://www.al-monitor.com/pulse/security/2014/12/islamic-state-financing-funding-human-trafficking-extortion.html#
+NO CONTENT 2: https://www.avsforum.com/forum/34-hdtv-programming/1490528-tbs-speeds-up-seinfeld-full-7-5-percent-here-proof.html
+FORMAT: https://www.breitbart.com/video/2015/02/11/report-marines-ordered-by-state-dept-to-surrender-weapons-in-us-embassy-evac-in-yemen/
+ERROR (selenium): https://ikwiz.com/article.asp?id=9173&name=J.J.+Abrams+Asks+Disney+To+Move+Up+%27Star+Wars%3A+The+Force+Awakens+Release%27+Date+timed out
+ERROR (requests): https://ikwiz.com/article.asp?id=9173&name=J.J.+Abrams+Asks+Disney+To+Move+Up+%27Star+Wars%3A+The+Force+Awakens+Release%27+Date+
+LANGUAGE: ar https://www.almasryalyoum.com/news/details/648097 <!DOCTYPE 
+NO CONTENT 2: https://www.annaharkw.com/annahar/Article.aspx?id=525170
+NO CONTENT 2: https://www.oaoa.com/news/education/article_6b47c224-a8d2-11e4-8989-1f5b0d13dadd.html
+REDIRECT: https://www.cnn.com/2015/01/29/politics/bergdahl-swap-prisoner-militant-activity/
+NO CONTENT 2: https://o.canada.com/life/food-drink/attention-children-of-the-90s-you-can-still-get-mcdonalds-pizza
+NO CONTENT 2: https://www.breitbart.com/texas/2015/01/27/hold-islamic-tribunal-confirmed-in-texas-its-voluntary-says-attorney/
+NO CONTENT 2: https://www.forbes.com/sites/robertcringely/2015/01/22/next-weeks-bloodbath-at-ibm-wont-fix-the-real-problem/
+NO CONTENT 2: https://money.udn.com/storypage.php?sub_id=5615&art_id=638904
+REDIRECT: https://instagram.com/p/xkgkBSKlWu/?modal=true
+NO CONTENT 2: https://empirenews.net/dna-results-confirm-michael-jackson-is-biological-father-of-bruno-mars/
+ERROR (selenium): https://nbctoday.co/playboy-tycoon-hugh-hefner-passes-away-age-88.htmltimed out
+ERROR (requests): https://nbctoday.co/playboy-tycoon-hugh-hefner-passes-away-age-88.html
+NO CONTENT 2: https://empirenews.net/kurt-sutter-announces-plans-for-sons-of-anarchy-movie-starring-charlie-hunnam-brad-pitt/
+ERROR (selenium): https://www.feng.com/iPhone/news/2014-12-03/For-single--handed-operation-_601719.shtmltimed out
+ERROR (requests): https://www.feng.com/iPhone/news/2014-12-03/For-single--handed-operation-_601719.shtml
+NO CONTENT 2: https://msnbc.website/axl-rose-found-dead-hollywood-home.html
+NO CONTENT 2: https://www.noticiasunam.com/2014/12/the-famous-dog-whisperer-cesar-millan.html
+NO CONTENT 2: https://gawker.com/vogue-s-shiny-new-office-has-a-big-rat-problem-1661685600?utm_campaign=socialflow_gawker_twitter&utm_source=gawker_twitter&utm_medium=socialflow
+NO CONTENT 2: https://www.mirror.co.uk/3am/celebrity-news/led-zeppelins-robert-plant-turns-4595788
+NO CONTENT 2: https://msnbc.website/macaulay-culkin-found-dead-at-age-34.html
+NO CONTENT 2: https://www.8newsnow.com/story/27147863/breaking-news-baseball-star-jose-canseco-hurt-in-accidental-shooting
+NO CONTENT 2: https://foxnews.es/judd-nelson-found-dead-los-angeles-condo.html
+NO CONTENT 2: https://nationalreport.net/banksy-arrested-identity-revealed/
+ERROR (selenium): https://www.cnn.com/2014/09/16/showbiz/joan-rivers-clinic/index.html?sr=sharebar_twittertimed out
+ERROR (requests): https://www.cnn.com/2014/09/16/showbiz/joan-rivers-clinic/index.html?sr=sharebar_twitter
+ERROR (selenium): https://www.bleedingcool.com/2014/09/12/has-the-batman-vs-superman-batmobile-been-stolen-in-detroit/timed out
+ERROR (requests): https://www.bleedingcool.com/2014/09/12/has-the-batman-vs-superman-batmobile-been-stolen-in-detroit/
+ERROR (selenium): https://www.theprovince.com/sports/Tony+Gallagher+Bettman+changed+tune+expansion/10150984/story.htmltimed out
+ERROR (requests): https://www.theprovince.com/sports/Tony+Gallagher+Bettman+changed+tune+expansion/10150984/story.html
+ERROR (selenium): https://www.scotsman.com/news/scotland/top-stories/kim-jong-un-planning-scottish-restaurant-1-3658069timed out
+ERROR (requests): https://www.scotsman.com/news/scotland/top-stories/kim-jong-un-planning-scottish-restaurant-1-3658069
+ERROR (selenium): https://espn.go.com/mens-college-basketball/story/_/id/12328436/oregon-state-beavers-flight-delayed-scorpion-stings-woman-aboard-planetimed out
+ERROR (requests): https://espn.go.com/mens-college-basketball/story/_/id/12328436/oregon-state-beavers-flight-delayed-scorpion-stings-woman-aboard-plane
+ERROR (selenium): https://adobochronicles.com/2015/02/09/kanye-west-barred-from-all-future-awards-shows/timed out
+ERROR (requests): https://adobochronicles.com/2015/02/09/kanye-west-barred-from-all-future-awards-shows/
+ERROR (selenium): https://nypost.com/2015/02/08/charles-mansons-fiancee-wanted-to-marry-him-for-his-corpse-source/timed out
+ERROR (requests): https://nypost.com/2015/02/08/charles-mansons-fiancee-wanted-to-marry-him-for-his-corpse-source/
+ERROR (selenium): https://news.khan.co.kr/kh_news/khan_art_view.html?artid=201502051134421&code=620100timed out
+ERROR (requests): https://news.khan.co.kr/kh_news/khan_art_view.html?artid=201502051134421&code=620100
+ERROR (selenium): https://metro.co.uk/2015/02/08/owl-kills-mate-because-he-has-a-small-penis-5054093/timed out
+ERROR (requests): https://metro.co.uk/2015/02/08/owl-kills-mate-because-he-has-a-small-penis-5054093/
+ERROR (selenium): https://www.weibo.com/1652811601/C2Ac4hGw4?type=commenttimed out
+ERROR (requests): https://www.weibo.com/1652811601/C2Ac4hGw4?type=comment
+ERROR (selenium): https://youtu.be/HY7gSAYAf8stimed out
+ERROR (requests): https://youtu.be/HY7gSAYAf8s
+ERROR (selenium): https://humanesocietytampa.org/miracle-cat-comes-back-from-the-grave/timed out
+ERROR (requests): https://humanesocietytampa.org/miracle-cat-comes-back-from-the-grave/
+NO CONTENT 2: https://www.silbaleatumadre.com/
+LANGUAGE: it https://www.corriereadriatico.it/MACERATA/san_severino_marche_suora_partorisce_ospedale_clausura_beb_amp_egrave/notizie/1136921.shtml <!DOCTYPE 
+REDIRECT: https://www.freep.com/story/news/local/michigan/2015/01/16/pizza-driver-tip-ann-arbor/21894497/
+NO CONTENT 2: https://www.plymouthherald.co.uk/year-old-Plymouth-boy-gets-missing-school-friend/story-25884528-detail/story.html
+NO CONTENT 2: https://empirenews.net/accused-boston-marathon-bomber-severely-injured-in-prison-may-never-walk-or-talk-again/
+LANGUAGE: ru https://vk.com/zaschitim_detei?w=wall-35868870_8051 <!DOCTYPE 
+NO CONTENT 2: https://news.hnr.cn/dj/201412/t20141231_1774070.html
+NO CONTENT 2: https://www.facebook.com/antligenmorgon/posts/10152709871103163&usg=ALkJrhi3RDaKwqZcoujanB8CMacxMFe-hQ
+NO CONTENT 2: https://www.edp24.co.uk/news/photo_gallery_amazing_300_operation_by_north_walsham_vet_on_constipated_goldfish_1_3902958
+REDIRECT: https://www.rmf24.pl/nauka/news-niezwykla-operacja-w-katowicach-pacjentke-wybudzono-w-trakci,nId,1580273
+ERROR (selenium): https://edu.sina.com.cn/l/2014-10-28/0826251064.shtmltimed out
+ERROR (requests): https://edu.sina.com.cn/l/2014-10-28/0826251064.shtml
+NO CONTENT 2: https://www.dailymail.co.uk/news/article-2791108/mob-rule-chinese-adulteress-stripped-naked-beaten-senseless-latest-attack-kind.html
+NO CONTENT 2: https://www.dailymail.co.uk/news/article-2803459/Comfort-eating-Chinese-woman-26-spends-entire-WEEK-KFC-dumped-boyfriend.html
+REDIRECT: https://austriantimes.at/news/Around_the_World/2014-11-17/51962/Evil_Aunt_Hacks_Off_Toddlers_Penis
+FORMAT: https://austriantimes.at/image/40313/news/Around_the_World/2014-12-03/52021/Ski_Resort_Opens_With_Snow_Stored_From_Last_Season
+NO CONTENT 2: https://www.dailymail.co.uk/news/article-2890002/Browned-Shoppers-covered-poop-overfilled-septic-tanker-explodes-busy-Chinese-street.html
+NO CONTENT 2: https://empirenews.net/bin-laden-shooter-rob-oneill-mistakenly-attacked-by-street-thugs-seeking-to-collect-debt-from-neighbor/
+ERROR (selenium): https://9to5mac.com/2015/03/06/sources-offer-hands-on-apple-watch-details-battery-life-unannounced-features-and-more/timed out
+ERROR (requests): https://9to5mac.com/2015/03/06/sources-offer-hands-on-apple-watch-details-battery-life-unannounced-features-and-more/
+ERROR (selenium): https://preview.howtospendit.ft.com/technology/77791-the-man-behind-the-apple-watchtimed out
+ERROR (requests): https://preview.howtospendit.ft.com/technology/77791-the-man-behind-the-apple-watch
+ERROR (selenium): https://appleinsider.com/articles/15/03/06/bmo-forecasts-19m-apple-watch-sales-in-2015-with-more-than-half-selling-in-holiday-seasontimed out
+ERROR (requests): https://appleinsider.com/articles/15/03/06/bmo-forecasts-19m-apple-watch-sales-in-2015-with-more-than-half-selling-in-holiday-season
+ERROR (selenium): https://techcrunch.com/2015/03/05/would-you-buy-a-smart-band-for-an-apple-watch/timed out
+ERROR (requests): https://techcrunch.com/2015/03/05/would-you-buy-a-smart-band-for-an-apple-watch/
+ERROR (selenium): https://blogs.strategyanalytics.com/WDE/post/2015/03/05/Apple-Watch-to-Ship-15-Million-Units-Worldwide-in-2015.aspxtimed out
+ERROR (requests): https://blogs.strategyanalytics.com/WDE/post/2015/03/05/Apple-Watch-to-Ship-15-Million-Units-Worldwide-in-2015.aspx
+LANGUAGE: fr https://www.iphonote.com/actu/76493/apple-watch-la-gravure-pourrait-etre-de-la-partie-aussi-sur-la-montre <!DOCTYPE 
+REDIRECT: https://www.marco.org/2015/03/04/boring-apple-watch-edition-pricing
+REDIRECT: https://www.businessinsider.com/apple-watch-limitations-due-to-battery-life-2015-3
+ERROR (selenium): https://bgr.com/2015/02/27/ios-8-2-ios-8-3-download-release/timed out
+ERROR (requests): https://bgr.com/2015/02/27/ios-8-2-ios-8-3-download-release/
+ERROR (selenium): https://www.nytimes.com/2015/03/02/technology/apples-new-job-selling-a-smartwatch-to-an-uninterested-public.html?_r=0timed out
+ERROR (requests): https://www.nytimes.com/2015/03/02/technology/apples-new-job-selling-a-smartwatch-to-an-uninterested-public.html?_r=0
+ERROR (selenium): https://grail-watch.com/2015/02/16/gold-apple-watch-edition-must-cost-10000/timed out
+ERROR (requests): https://grail-watch.com/2015/02/16/gold-apple-watch-edition-must-cost-10000/
+ERROR (selenium): https://grail-watch.com/2015/02/27/the-case-against-the-10000-gold-apple-watch-edition/timed out
+ERROR (requests): https://grail-watch.com/2015/02/27/the-case-against-the-10000-gold-apple-watch-edition/
+REDIRECT: https://blogs.barrons.com/techtraderdaily/2015/02/26/apple-citi-sees-550-and-950-apple-watches-accessory-plethora/
+LANGUAGE: fr https://www.igen.fr/apple-watch/2015/02/tim-cook-je-garde-mon-apple-watch-sous-la-douche-89937 <!DOCTYPE 
+REDIRECT: https://blogs.barrons.com/techtraderdaily/2015/02/23/apple-every-iphone-owner-will-want-one-says-global-equities/
+ERROR (selenium): https://9to5mac.com/2015/02/19/apple-considering-dedicated-apple-watch-stores-as-it-sets-up-paris-booth/timed out
+ERROR (requests): https://9to5mac.com/2015/02/19/apple-considering-dedicated-apple-watch-stores-as-it-sets-up-paris-booth/
+ERROR (selenium): https://9to5mac.com/2015/02/19/18-karat-gold-apple-watch-cost-pricing/timed out
+ERROR (requests): https://9to5mac.com/2015/02/19/18-karat-gold-apple-watch-cost-pricing/
+ERROR (selenium): https://blogs.wsj.com/digits/2015/02/17/apple-orders-more-than-5-million-watches-for-initial-run/?mod=e2twtimed out
+ERROR (requests): https://blogs.wsj.com/digits/2015/02/17/apple-orders-more-than-5-million-watches-for-initial-run/?mod=e2tw
+ERROR (selenium): https://www.ccsinsight.com/press/company-news/2137-wearables-market-2015-is-year-that-will-make-or-break-the-smartwatchtimed out
+ERROR (requests): https://www.ccsinsight.com/press/company-news/2137-wearables-market-2015-is-year-that-will-make-or-break-the-smartwatch
+ERROR (selenium): https://www.wsj.com/articles/challenge-of-apple-watch-defining-its-purpose-1424133615timed out
+ERROR (requests): https://www.wsj.com/articles/challenge-of-apple-watch-defining-its-purpose-1424133615
+REDIRECT: https://blogs.barrons.com/asiastocks/2015/02/12/who-will-supply-apple-watch/
+LANGUAGE: de https://www.apfelpage.de/2015/02/13/apple-watch-release-wohl-vorerst-nur-in-apple-stores/ <!DOCTYPE 
+REDIRECT: https://online.wsj.com/articles/amazon-to-open-first-store-1412879124
+ERROR (selenium): https://9to5mac.com/community/my-iphone-6-plus-is-yanking-out-my-hair/timed out
+ERROR (requests): https://9to5mac.com/community/my-iphone-6-plus-is-yanking-out-my-hair/
+ERROR (selenium): https://www.businessweek.com/articles/2014-10-06/jeff-bezos-plan-for-news-washington-post-becomes-an-amazon-producttimed out
+ERROR (requests): https://www.businessweek.com/articles/2014-10-06/jeff-bezos-plan-for-news-washington-post-becomes-an-amazon-product
+ERROR (selenium): https://www.bizjournals.com/sanjose/news/2014/10/03/google-to-buy-big-chunk-of-pacific-shores-iconic.html?page=alltimed out
+ERROR (requests): https://www.bizjournals.com/sanjose/news/2014/10/03/google-to-buy-big-chunk-of-pacific-shores-iconic.html?page=all
+ERROR (selenium): https://online.wsj.com/articles/hewlett-packard-plans-to-break-in-two-1412530028?mod=WSJ_hp_LEFTTopStoriestimed out
+ERROR (requests): https://online.wsj.com/articles/hewlett-packard-plans-to-break-in-two-1412530028?mod=WSJ_hp_LEFTTopStories
+ERROR (selenium): https://www.macrumors.com/2014/09/29/reset-all-settings-icloud-drive-bug/timed out
+ERROR (requests): https://www.macrumors.com/2014/09/29/reset-all-settings-icloud-drive-bug/
+ERROR (selenium): https://techcrunch.com/2014/09/22/apple-plans-to-shut-down-beats-music/timed out
+ERROR (requests): https://techcrunch.com/2014/09/22/apple-plans-to-shut-down-beats-music/
+REDIRECT: https://online.wsj.com/articles/microsoft-near-deal-to-buy-minecraft-1410300213
+LANGUAGE: fr https://france3-regions.francetvinfo.fr/limousin/2015/01/08/limoges-suicide-d-un-commissaire-de-police-626916.html <!DOCTYPE 
+ERROR (selenium): https://bbc-news.co.uk/doubts-raised-over-authenticity-of-charlie-hebdo-footagetimed out
+ERROR (requests): https://bbc-news.co.uk/doubts-raised-over-authenticity-of-charlie-hebdo-footage
+ERROR (selenium): https://indianexpress.com/article/cities/delhi/cpwd-official-sacked-for-absence-from-duty-for-25-years/timed out
+ERROR (requests): https://indianexpress.com/article/cities/delhi/cpwd-official-sacked-for-absence-from-duty-for-25-years/
+ERROR (selenium): https://www.mirror.co.uk/news/world-news/shocking-picture-shows-mother-trying-4927103timed out
+ERROR (requests): https://www.mirror.co.uk/news/world-news/shocking-picture-shows-mother-trying-4927103
+ERROR (selenium): https://www.alsabaah.iq/ArticleShow.aspx?ID=83690timed out
+ERROR (requests): https://www.alsabaah.iq/ArticleShow.aspx?ID=83690
+ERROR (selenium): https://www.mirror.co.uk/news/world-news/isis-launch-scorpion-bombs-spread-4817241timed out
+ERROR (requests): https://www.mirror.co.uk/news/world-news/isis-launch-scorpion-bombs-spread-4817241
+ERROR (selenium): https://www.bedfordshire-news.co.uk/Unbearable-Carolling-toy-Shefford-gagged-council/story-25702748-detail/story.htmltimed out
+ERROR (requests): https://www.bedfordshire-news.co.uk/Unbearable-Carolling-toy-Shefford-gagged-council/story-25702748-detail/story.html
+ERROR (selenium): https://www.thesun.co.uk/sol/homepage/news/6176017/EXCLUSIVE-TV-gardener-Alan-Titchmarsh-finds-magic-mushrooms-at-Buckingham-palace.htmltimed out
+ERROR (requests): https://www.thesun.co.uk/sol/homepage/news/6176017/EXCLUSIVE-TV-gardener-Alan-Titchmarsh-finds-magic-mushrooms-at-Buckingham-palace.html
+ERROR (selenium): https://archiviostorico.corriere.it/2014/novembre/27/Papa_gli_animali_Paradiso_aperto_co_0_20141127_113a59e8-7607-11e4-8dd1-b9af854f838d.shtmltimed out
+ERROR (requests): https://archiviostorico.corriere.it/2014/novembre/27/Papa_gli_animali_Paradiso_aperto_co_0_20141127_113a59e8-7607-11e4-8dd1-b9af854f838d.shtml
+ERROR (selenium): https://www.buzzfeed.com/mikegiglio/isis-is-trying-to-sell-the-body-of-us-hostage-james-foley-fotimed out
+ERROR (requests): https://www.buzzfeed.com/mikegiglio/isis-is-trying-to-sell-the-body-of-us-hostage-james-foley-fo
+ERROR (selenium): https://www.theguardian.com/world/2014/dec/03/kim-jong-un-north-korea-name-bantimed out
+ERROR (requests): https://www.theguardian.com/world/2014/dec/03/kim-jong-un-north-korea-name-ban
+ERROR (selenium): https://www.theguardian.com/world/2014/dec/02/al-baghdadi-wife-son-arrest-lebanon-fake-passporttimed out
+ERROR (requests): https://www.theguardian.com/world/2014/dec/02/al-baghdadi-wife-son-arrest-lebanon-fake-passport
+ERROR (selenium): https://www.jpost.com/Middle-East/Report-ISIS-kidnaps-former-IDF-Canadian-Israeli-soldier-who-went-to-fight-with-the-Kurds-383238timed out
+ERROR (requests): https://www.jpost.com/Middle-East/Report-ISIS-kidnaps-former-IDF-Canadian-Israeli-soldier-who-went-to-fight-with-the-Kurds-383238
+ERROR (selenium): https://www.tolonews.com/en/afghanistan/17230-afghan-mother-kills-25-talibantimed out
+ERROR (requests): https://www.tolonews.com/en/afghanistan/17230-afghan-mother-kills-25-taliban
+ERROR (selenium): https://www.dailystar.co.uk/news/latest-news/411816/kim-jong-un-necks-litres-rare-snake-wine-because-too-fat-please-wifetimed out
+ERROR (requests): https://www.dailystar.co.uk/news/latest-news/411816/kim-jong-un-necks-litres-rare-snake-wine-because-too-fat-please-wife
+ERROR (selenium): https://gtrk-omsk.ru/news/detail.php?IBLOCK_ID=3&ID=158635&SECTION_ID=13timed out
+ERROR (requests): https://gtrk-omsk.ru/news/detail.php?IBLOCK_ID=3&ID=158635&SECTION_ID=13
+ERROR (selenium): https://www.dailymail.co.uk/news/article-2836124/GOT-Jihadi-John-wounded-airstrike-Foreign-Office-confirms-MOS-aware-reports-injury.htmltimed out
+ERROR (requests): https://www.dailymail.co.uk/news/article-2836124/GOT-Jihadi-John-wounded-airstrike-Foreign-Office-confirms-MOS-aware-reports-injury.html
+ERROR (selenium): https://www.telegraph.co.uk/news/worldnews/africaandindianocean/nigeria/11169959/Nigerias-missing-schoolgirls-to-be-released-after-ceasefire-deal.htmltimed out
+ERROR (requests): https://www.telegraph.co.uk/news/worldnews/africaandindianocean/nigeria/11169959/Nigerias-missing-schoolgirls-to-be-released-after-ceasefire-deal.html
+ERROR (selenium): https://www.reuters.com/article/2014/10/17/us-mideast-crisis-jets-idUSKCN0I60TM20141017timed out
+ERROR (requests): https://www.reuters.com/article/2014/10/17/us-mideast-crisis-jets-idUSKCN0I60TM20141017
+ERROR (selenium): https://www.independent.co.uk/news/world/middle-east/isis-behead-their-own-fighters-for-spying-and-embezzlement-in-syria-9797687.htmltimed out
+ERROR (requests): https://www.independent.co.uk/news/world/middle-east/isis-behead-their-own-fighters-for-spying-and-embezzlement-in-syria-9797687.html
+ERROR (selenium): https://www.reuters.com/article/2014/10/09/us-northkorea-kim-idUSKCN0HY09T20141009timed out
+ERROR (requests): https://www.reuters.com/article/2014/10/09/us-northkorea-kim-idUSKCN0HY09T20141009
+ERROR (selenium): https://www.foxnews.com/politics/2014/10/08/congressman-at-least-10-isis-fighters-caught-trying-to-cross-into-us/timed out
+ERROR (requests): https://www.foxnews.com/politics/2014/10/08/congressman-at-least-10-isis-fighters-caught-trying-to-cross-into-us/
+ERROR (selenium): https://www.proceso.com.mx/?p=383800timed out
+ERROR (requests): https://www.proceso.com.mx/?p=383800
+NO CONTENT 2: https://www.nkis.kr/board.php?board=nkisb201&config=&command=body&no=543&
+ERROR (selenium): https://english.chosun.com/site/data/html_dir/2014/09/30/2014093000994.htmltimed out
+ERROR (requests): https://english.chosun.com/site/data/html_dir/2014/09/30/2014093000994.html
+NO CONTENT 2: https://www.dailymail.co.uk/news/article-2773268/ISIS-militants-fighting-Iraqi-government-forces-just-six-miles-Baghdad-despite-Western-airstrikes-against-terror-group.html?ito=social-twitter_mailonline
+REDIRECT: https://lazerprincess.tumblr.com/post/106447705738/suicide-note
+REDIRECT: https://www.bostonherald.com/news_opinion/local_coverage/2014/12/mfa_expert_digs_out_state_house_time_capsule
+NO CONTENT 2: https://nationalreport.net/terror-plot-targeting-black-friday-shoppers-uncovered/
+NO CONTENT 2: https://nationalreport.net/mom-calls-911-on-son-new-self-rape-law/
+REDIRECT: https://bigstory.ap.org/article/98ab07fc81e041da828fe5835a27d544/dangerous-situation-reported-florida-state
+NO CONTENT 2: https://nationalreport.net/texas-town-quarantined-family-five-test-positive-ebola-virus/
+NO CONTENT 2: https://www.whatdoesitmean.com/index1809.htm
+NO CONTENT 2: https://www.wfaa.com/story/news/health/2014/10/08/patient-frisco-ebola-suspect/16922477/
+REDIRECT: https://www.cnn.com/2014/08/26/us/michael-brown-ferguson-shooting/

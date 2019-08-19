@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  Y’all are mad at an athlete? This is your government!
+ </p>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/14079944_10157389103370646_4088637072681116043_n.jpg" target="_blank">
+   <img alt="14079944_10157389103370646_4088637072681116043_n" class="alignnone size-full wp-image-48753" data-recalc-dims="1" sizes="(max-width: 381px) 100vw, 381px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/14079944_10157389103370646_4088637072681116043_n.jpg?resize=381,567" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/14079944_10157389103370646_4088637072681116043_n.jpg?w=381 381w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/08/14079944_10157389103370646_4088637072681116043_n.jpg?resize=202,300 202w"/>
+  </a>
+ </div>
+</blockquote>

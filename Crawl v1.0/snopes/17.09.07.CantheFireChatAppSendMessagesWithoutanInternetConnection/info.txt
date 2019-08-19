@@ -1,0 +1,6 @@
+Title: Can the ‘FireChat’ App Send Messages Without an Internet Connection?
+Claim: The FireChat app can send messages without any connection to the Internet.
+Date: 17.09.07
+Link: https://www.snopes.com/can-firechat-send-messages-without-internet/
+Verdict: true
+

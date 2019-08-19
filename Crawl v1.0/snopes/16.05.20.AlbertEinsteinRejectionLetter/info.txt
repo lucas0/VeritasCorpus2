@@ -1,0 +1,6 @@
+Title: Albert Einstein Rejection Letter
+Claim: An image shows a rejection letter Albert Einstein received from the University of Bern in 1907.
+Date: 16.05.20
+Link: https://www.snopes.com/einstein-rejection-letter/
+Verdict: false
+

@@ -1,0 +1,17 @@
+<blockquote>
+ <p>
+  <em>
+   The first thing I’m going to do is tell you that if I’m elected president, I’m accepting no salary, ok. That’s not a big deal for me, but. The next thing is, when these guys go to Congress, as per your question, when they go to Congress, a couple of things happen. First of all, they get benefits that nobody else can even think about, ok. And they don’t like to talk about it. But we’ll work on that.
+  </em>
+ </p>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/56SxICbH1i8" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/56SxICbH1i8" width="560">
+    </iframe>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

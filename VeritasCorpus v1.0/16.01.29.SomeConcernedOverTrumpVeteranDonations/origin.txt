@@ -1,0 +1,10 @@
+<blockquote>
+ <div style="text-align: center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/Screenshot-2016-01-29-at-12.35.40-PM.png" target="_blank">
+   <img alt="Screenshot 2016-01-29 at 12.35.40 PM" class="aligncenter size-full wp-image-17424" data-recalc-dims="1" sizes="(max-width: 646px) 100vw, 646px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/Screenshot-2016-01-29-at-12.35.40-PM.png?resize=646,615" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/Screenshot-2016-01-29-at-12.35.40-PM.png?w=646 646w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/Screenshot-2016-01-29-at-12.35.40-PM.png?resize=300,286 300w"/>
+  </a>
+ </div>
+ <p>
+  The Donald J Trump Foundation is a 501(c)(3) nonprofit organization. An email confirmation with a summary of your donation will be sent to the email address provided above.
+ </p>
+</blockquote>

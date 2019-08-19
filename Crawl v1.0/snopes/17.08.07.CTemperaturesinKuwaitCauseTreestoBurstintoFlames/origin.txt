@@ -1,0 +1,18 @@
+<blockquote>
+ <p>
+  In Kuwait, the air temperature in some places reached 62 degrees Celsius in an open area where there is no shadow.
+ </p>
+ <p>
+  Users of social networks share videos of burning trees, bushes, and also note that because of the heat, gasoline in the car tanks exploded.
+ </p>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/LrpYoyzC1nM" frameborder="0" height="345" width="600">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="345" src="https://www.youtube.com/embed/LrpYoyzC1nM" width="600">
+    </iframe>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

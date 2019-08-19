@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  So you don’t want to hear about the truth… That’s ok. I will show you. Pig crates. This is where your bacon comes from. Try spending your entire life in one of these.  You’re welcome.
+  <!--<a href="http://www.snopes.com/wordpress/wp-content/uploads/2016/01/pig-crates.png"><img class="aligncenter size-full wp-image-16043" src="http://www.snopes.com/wordpress/wp-content/uploads/2016/01/pig-crates.png" alt="pig crates" width="905" height="598" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/pig-crates.png?w=905 905w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/pig-crates.png?resize=300,198 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/pig-crates.png?resize=768,507 768w" sizes="(max-width: 905px) 100vw, 905px" /></a>-->
+ </p>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/pig-crates.jpeg" target="_blank">
+   <img alt="pig crates" class="alignnone size-full wp-image-128121" data-recalc-dims="1" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/pig-crates.jpeg?resize=276,182"/>
+  </a>
+ </p>
+</blockquote>

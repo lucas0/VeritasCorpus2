@@ -1,0 +1,6 @@
+Title: Breyers Ice Cream Doesn’t Melt?
+Claim: Breyers ice cream doesn't melt.
+Date: 16.05.16
+Link: https://www.snopes.com/breyers-ice-cream-melt/
+Verdict: mfalse
+

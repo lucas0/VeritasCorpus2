@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  <center>
+   <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/ivanka-trump-golden-globe.jpg" target="_blank">
+    <img alt="ivanka trump golden globe" class="black-border aligncenter wp-image-66132" data-recalc-dims="1" sizes="(max-width: 400px) 100vw, 400px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/ivanka-trump-golden-globe.jpg?resize=400,630" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/ivanka-trump-golden-globe.jpg?w=377 377w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/ivanka-trump-golden-globe.jpg?resize=190,300 190w"/>
+   </a>
+  </center>
+  <br/>
+  Socialite Ivanka Trump arrives at the NBC/Universal Golden Globe After Party held at the Beverly Hilton on January 15, 2007 in Beverly Hills, California.
+ </p>
+</blockquote>

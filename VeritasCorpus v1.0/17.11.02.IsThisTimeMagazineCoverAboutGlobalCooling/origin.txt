@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  An example [of the] global cooling scare of the 70s.
+ </p>
+</blockquote>

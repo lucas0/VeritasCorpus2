@@ -1,0 +1,8 @@
+<blockquote>
+ <p class="p3">
+  Last December, Ohio’s Board of Pharmacy began reporting sales of gabapentin prescriptions in its regular monitoring of controlled substances. The drug, which is not an opioid nor designated a controlled substance by federal authorities, is used to treat nerve pain.
+ </p>
+ <p class="p3">
+  But the board found that it was the most prescribed medication on its list that month, surpassing oxycodone by more than 9 million doses. In February, the Ohio Substance Abuse Monitoring Network issued an alert regarding increasing misuse across the state.
+ </p>
+</blockquote>

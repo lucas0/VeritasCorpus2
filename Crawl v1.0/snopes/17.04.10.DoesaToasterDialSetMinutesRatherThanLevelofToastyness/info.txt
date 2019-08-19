@@ -1,0 +1,6 @@
+Title: Does a Toaster Dial Set Minutes Rather Than ‘Level of Toasty-ness’?
+Claim: The numbers on a toaster indicate duration of toasting in minutes, and not a "degree of toastiness."
+Date: 17.04.10
+Link: https://www.snopes.com/a-toaster-dial-is-for-minutes-not-level-of-toasty-ness/
+Verdict: false
+

@@ -1,0 +1,6 @@
+Title: Mickey Mouse Makes Swiss Cheese
+Claim: A Disney cartoon shows Mickey Mouse using an unusual method to make Swiss cheese.
+Date: 16.09.12
+Link: https://www.snopes.com/disney/films/mickeycheese.asp
+Verdict: false
+

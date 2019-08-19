@@ -1,0 +1,8 @@
+<blockquote>
+ <p>
+  In the research commissioned by the Japanese Ministry of Health, it was found that formaldehyde and acetaldehyde carcinogens are present, and prevalent, in the liquid produced by many e-cigarette products.
+ </p>
+ <p>
+  Furthermore, it was determined that e-cigarettes can fuel potentially life-threatening drug-resistant pathogens. This discovery comes from a lab study that tested the vapor from e-cigarettes on live methicillin-resistant Staphylococcus aureus (MRSA) and human cells
+ </p>
+</blockquote>

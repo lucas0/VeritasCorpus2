@@ -1,0 +1,6 @@
+Title: Is ‘Trumpy Bear’ a Real Product?
+Claim: A stuffed animal called "Trumpy Bear" is a real product available for purchase.
+Date: 18.01.11
+Link: https://www.snopes.com/trumpy-bear/
+Verdict: true
+

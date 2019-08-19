@@ -1,0 +1,17 @@
+<blockquote>
+ <p>
+  <em>
+   Scratching one’s face is one of the oldest signals in the book. You can be sure if this was a blackjack table and the house noticed a player making similar signals to a dealer they’d be investigated.
+  </em>
+ </p>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/14GvS9O0zhY" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/14GvS9O0zhY" width="560">
+    </iframe>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

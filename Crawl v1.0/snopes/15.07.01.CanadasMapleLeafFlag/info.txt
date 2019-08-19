@@ -1,0 +1,6 @@
+Title: Canada’s Maple Leaf Flag
+Claim: The eleven points on the maple leaf of Canada's flag represent the number of Canadian provinces and territories.							See Example( s )
+Date: 15.07.01
+Link: https://www.snopes.com/history/canada/mapleleafflag.asp
+Verdict: false
+

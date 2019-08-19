@@ -1,0 +1,14 @@
+<blockquote>
+ <p>
+  President Trump received an urgent warning in February, informing him of a crucial date he was about to miss.
+ </p>
+ <p class="story-body-text story-content" data-para-count="206" data-total-count="330">
+  “FYI manufacturing deadlines for the Easter eggs are near,” said a Twitter post directed at Mr. Trump; the first lady, Melania Trump; and the president’s daughter Ivanka Trump. “Please reach out!”
+ </p>
+ <p class="story-body-text story-content" data-para-count="242" data-total-count="572">
+  The message came from Wells Wood Turning &amp; Finishing, the company that supplies commemorative wooden eggs for the annual White House Easter Egg Roll, the 138-year-old celebration that has drawn 35,000 people to the South Lawn in recent years.
+ </p>
+ <p class="story-body-text story-content" data-para-count="222" data-total-count="794">
+  The staff of the company, based in Buckfield, Me., wondered whether the Trumps planned to continue distributing the wooden eggs as party favors, or whether they were even going to have a White House Easter Egg Roll at all.
+ </p>
+</blockquote>

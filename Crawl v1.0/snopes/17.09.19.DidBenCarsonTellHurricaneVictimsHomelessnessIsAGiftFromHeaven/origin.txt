@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/Ben-Carson-hurricane.jpg" target="_blank">
+   <img alt="" class="size-full wp-image-104200 aligncenter" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/Ben-Carson-hurricane.jpg?resize=600,412" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/Ben-Carson-hurricane.jpg?w=600 600w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/Ben-Carson-hurricane.jpg?resize=300,206 300w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  You see, a hurricane is God’s way of saying you are meant to be homeless. So in a sense, your homelessness is a gift from heaven.
+ </p>
+</blockquote>

@@ -1,0 +1,6 @@
+Title: Escherian Stairwell
+Claim: A video documents the existence of a never-ending "Escherian Stairwell."
+Date: 17.05.19
+Link: https://www.snopes.com/photos/technology/escherian.asp
+Verdict: false
+

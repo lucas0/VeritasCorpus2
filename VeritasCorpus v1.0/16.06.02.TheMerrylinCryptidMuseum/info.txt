@@ -1,0 +1,6 @@
+Title: The ‘Merrylin Cryptid Museum’
+Claim: Real skeletons of mythical creatures are on display at the Merrylin Cryptid Museum.							See Example( s )
+Date: 16.06.02
+Link: https://www.snopes.com/merrylin-cryptid-museum-creatures/
+Verdict: false
+

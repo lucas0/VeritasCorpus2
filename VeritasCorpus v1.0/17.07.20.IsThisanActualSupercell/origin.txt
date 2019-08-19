@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  <center>
+   <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/supercell-south-dakota-markco-korosec.jpg" target="_blank">
+    <img alt="" class="aligncenter wp-image-97756" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/supercell-south-dakota-markco-korosec.jpg?resize=600,400" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/supercell-south-dakota-markco-korosec.jpg?w=1000 1000w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/supercell-south-dakota-markco-korosec.jpg?resize=300,200 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/07/supercell-south-dakota-markco-korosec.jpg?resize=768,512 768w" style="border: 1px solid black;"/>
+   </a>
+  </center>
+  <br>
+   The photogenic part of severe storms. This amazing tornadic supercell was the best I’ve seen so far at nighttime, nicely illuminated with intracloud lightning, layered and striated with rough wind power! June 19th, 2015 near Murdo, South Dakota.
+  </br>
+ </p>
+</blockquote>

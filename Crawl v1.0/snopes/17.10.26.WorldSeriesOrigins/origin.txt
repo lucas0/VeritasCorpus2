@@ -1,0 +1,23 @@
+<blockquote>
+ <p>
+  <span class="copyright_text_color_g">
+   <em>
+    [Sutherland, 1999]
+   </em>
+  </span>
+ </p>
+ <p>
+  Many believe that the name World Series is American hype or arrogance, but the truth is that the Series was named after the New York World newspaper who sponsored the title games in the early part of the century.
+ </p>
+ <hr align="center" width="75%"/>
+ <p>
+  <span class="copyright_text_color_g">
+   <em>
+    [Auf Der Mar, 1991]
+   </em>
+  </span>
+ </p>
+ <p>
+  I followed the Blue Jays through their futility and then rooted for Atlanta in the wonderful World Series (originally named, by the way, for the New York World, the newspaper that was its first sponsor).
+ </p>
+</blockquote>

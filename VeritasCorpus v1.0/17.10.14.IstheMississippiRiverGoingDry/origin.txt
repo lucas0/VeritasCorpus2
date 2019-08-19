@@ -1,0 +1,14 @@
+<blockquote>
+ <p>
+  The Caruthersville well lies directly over the New Madrid Fault and it shows that its is normal for this time of year. In fact, it is well above its low during the 2012
+  <a href="https://waterdata.usgs.gov/nwis/inventory/?site_no=361145089394101" rel="noopener" target="_blank">
+   drought
+  </a>
+  .
+ </p>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/10/usgs.png" target="_blank">
+   <img alt="" class="aligncenter wp-image-106738" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/10/usgs.png?resize=600,600" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/10/usgs.png?w=400 400w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/10/usgs.png?resize=150,150 150w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/10/usgs.png?resize=300,300 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/10/usgs.png?resize=32,32 32w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/10/usgs.png?resize=50,50 50w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/10/usgs.png?resize=64,64 64w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/10/usgs.png?resize=96,96 96w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/10/usgs.png?resize=128,128 128w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+</blockquote>

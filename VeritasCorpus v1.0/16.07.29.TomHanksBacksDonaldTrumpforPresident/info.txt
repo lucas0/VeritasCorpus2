@@ -1,0 +1,6 @@
+Title: Tom Hanks Backs Donald Trump for President
+Claim: Tom Hanks said in a television interview that he backs Donald Trump for president.							See Example( s )
+Date: 16.07.29
+Link: https://www.snopes.com/tom-hanks-backs-donald-trump-for-president/
+Verdict: false
+

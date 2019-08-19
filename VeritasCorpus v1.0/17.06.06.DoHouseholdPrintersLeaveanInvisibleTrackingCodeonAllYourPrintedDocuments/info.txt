@@ -1,0 +1,6 @@
+Title: Do Household Printers Leave an Invisible Tracking Code on All Your Printed Documents?
+Claim: Household printers leave hidden yellow dots that provide identifying information about the printer and the date and time the document was printed.
+Date: 17.06.06
+Link: https://www.snopes.com/household-printers-tracking-code/
+Verdict: mtrue
+

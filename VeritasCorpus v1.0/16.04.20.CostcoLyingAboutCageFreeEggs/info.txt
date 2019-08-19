@@ -1,0 +1,6 @@
+Title: Costco Lying About Cage-Free Eggs?
+Claim: Costco lied about carrying cage-free eggs in their stores.							See Example( s )
+Date: 16.04.20
+Link: https://www.snopes.com/costco-lying-about-cage-free-eggs/
+Verdict: mfalse
+

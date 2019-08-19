@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  Given their unique regenerative abilities, stem cells offer new potentials for treating diseases such as diabetes, and heart disease. However, much work remains to be done in the laboratory and the clinic to understand how to use these cells for cell-based therapies to treat disease, which is also referred to as regenerative or reparative medicine.
+ </p>
+</blockquote>

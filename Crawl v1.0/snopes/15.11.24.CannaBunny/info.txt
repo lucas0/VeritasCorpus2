@@ -1,0 +1,6 @@
+Title: Canna-Bunny
+Claim:  Fox News reported that millions of people fled Texas after a “pot rabbit plague” resulted in dozens of deaths.
+Date: 15.11.24
+Link: https://www.snopes.com/millions-flee-texas-pot-rabbit-plague/
+Verdict: false
+

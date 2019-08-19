@@ -1,0 +1,6 @@
+Title: Is the ‘Talking Angela’ App Unsafe?
+Claim: The Talking Angela app unsafely prompts children to provide personal information about themselves.
+Date: 14.02.19
+Link: https://www.snopes.com/computer/internet/angela.asp
+Verdict: false
+

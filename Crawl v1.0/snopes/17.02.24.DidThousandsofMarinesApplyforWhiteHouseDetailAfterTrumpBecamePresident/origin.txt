@@ -1,0 +1,15 @@
+<blockquote>
+ <p>
+  Four Marines are always on guard at the West Wing of the White House. These Marines go through an intense selection process, and they must maintain their composure at all times.
+ </p>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/vjMNjGsU86Q" frameborder="0" height="345" width="600">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="345" src="https://www.youtube.com/embed/vjMNjGsU86Q" width="600">
+    </iframe>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

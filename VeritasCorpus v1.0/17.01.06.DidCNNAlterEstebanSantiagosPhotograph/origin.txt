@@ -1,0 +1,36 @@
+<blockquote>
+ <p>
+  Look How CNN Doctored Photo of Ft. Lauderdale Shooter Esteban Santiago
+ </p>
+ <p>
+  SAD.
+ </p>
+ <p>
+  CNN DOCTORS PHOTO OF FT. LAUDERDALE SHOOTER ESTEBAN SANTIAGO
+ </p>
+ <p>
+  […]
+ </p>
+ <p>
+  Here is a photo of shooter Esteban Santiago.
+ </p>
+ <p>
+  <center>
+   <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/esteban-dark.jpg" target="_blank">
+    <img alt="esteban dark" class="alignnone size-full wp-image-71415" data-recalc-dims="1" sizes="(max-width: 300px) 100vw, 300px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/esteban-dark.jpg?resize=300,400" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/esteban-dark.jpg?w=300 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/esteban-dark.jpg?resize=225,300 225w"/>
+   </a>
+  </center>
+  And here is what CNN aired.
+ </p>
+ <p>
+  <center>
+   <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/esteban-light.jpg" target="_blank">
+    <img alt="esteban light" class="alignnone size-full wp-image-71414" data-recalc-dims="1" sizes="(max-width: 300px) 100vw, 300px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/esteban-light.jpg?resize=300,400" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/esteban-light.jpg?w=300 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/esteban-light.jpg?resize=225,300 225w"/>
+   </a>
+  </center>
+  It appears CNN doctored the photo to make the suspect look more white.
+  <br>
+   Sad.
+  </br>
+ </p>
+</blockquote>

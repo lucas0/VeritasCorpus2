@@ -1,0 +1,8 @@
+<blockquote>
+ <p>
+  Debt held by the public approximates current federal demand on credit markets. It represents a burden on today’s economy, and the interest paid on this debt represents a burden on current taxpayers. Federal borrowing from the public absorbs resources available for private investment and may put upward pressure on interest rates. Further, debt held by the public is the accumulation of what the federal government borrowed in the past and is reported as a liability on the balance sheet of the government’s consolidated financial statements.
+ </p>
+ <p>
+  In contrast, debt held by government accounts (intragovernmental debt) and the interest on it represent a claim on future resources. This debt performs largely an internal accounting function. Special federal securities credited to government accounts (primarily trust funds) represent the cumulative surpluses of these accounts that have been lent to the general fund. These transactions net out on the government’s consolidated financial statements. Debt issued to government accounts does not affect today’s economy and does not currently compete with the private sector for available funds in the credit market.
+ </p>
+</blockquote>

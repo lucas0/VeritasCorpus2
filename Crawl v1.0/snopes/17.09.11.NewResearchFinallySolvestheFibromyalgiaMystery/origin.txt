@@ -1,0 +1,8 @@
+<blockquote>
+ <p class="p3">
+  Researchers have found the main source of pain in Fibromyalgia patients, and contrary to what many believe, it does not stem from the brain. The findings mark the end of a decades-old mystery about the disease, which many doctors believed was conjured in patients’ imaginations. […]
+ </p>
+ <p class="p3">
+  Up until recently, many physicians thought that the disease was “imaginary” or psychological, but scientists have now revealed that the main source of pain stems from a most unlikely place — excess blood vessels in the hand, legs and foot.
+ </p>
+</blockquote>

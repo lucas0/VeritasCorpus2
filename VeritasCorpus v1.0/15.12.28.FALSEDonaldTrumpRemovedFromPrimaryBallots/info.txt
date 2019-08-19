@@ -1,0 +1,6 @@
+Title: FALSE: Donald Trump Removed From Primary Ballots
+Claim: Donald Trump was removed from GOP primary ballots in five states.							See Example( s )
+Date: 15.12.28
+Link: https://www.snopes.com/donald-trump-primary-ballots/
+Verdict: false
+

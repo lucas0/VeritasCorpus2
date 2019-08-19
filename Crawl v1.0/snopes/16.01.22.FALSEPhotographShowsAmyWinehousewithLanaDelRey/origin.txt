@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/amy-winehouse.png" target="_blank">
+   <img alt="amy winehouse" class="aligncenter size-full wp-image-16838" data-recalc-dims="1" sizes="(max-width: 321px) 100vw, 321px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/amy-winehouse.png?resize=321,586" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/amy-winehouse.png?w=321 321w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/01/amy-winehouse.png?resize=164,300 164w"/>
+  </a>
+ </p>
+ <p>
+  Amy Winehouse heads to the Hawley Arms pub in Camden, north London, wearing a pink Pringle sweater. Amy had earlier attended a recording session at the famous Abbey Road studios with Taylor Swift.
+ </p>
+</blockquote>

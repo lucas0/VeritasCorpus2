@@ -1,0 +1,6 @@
+Title: Crosses on New York
+Claim: A photograph shows three buildings in New York decorated with window crosses for Easter in 1956.
+Date: 15.11.24
+Link: https://www.snopes.com/new-york-easter-cross-light-display/
+Verdict: true
+

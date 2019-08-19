@@ -1,0 +1,7 @@
+<blockquote>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/12799162_10204928387763489_8169735652095734073_n.jpg" target="_blank">
+   <img alt="12799162_10204928387763489_8169735652095734073_n" class="aligncenter size-full wp-image-20939" data-recalc-dims="1" sizes="(max-width: 720px) 100vw, 720px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/12799162_10204928387763489_8169735652095734073_n.jpg?resize=720,960" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/12799162_10204928387763489_8169735652095734073_n.jpg?w=720 720w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/03/12799162_10204928387763489_8169735652095734073_n.jpg?resize=225,300 225w"/>
+  </a>
+ </div>
+</blockquote>

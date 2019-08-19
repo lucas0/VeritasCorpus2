@@ -1,0 +1,6 @@
+Title: ‘One Ring’ Scam
+Claim: Telephone customers returning one-ring calls from foreign phone numbers and are charged hefty fees.							See Example( s )
+Date: 15.06.02
+Link: https://www.snopes.com/fraud/telephone/onering.asp
+Verdict: mfalse
+

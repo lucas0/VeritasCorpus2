@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  The Small Business Innovation Research (SBIR) program is a United States Government program, coordinated by the Small Business Administration, and currently authorized through September 30, 2017, in which all federal agencies with extramural research budgets in excess of $100 million have a percentage reserved for contracts or grants to small businesses.
+ </p>
+</blockquote>

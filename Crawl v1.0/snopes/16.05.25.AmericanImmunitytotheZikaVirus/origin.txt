@@ -1,0 +1,23 @@
+<blockquote>
+ <p>
+  Local mosquito transmission of
+  <a class="tp-link-policy" href="http://www.cdc.gov/zika/index.html" target="_blank">
+   Zika
+  </a>
+  virus infection (Zika) has been reported in Costa Rica. Local mosquito transmission means that mosquitoes in the area are infected with Zika virus and are spreading it to people.
+ </p>
+ <p>
+  Because Zika virus is primarily spread by mosquitoes, CDC recommends that travelers to Costa Rica
+  <a class="tp-link-policy" href="http://wwwnc.cdc.gov/travel/page/avoid-bug-bites" target="_blank">
+   protect themselves from mosquito bites
+  </a>
+  . The mosquitoes that spread Zika usually do not live at elevations above 6,500 feet (2,000 meters) because of environmental conditions. Travelers whose itineraries are limited to areas above this elevation are at minimal risk of getting Zika from a mosquito. The following map shows areas of Costa Rica above and below 6,500 feet.* For more information, see
+  <a class="tp-link-policy" href="http://wwwnc.cdc.gov/travel/page/q-a-zika-risk-high-elevations" target="_blank">
+   Questions and Answers: Zika risk at high elevations
+  </a>
+  .
+ </p>
+ <p>
+  Sexual transmission of Zika virus from a male partner is also possible, so travelers are also encouraged to use condoms or not have sex.
+ </p>
+</blockquote>

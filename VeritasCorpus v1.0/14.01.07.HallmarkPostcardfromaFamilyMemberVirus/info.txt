@@ -1,0 +1,6 @@
+Title: ‘Hallmark Postcard from a Family Member’ Virus
+Claim: "You've Received a (Hallmark) Postcard from a Family Member!" e-mails harbor a dangerous virus.
+Date: 14.01.07
+Link: https://www.snopes.com/computer/virus/postcard.asp
+Verdict: outdated
+

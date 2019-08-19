@@ -1,0 +1,6 @@
+Title: Trump Family Photograph
+Claim: A photograph shows a real portrait of Donald Trump and his family.							See Example( s )
+Date: 16.08.23
+Link: https://www.snopes.com/family-photograph-of-melania-barron-and-donald-trump/
+Verdict: true
+

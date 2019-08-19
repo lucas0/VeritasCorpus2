@@ -1,0 +1,21 @@
+<blockquote>
+ <p>
+  We have recently received information concerning spam e-mails threatening to assassinate the recipient unless the individual pays several thousand dollars to the sender of the e-mail.
+ </p>
+ <p>
+  The subject claims to have been following the victim for some time and was supposedly hired to kill the victim by a friend of the victim. The subject threatens to carry out the assassination if the victim goes to the police and requests the victim to respond quickly and provide their telephone number.
+ </p>
+ <p>
+  <b>
+   Warning!
+  </b>
+  Providing any personal information can compromise your identify and open you to identity theft.
+ </p>
+ <p>
+  If you have experienced this situation, please notify your local, state, or federal law enforcement agency immediately. Also, please notify the IC3 by filing a complaint at
+  <a href="http://www.ic3.gov" target="_blank">
+   www.ic3.gov
+  </a>
+  .
+ </p>
+</blockquote>

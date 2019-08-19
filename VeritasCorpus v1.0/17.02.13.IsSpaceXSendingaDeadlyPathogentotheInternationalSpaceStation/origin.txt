@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  A portable system for extracting, optionally amplifying, and detecting nucleic acids or proteins using a compact integrated chip in combination with a mobile device system for analyzing detected signals.
+ </p>
+</blockquote>

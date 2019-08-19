@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  A biological research team at Bielefeld University has made a groundbreaking discovery showing that plants can draw an alternative source of energy from other plants. This finding could also have a major impact on the future of bioenergy eventually providing the evidence to show that people draw energy from others in much the same way.
+ </p>
+</blockquote>

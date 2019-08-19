@@ -1,0 +1,6 @@
+Title: ‘Dear Rich Bastard’ Letter
+Claim: A test message slipped into a live mailing, resulting in prospective customers receiving letters that greeted them with the salutation "Dear Rich Bastard."
+Date: 09.08.30
+Link: https://www.snopes.com/business/consumer/bastard.asp
+Verdict: true
+

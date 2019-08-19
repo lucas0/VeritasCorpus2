@@ -1,0 +1,6 @@
+Title: ‘Student Loan Forgiveness’ Scam
+Claim: A phone number posted on a "consumer watchdog" site belongs to a college loan servicer.							See Example( s )
+Date: 16.11.22
+Link: https://www.snopes.com/student-loan-forgiveness-scam/
+Verdict: false
+

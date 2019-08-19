@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  Our observations also suggest that CBD can inhibit bone resorption in vivo via modulation of GPR55 signaling.
+ </p>
+</blockquote>

@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/celine-dion.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-103164" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/celine-dion.jpg?resize=600,800" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/celine-dion.jpg?w=720 720w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/09/celine-dion.jpg?resize=225,300 225w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  “I can’t even look at an American flag any more, I hate this country.” Singer Celine Dion.
+ </p>
+ <p>
+  “You don’t deserve to be American, You’re not Patriot, Patriots love their country, Flag, President and People.” Singer Loretta Lynn.
+ </p>
+</blockquote>

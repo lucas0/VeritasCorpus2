@@ -1,0 +1,7 @@
+<blockquote>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/joe-biden-gun-picture.jpg" target="_blank">
+   <img alt="" class="black-border aligncenter wp-image-73508 size-full" data-recalc-dims="1" sizes="(max-width: 1600px) 100vw, 1600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/joe-biden-gun-picture.jpg?resize=1600,1193" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/joe-biden-gun-picture.jpg?w=1600 1600w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/joe-biden-gun-picture.jpg?resize=300,224 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/joe-biden-gun-picture.jpg?resize=768,573 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/joe-biden-gun-picture.jpg?resize=1024,764 1024w"/>
+  </a>
+ </div>
+</blockquote>

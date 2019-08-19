@@ -1,0 +1,6 @@
+Title: Did Fox News Report That James Comey Resigned?
+Claim: Fox News reported the former FBI director had resigned, when he had in fact been fired.
+Date: 17.05.10
+Link: https://www.snopes.com/fox-news-comey/
+Verdict: mtrue
+

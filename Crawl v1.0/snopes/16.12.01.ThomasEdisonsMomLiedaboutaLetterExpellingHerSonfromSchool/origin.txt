@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  Thomas Alva Edison was born on February 11, 1847 in Milan, Ohio; the seventh and last child of Samuel and Nancy Edison. When Edison was seven his family moved to Port Huron, Michigan. Edison lived here until he struck out on his own at the age of sixteen. Edison had very little formal education as a child, attending school only for a few months. He was taught reading, writing, and arithmetic by his mother, but was always a very curious child and taught himself much by reading on his own. This belief in self-improvement remained throughout his life.
+ </p>
+</blockquote>

@@ -1,0 +1,6 @@
+Title: Donald Trump Described the Electoral College as a ‘Disaster’ in 2012
+Claim: Trump blasted the electoral college in 2012.
+Date: 16.11.10
+Link: https://www.snopes.com/trump-described-the-electoral-college-as-a-disaster/
+Verdict: true
+

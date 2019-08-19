@@ -1,0 +1,21 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/church-meme.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-102489" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/church-meme.jpg?resize=600,453" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/church-meme.jpg?w=900 900w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/church-meme.jpg?resize=300,227 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/08/church-meme.jpg?resize=768,580 768w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <ul>
+  <li>
+   There are 1566 churches in Houston.
+  </li>
+  <li>
+   They are all tax exempt.
+  </li>
+  <li>
+   They are tax exempt so they can help the needy.
+  </li>
+ </ul>
+ <p>
+  Only 60 (4%) out of 1566 have opened their doors to help the flood victims and the needy during hurricane Harvey. Let that sink in for a moment.
+ </p>
+</blockquote>

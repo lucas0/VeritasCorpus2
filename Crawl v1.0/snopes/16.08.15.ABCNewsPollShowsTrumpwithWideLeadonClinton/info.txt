@@ -1,0 +1,6 @@
+Title: ABC News Poll Shows Trump with Wide Lead on Clinton
+Claim: A live poll conducted by ABC News in August 2016 shows Donald Trump, Jill Stein, and Gary Johnson all well ahead of Hillary Clinton.							See Example( s )
+Date: 16.08.15
+Link: https://www.snopes.com/abc-news-poll-trump-clinton/
+Verdict: false
+

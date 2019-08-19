@@ -1,0 +1,8 @@
+<blockquote>
+ <p class="p3">
+  The bay leaf contains a compound called linalool. A study by the American Association of Nurse Anesthetists found that linalool decreases anxiety and enhances social interaction.
+ </p>
+ <p class="p3">
+  In as little as 10 minutes of smelling a burning bay leaf, linalool begins working. Some have even described the effect as mildly psychedelic.
+ </p>
+</blockquote>

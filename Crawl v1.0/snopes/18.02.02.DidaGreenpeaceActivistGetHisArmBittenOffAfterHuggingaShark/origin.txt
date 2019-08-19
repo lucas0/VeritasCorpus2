@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2018/02/greenpeaceshark.jpg" target="_blank">
+   <img alt="" class="aligncenter size-full wp-image-127030" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2018/02/greenpeaceshark.jpg?resize=600,315" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2018/02/greenpeaceshark.jpg?w=600 600w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/02/greenpeaceshark.jpg?resize=300,158 300w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  An environmental activist was almost killed Yesterday in the Indian Ocean, after the great white shark he was trying to hug suddenly attacked him and bit his arm off.
+ </p>
+ <p>
+  21-year old Darrell Waterford, from Eugene in Oregon, was participating in a promotional video for Greenpeace, some 100 nautical miles away from the Australian city of Perth.
+ </p>
+</blockquote>

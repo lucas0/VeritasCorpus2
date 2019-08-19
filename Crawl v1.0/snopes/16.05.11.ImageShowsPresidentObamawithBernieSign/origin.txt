@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  Markers throughout Exit Glacier show how much it’s receded over time. The impacts of climate change are real, and the people of Alaska are living with them every day. It’s never been more important for us to work together to address this challenge.
+ </p>
+ <div style="text-align: center;">
+  <p>
+   <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/obama-exit-glacier.jpg" target="_blank">
+    <img alt="obama exit glacier" class="aligncenter size-full wp-image-33700" data-recalc-dims="1" sizes="(max-width: 591px) 100vw, 591px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/obama-exit-glacier.jpg?resize=591,563" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/obama-exit-glacier.jpg?w=591 591w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/05/obama-exit-glacier.jpg?resize=300,286 300w" style="border: 1px solid black;"/>
+   </a>
+  </p>
+ </div>
+</blockquote>

@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  A little kid finds a gun, fires it, and hurts or kills himself or someone else. These cases rarely bubble up to the national level except when someone, like a parent, ends up dead … But cases like this happen a lot more frequently than you might think. After spending a few hours sifting through news reports, I’ve found at least 43 instances this year of somebody being shot by a toddler 3 or younger. In 31 of those 43 cases, a toddler found a gun and shot himself or herself.
+ </p>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2015/12/toddshooting-graph.png" target="_blank">
+   <img alt="toddshooting graph" class="alignnone size-full wp-image-14288" data-recalc-dims="1" sizes="(max-width: 624px) 100vw, 624px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2015/12/toddshooting-graph.png?resize=624,610" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2015/12/toddshooting-graph.png?w=624 624w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/12/toddshooting-graph.png?resize=300,293 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/12/toddshooting-graph.png?resize=32,32 32w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/12/toddshooting-graph.png?resize=50,50 50w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/12/toddshooting-graph.png?resize=64,64 64w"/>
+  </a>
+ </div>
+</blockquote>

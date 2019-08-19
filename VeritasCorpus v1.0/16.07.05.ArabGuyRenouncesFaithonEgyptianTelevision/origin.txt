@@ -1,0 +1,15 @@
+<blockquote>
+ <p>
+  Recently, an Arab TV station discussed the controversial book ‘The People vs Muhammad’. The result was an explosive meltdown after one of the guests renounced his faith on national TV.
+ </p>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/v5foN-2ucZc" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/v5foN-2ucZc" width="560">
+    </iframe>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  <span style="font-weight: 400;">
+   Don’t use the AncestryDNA testing service without actually reading the Ancestry.com Terms of Service and Privacy Policy. According to these legal contracts, you still own your DNA, but so does Ancestry.com.
+  </span>
+ </p>
+ <p>
+  <span style="font-weight: 400;">
+   The family history website Ancestry.com is selling a new DNA testing service called AncestryDNA. But the DNA and genetic data that Ancestry.com collects may be used against “you or a genetic relative.” According to its privacy policies, Ancestry.com takes ownership of your DNA forever. Your ownership of your DNA, on the other hand, is limited in years.
+  </span>
+ </p>
+</blockquote>

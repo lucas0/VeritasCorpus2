@@ -1,0 +1,6 @@
+Title: Is Healthcare.gov Scheduled for Maintenance During Obamacare Enrollment?
+Claim: The Department of Health and Human Services has scheduled web site maintenance for Healthcare.gov on most Sundays during Obamacare open enrollment.
+Date: 17.09.25
+Link: https://www.snopes.com/healthcare-gov-maintenance/
+Verdict: true
+

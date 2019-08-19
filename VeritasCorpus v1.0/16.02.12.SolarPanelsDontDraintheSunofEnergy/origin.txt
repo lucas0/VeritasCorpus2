@@ -1,0 +1,8 @@
+<blockquote>
+ <p>
+  This week, a scientific research facility in Wyoming made a startling discovery that is certain to change the way millions of Americans look at the environmentalism movement, after they found conclusive evidence that solar panels not only convert the sun’s energy into usable energy, but that they are also draining the sun of its own energy, possibly with catastrophic consequences far worse than global warming.
+ </p>
+ <p>
+  Scientists at the Wyoming Institute of Technology, a privately-owned think tank located in Cheyenne, Wyoming, discovered that energy radiated from the sun isn’t merely captured in solar panels, but that energy is directly physically drawn from the sun by those panels, in a process they refer to as “forced photovoltaic drainage.”
+ </p>
+</blockquote>

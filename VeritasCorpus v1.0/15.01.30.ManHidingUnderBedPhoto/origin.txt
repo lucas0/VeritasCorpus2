@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  There’s supposedly a man hiding in this picture under the bed. Is this for real or a waste of one’s internet time?
+  <br>
+   <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2015/01/viralnova-man-under-bed.jpg" target="_blank">
+    <img alt="" class="alignnone size-full wp-image-91882" data-recalc-dims="1" sizes="(max-width: 450px) 100vw, 450px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2015/01/viralnova-man-under-bed.jpg?resize=450,400" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2015/01/viralnova-man-under-bed.jpg?w=450 450w, https://us-east-1.tchyn.io/snopes-production/uploads/2015/01/viralnova-man-under-bed.jpg?resize=300,267 300w"/>
+   </a>
+  </br>
+ </p>
+</blockquote>

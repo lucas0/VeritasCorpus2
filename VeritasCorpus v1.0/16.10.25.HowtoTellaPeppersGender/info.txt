@@ -1,0 +1,6 @@
+Title: How to Tell a Pepper’s Gender?
+Claim: The gender of a bell pepper can be identified by counting its lobes.
+Date: 16.10.25
+Link: https://www.snopes.com/food/ingredient/bellpepper.asp
+Verdict: false
+

@@ -1,0 +1,6 @@
+Title: Presidential Elections Linked to Eastern Conference NBA Championships
+Claim: Democratic presidential candidates have only won the White House in years that an Eastern Conference team has also won the NBA Championship.							See Example( s )
+Date: 16.06.20
+Link: https://www.snopes.com/democrat-white-house-nba/
+Verdict: true
+

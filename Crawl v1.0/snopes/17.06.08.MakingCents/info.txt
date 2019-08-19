@@ -1,0 +1,6 @@
+Title: Making Cents
+Claim: U.S. pennies now cost considerably more than one cent each to manufacture.
+Date: 17.06.08
+Link: https://www.snopes.com/business/money/pennycost.asp
+Verdict: true
+

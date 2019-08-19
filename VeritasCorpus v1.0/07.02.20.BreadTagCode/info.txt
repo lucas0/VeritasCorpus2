@@ -1,0 +1,6 @@
+Title: Bread Tag Code
+Claim: You can tell which day a loaf of bread was baked by the color of its plastic twist tag.
+Date: 07.02.20
+Link: https://www.snopes.com/food/prepare/breadtag.asp
+Verdict: true
+

@@ -1,0 +1,12 @@
+<blockquote>
+ <p class="clay-paragraph" data-editable="text" data-uri="nymag.com/daily/intelligencer/components/clay-paragraph/instances/cjd9zddly00313i61qo1ph02x@published" data-word-count="77">
+  Chris Long, who is white, voiced support for his teammates’ protests throughout the season. “For me, being from Charlottesville, no one wants to see you sit idly by and watch that stuff happen and not say anything,” Long said in the aftermath of the deadly white-supremacist demonstration in his hometown. “And I wish there was more categorical denial from some very important people in this country who have had the opportunity to strike it down but didn’t.”
+ </p>
+ <p class="clay-paragraph" data-editable="text" data-uri="nymag.com/daily/intelligencer/components/clay-paragraph/instances/cjd9zgr9600363i61ga1c122m@published" data-word-count="37">
+  Last week Long became the first Eagles player to announce he would boycott the celebration with Trump. “No, I’m not going to the White House,” he said on the
+  <em>
+   Pardon My Take
+  </em>
+  podcast. “Are you kidding me?”
+ </p>
+</blockquote>

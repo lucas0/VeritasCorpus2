@@ -1,0 +1,16 @@
+<blockquote>
+ <p>
+  Intel mobile computing engineer
+  <a href="http://www.eetimes.com/electronics-news/4182202/Tech-History-How-Bluetooth-got-its-name" rel="noopener" target="_blank">
+   Jim Kardach
+  </a>
+  was instrumental in bringing together Ericsson, IBM, Intel, Nokia and Toshiba to form the Bluetooth SIG in 1998. That group created the universal standard that is used by more than 17,000 member companies.
+ </p>
+ <p>
+  Kardach recalls playing the role of instigator and mediator among the founding companies, but says the group quickly agreed on a common goal to create a small, low-power consuming, low-cost, short-range radio with built-in security and the ability to connect ad hoc with other devices. Inspired by a book about Vikings that he was reading at the time, he came up with the
+  <a href="http://en.wikipedia.org/wiki/Bluetooth#Name_and_logo" rel="noopener" target="_blank">
+   Bluetooth name
+  </a>
+  .
+ </p>
+</blockquote>

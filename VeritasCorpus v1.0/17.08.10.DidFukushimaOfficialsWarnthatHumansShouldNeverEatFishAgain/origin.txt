@@ -1,0 +1,8 @@
+<blockquote>
+ <p class="p3">
+  According to one scientist, TEPCO [Tokyo Electric Power Company], the company in charge of monitoring the plant, has data that shows radiation pouring into the Pacific Ocean non-stop for the past six years.
+ </p>
+ <p class="p3">
+  According to other scientists who have examined the radiation levels of fish in the ocean, the days of “eating fish from the Pacific ocean are over”.
+ </p>
+</blockquote>

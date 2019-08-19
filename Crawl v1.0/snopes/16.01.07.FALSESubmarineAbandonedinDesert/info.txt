@@ -1,0 +1,6 @@
+Title: FALSE: Submarine Abandoned in Desert
+Claim: A photograph shows an abandoned submarine in a desert.							See Example( s )
+Date: 16.01.07
+Link: https://www.snopes.com/abandoned-submarine-photo/
+Verdict: false
+

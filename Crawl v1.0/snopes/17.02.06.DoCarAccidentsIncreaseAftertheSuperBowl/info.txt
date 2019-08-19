@@ -1,0 +1,6 @@
+Title: Do Car Accidents Increase After the Super Bowl?
+Claim: A rise in automobile accidents occurs in the aftermath of the Super Bowl.
+Date: 17.02.06
+Link: https://www.snopes.com/sports/football/caraccidents.asp
+Verdict: true
+

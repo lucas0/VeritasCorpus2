@@ -1,0 +1,11 @@
+<blockquote>
+ <p>
+  <span class="fbPhotosPhotoCaption" data-ft='{"tn":"K"}' id="fbPhotoSnowliftCaption" tabindex="0">
+   <span class="hasCaption">
+    Fellow Anglers beware. Several snake bites this season have came from baby copperheads found alive inside of feeding fish. With the top water bite happening now the snakes get more oxygen to prolong there life inside the fish while the fish continues to feed. Makes the want to have bass thumb a little less desirable. Lol
+   </span>
+  </span>
+  <span class="fbPhotoTagList" id="fbPhotoSnowliftTagList">
+  </span>
+ </p>
+</blockquote>

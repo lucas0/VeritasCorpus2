@@ -1,0 +1,6 @@
+Title: FBI Announces Inquiry Into Trump Campaign Ties to Russia?
+Claim: The FBI announced an inquiry into Russian ties between the Trump campaign and the Russian government.
+Date: 16.11.01
+Link: https://www.snopes.com/manafort-ties-to-russia/
+Verdict: true
+

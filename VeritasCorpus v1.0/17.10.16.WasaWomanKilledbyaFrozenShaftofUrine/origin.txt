@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/10/frozen-shaft-of-urine.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-107032" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/10/frozen-shaft-of-urine.jpg?resize=600,634" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/10/frozen-shaft-of-urine.jpg?w=500 500w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/10/frozen-shaft-of-urine.jpg?resize=284,300 284w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  This unfortunate woman was found dead on parkland in Yorkshire, England. She’s believed to have been pierced by a shaft of frozen urine which had fallen from a leak in a toilet facility of an overhead plane.
+ </p>
+</blockquote>

@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/katy-perry-canibal.jpg" target="_blank">
+   <img alt="" class="aligncenter wp-image-122805" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/katy-perry-canibal.jpg?resize=600,337" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/katy-perry-canibal.jpg?w=678 678w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/katy-perry-canibal.jpg?resize=300,169 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/katy-perry-canibal.jpg?resize=542,305 542w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/01/katy-perry-canibal.jpg?resize=375,211 375w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  What do Katy Perry, Meryl Streep, Anderson Cooper and Chelsea Clinton have in common? They have all eaten human flesh at LA’s notorious cannibal restaurant, Cannibal Club.
+ </p>
+ <p>
+  The private restaurant has long operated under the radar in Los Angeles, with rumors circulating about who has attended and what is really served behind closed doors. Now a leaked Cannibal Club document has exposed some of the notorious restaurant’s “elite” patrons.
+ </p>
+</blockquote>

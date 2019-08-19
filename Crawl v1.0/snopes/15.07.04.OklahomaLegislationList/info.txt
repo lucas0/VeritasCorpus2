@@ -1,0 +1,6 @@
+Title: Oklahoma Legislation List
+Claim: Message lists legislation passed by the state of Oklahoma.							See Example( s )
+Date: 15.07.04
+Link: https://www.snopes.com/inboxer/pending/oklahoma.asp
+Verdict: true
+

@@ -1,0 +1,75 @@
+<a>
+ <h3 class="section-break">
+  <span>
+   ORIGIN
+  </span>
+ </h3>
+ <p>
+  A man who asked for help on a server forum, claiming that he had deleted his entire company with just one line of code, now says the whole thing was a stunt.
+ </p>
+ <p>
+  Marco Marsala had originally posted the following plea on a
+  <a href="http://serverfault.com/questions/587102/monday-morning-mistake-sudo-rm-rf-no-preserve-root" target="_blank">
+   question
+  </a>
+  and answer site for system and network administrators.
+ </p>
+ <blockquote>
+  <p>
+   I run a small hosting provider with more or less 1535 customers and I use Ansible to automate some operations to be run on all servers. Last night I accidentally ran, on all servers, a Bash script with a rm -rf {foo}/{bar} with those variables undefined due to a bug in the code above this line.
+   <a href="http://serverfault.com/questions/769357/recovering-from-a-rm-rf" target="_blank">
+    All servers got deleted and the offsite backups too
+   </a>
+   because the remote storage was mounted just before by the same script (that is a backup maintenance script).
+  </p>
+ </blockquote>
+ <p>
+  His situation (i.e., that he had deleted all of his serves and backups with an errant rm command) was so awful, and so believable, that his post received
+  <a href="http://www.telegraph.co.uk/technology/2016/04/14/man-deletes-his-whole-company-after-typing-wrong-bit-of-code/" target="_blank">
+   widespread
+  </a>
+  <a href="http://www.sciencealert.com/guy-accidentally-deletes-his-entire-company-with-just-one-line-of-bad-code" target="_blank">
+   attention
+  </a>
+  , particularly from users who pointed out that he was at fault for not properly backing up his files.
+ </p>
+ <p>
+  The
+  <a href="http://www.urbandictionary.com/define.php?term=sudo+rm+-rf+%2F" target="_blank">
+   sudo rm -rf /
+  </a>
+  command is famously
+  <a href="https://askubuntu.com/questions/555550/undo-sudo-rm-r/555589" target="_blank">
+   destructive
+  </a>
+  , but — happily for Marsala’s clients — this particular situation was a hoax.  Marsala admitted to making up the scenario in order to promote his small company, which (naturally) provides outsourced server management services.
+ </p>
+ <p>
+  “It was just a joke,” Marsala told Italian news outlet
+  <em>
+   <a href="http://www.repubblica.it/tecnologia/2016/04/15/news/cancella_l_azienda_per_sbaglio_la_disavventura_tecnologica_di_marco_mars ala-137693154/?refresh_ce" target="_blank">
+    La Repubblica
+   </a>
+  </em>
+  (translated):
+ </p>
+ <blockquote>
+  <p>
+   The command that I mentioned in the article is harmless but it seems that almost no one has noticed … With the inaccuracies that are in the online comments I could write a book.
+  </p>
+  <p>
+   The Ansible tool prevents these errors. Almost every serious administrator uses it, but among those who answered, no one seemed to know that, otherwise they would know that what I have described could not happen.
+  </p>
+ </blockquote>
+ <p>
+  Marsala said he is also working on a “Unix for Dummies” book, and that the situation he described actually did happen, but to someone else “before 2006.”
+ </p>
+ <div class="article-notation">
+ </div>
+ <div class="snopes-partner-unit partner-unit-articleFooter">
+  <div class="snopes-partner-media">
+   <div id="Snopes_content_1">
+   </div>
+  </div>
+ </div>
+</a>

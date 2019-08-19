@@ -1,0 +1,7 @@
+<blockquote>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/07/fireworks-fake1.jpg" target="_blank">
+   <img alt="fireworks fake" class="aligncenter size-full wp-image-39380" data-recalc-dims="1" sizes="(max-width: 625px) 100vw, 625px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/07/fireworks-fake1.jpg?resize=625,450" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/07/fireworks-fake1.jpg?w=625 625w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/07/fireworks-fake1.jpg?resize=300,216 300w"/>
+  </a>
+ </div>
+</blockquote>

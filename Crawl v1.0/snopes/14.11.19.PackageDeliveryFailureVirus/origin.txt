@@ -1,0 +1,168 @@
+<blockquote>
+ <p>
+  <span style="color: #008000;">
+   <i>
+    [Collected via e-mail, April 2012]
+   </i>
+  </span>
+ </p>
+ <p>
+  Delivery information,
+ </p>
+ <p>
+  Courier service couldn’t make the delivery of your parcel.
+  <br>
+   Reason deny:
+   <br/>
+   It’s not right specified size and the weight of parcel.
+  </br>
+ </p>
+ <p>
+  LOCATION OF YOUR PARCEL:Long Beach
+  <br/>
+  STATUS OF YOUR ITEM: sort order
+  <br/>
+  SERVICE: Express Shipping
+  <br/>
+  Parcel number:U712149356NU
+  <br/>
+  INSURANCE: Yes
+ </p>
+ <p>
+  Postal label is enclosed to the letter.
+  <br/>
+  Print your label and show it in the nearest post office of USPS
+ </p>
+ <p>
+  Important information!
+  <br/>
+  If the parcel isn’t received within 30 working days our company will have
+  <br/>
+  the right to claim compensation from you for it’s keeping in the amount of
+  <br/>
+  $7.46 for each day of keeping of it.
+ </p>
+ <p>
+  You can find the information about the procedure and conditions of parcels
+  <br/>
+  keeping in the nearest office.
+ </p>
+ <p>
+  Thank you for your attention.
+  <br/>
+  USPS Express Services.
+  <br/>
+ </p>
+ <hr/>
+ <p>
+  <span style="color: #008000;">
+   <i>
+    [Collected via e-mail, March 2011]
+   </i>
+  </span>
+ </p>
+ <p>
+  Dear client
+  <br/>
+  Your package has been shipped.
+  <br/>
+  The tracking# is : RT094860142HK and can be used at :
+  <br/>
+  <a href="http://www.canadapost.ca/cpotools/apps/track/personal/findByTrackNumber?execution=e9s1" target="_blank">
+   Canada Post – Track a package by tracking number
+  </a>
+  <br/>
+  The shipping invoice can be downloaded from :
+  <br/>
+  http://www.canadapost.ca/cpotools/apps/track/personal/findInvoiceByTrackingNumber?track=RT094860142HK
+  <br/>
+ </p>
+ <hr/>
+ <p>
+  <span style="color: #008000;">
+   <i>
+    [Collected via e-mail, July 2008]
+   </i>
+  </span>
+ </p>
+ <p>
+  From: UPS Packet Service
+  <br/>
+  Subject: UPS Paket N0328795951
+ </p>
+ <p>
+  Dear Sir/Madam,
+ </p>
+ <p>
+  Unfortunately we were not able to deliver postal package you sent on July the 1st in time because the recipient’s address is not correct.
+ </p>
+ <p>
+  Please print out the invoice copy attached and collect the package at our office.
+ </p>
+ <p>
+  Your UPS
+  <br/>
+ </p>
+ <hr/>
+ <p>
+  <span style="color: #008000;">
+   <i>
+    [Collected via e-mail, August 2008]
+   </i>
+  </span>
+ </p>
+ <p>
+  Unfortunately we were not able to deliver postal package you sent on July the 25 in time because the recipient’s address is not correct.
+ </p>
+ <p>
+  Please print out the invoice copy attached and collect the package at our office.
+ </p>
+ <p>
+  Your FEDEX
+  <br/>
+  www.fedex.com
+ </p>
+ <hr/>
+ <p>
+  <span style="color: #008000;">
+   <i>
+    [Collected via e-mail, September 2010]
+   </i>
+  </span>
+ </p>
+ <p>
+  Hello!
+ </p>
+ <p>
+  Unfortunately we failed to deliver the postal package you have sent on the 19th of September in time because the recipient’s address is erroneous.
+ </p>
+ <p>
+  Please print out the shipment label attached and collect the package at our office.
+ </p>
+ <p>
+  United States Postal Service
+  <br/>
+ </p>
+ <hr/>
+ <p>
+  <span style="color: #008000;">
+   <i>
+    [Collected via e-mail, December 2011]
+   </i>
+  </span>
+ </p>
+ <p>
+  Subject: Canada Post shipment status No635
+ </p>
+ <p>
+  Dear customer.
+ </p>
+ <p>
+  Your package has been returned to the Canada Post office. Reason: Your address does not exist. Please find the attached document containing detailed information about delivery failure. Read all information carefully and come to the “Canada Post” office to receive your package.
+ </p>
+ <p>
+  Thank you.
+  <br/>
+  Canada Post Service.
+ </p>
+</blockquote>

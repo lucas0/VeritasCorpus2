@@ -1,0 +1,15 @@
+<blockquote>
+ <p>
+  I have just received the following youtube on Muslim Demographics. Can you verify the accuracy of this message?
+ </p>
+ <p>
+  <center>
+   <iframe allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/6-3X5hIFXYU?rel=0&amp;showinfo=0" frameborder="0" height="315" width="560">
+   </iframe>
+   <noscript>
+    <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/6-3X5hIFXYU?rel=0&amp;showinfo=0" width="560">
+    </iframe>
+   </noscript>
+  </center>
+ </p>
+</blockquote>

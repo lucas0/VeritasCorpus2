@@ -1,0 +1,19 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/humpback-whale.jpg" target="_blank">
+   <img alt="humpback whale" class="black-border aligncenter wp-image-65958" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/humpback-whale.jpg?resize=600,400" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/humpback-whale.jpg?w=1086 1086w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/humpback-whale.jpg?resize=300,200 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/humpback-whale.jpg?resize=768,512 768w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/12/humpback-whale.jpg?resize=1024,683 1024w"/>
+  </a>
+ </p>
+ <p>
+  Armed with buckets for water and shovels for digging, the residents of White Rock streamed down to the beach early Tuesday in an attempt to help a humpback whale that had washed up on shore.
+ </p>
+ <p>
+  But just hours after being beached on the waterfront about 45 minutes south of Vancouver, the whale died as dozens of people looked on helplessly.
+ </p>
+ <p>
+  “The animal was alive but it was in just too weak and in such poor shape that we knew it had been distressed for a long time,” said Paul Cottrell, the marine mammal co-ordinator for the Department of Fisheries and Ocean.
+ </p>
+ <p>
+  “It had been labouring for a long time and was swimming and just got caught by the tides.”
+ </p>
+</blockquote>

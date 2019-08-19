@@ -1,0 +1,11 @@
+<blockquote>
+ <p class="story-body-text story-content" data-para-count="109" data-total-count="1139">
+  As Ms. Reynolds took the stage, someone who was watching over Ms. Fisher brought a stool to the wing. Ms. Fisher clambered up on top of it “all by herself,” he said, and sat through the entire performance.
+ </p>
+ <p class="story-body-text story-content" data-para-count="258" data-total-count="1955">
+  Ms. Reynolds began performing a “singing-dancing act” at the Riviera in the early 1960s. By 1966, she would regularly perform seven nights a week at the venue over the course of a month and a half, according to a Los Angeles Times article from that year.
+ </p>
+ <p class="story-body-text story-content" data-para-count="227" data-total-count="2182" id="story-continues-1">
+  “You’re waiting for the moment in which something you’ve seen is illustrated,” Mr. Schiller said. “And then you don’t even stop and think. The image is there and your camera is like a sponge to absorb the moment.”
+ </p>
+</blockquote>

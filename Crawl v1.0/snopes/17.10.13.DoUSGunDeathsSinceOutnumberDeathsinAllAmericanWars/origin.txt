@@ -1,0 +1,9 @@
+<blockquote>
+ <p>
+  More Americans have died from gunshots in the last 50 years than in all of the wars in American history. Since 1968, more than 1.5 million Americans have died in gun-related incidents, according to data from the U.S. Centers for Disease Control and Prevention. By comparison, approximately 1.2 million service members have been killed in every war in U.S. history, according to estimates from the Department of Veterans Affairs and
+  <a href="http://icasualties.org/" rel="noopener" target="_blank">
+   iCasualties.org
+  </a>
+  , a website that maintains an ongoing database of casualties from the wars in Iraq and Afghanistan.
+ </p>
+</blockquote>

@@ -1,0 +1,6 @@
+Title: Santa’s Canadian Postal Code
+Claim: In Canada, Santa's postal code is H0H 0H0.
+Date: 09.12.21
+Link: https://www.snopes.com/holidays/christmas/santa/h0h0h0.asp
+Verdict: true
+

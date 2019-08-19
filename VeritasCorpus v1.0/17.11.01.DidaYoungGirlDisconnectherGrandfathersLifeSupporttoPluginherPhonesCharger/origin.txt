@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/battery.png" target="_blank">
+   <img alt="" class="aligncenter wp-image-109264" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/battery.png?resize=600,401" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/battery.png?w=620 620w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/11/battery.png?resize=300,200 300w" style="border: 1px solid black;"/>
+  </a>
+ </p>
+ <p>
+  Ally Louia, a 26-year old girl went to the hospital yesterday to visit her grandpa, who was suffering from lung cancer. When the nurse and other family members weren’t present, the young girl decided to disconnect the life support from her grandpa, because she needed to charge her phone.
+ </p>
+ <p>
+  “Let’s see: my phone was at 1%, which can be described as a critical situation. Besides, my mother asked me to text her how my grandpa was doing right after getting to the hospital, so I had to do it”, Louia said in the defense.
+ </p>
+</blockquote>

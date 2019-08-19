@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  <span style="color: #008000;">
+   <i>
+    [Jacobsen, 1948]
+   </i>
+  </span>
+ </p>
+ <p>
+  How ripe small towns actually are for rumors was amply demonstrated a few years ago. In a town of thirteen thousand inhabitants, which was gradually blossoming into cityhood, there was a restaurant operated by three Chinese. It was the most successful eating place around, patronized by businessmen and citizens morning, noon, and night. Everyone agreed that the food and service were good. But without the slightest warning business suddenly took a drastic drop. The once-prosperous proprietors became miserably unhappy, for they could not understand what had happened to all their patrons. Then they found out that someone, maybe a competitor, maybe just a person who nursed a real or imagined grudge against Chinese, had initiated a rumor that the police had found three skinned cats, labeled rabbits, in the restaurant’s refrigerator.
+ </p>
+</blockquote>

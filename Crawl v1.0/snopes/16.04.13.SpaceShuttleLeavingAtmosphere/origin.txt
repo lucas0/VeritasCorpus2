@@ -1,0 +1,7 @@
+<blockquote>
+ <div style="text-align:center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/space-shuttle-endeavor.jpg" target="_blank">
+   <img alt="space shuttle endeavor" class="aligncenter size-full wp-image-31039" data-recalc-dims="1" sizes="(max-width: 900px) 100vw, 900px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/space-shuttle-endeavor.jpg?resize=900,700" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/space-shuttle-endeavor.jpg?w=900 900w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/space-shuttle-endeavor.jpg?resize=300,233 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/04/space-shuttle-endeavor.jpg?resize=768,597 768w"/>
+  </a>
+ </div>
+</blockquote>

@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  My hair is gray, but not with years,
+  <br>
+   Nor grew it white
+   <br/>
+   In a single night
+   <br/>
+   As men’s have grown from sudden fears.
+  </br>
+ </p>
+</blockquote>

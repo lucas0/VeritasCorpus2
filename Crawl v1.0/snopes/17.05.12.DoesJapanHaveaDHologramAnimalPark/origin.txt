@@ -1,0 +1,5 @@
+<blockquote>
+ <p>
+  We built the animated content using Maya (film industry standard animation software), with the movements and mannerisms mimicking actual animal footage in the wild. The content and the sound was optimized for the shopping mall environments and our system then locks and matches the floor marker, allowing us to know exactly where the physical content sits in relation to people. This creates a “content channel” where all the action is.
+ </p>
+</blockquote>

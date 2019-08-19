@@ -1,0 +1,6 @@
+Title: Package Pick-Up Scam
+Claim: Scammers dupe victims into paying "security keeping fees" to receive courier parcels supposedly containing large checks or other valuables.
+Date: 08.12.18
+Link: https://www.snopes.com/fraud/phishing/courier.asp
+Verdict: attribution-false
+

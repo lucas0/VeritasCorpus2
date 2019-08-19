@@ -1,0 +1,10 @@
+<blockquote>
+ <p>
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/xray-cockroach.jpg" target="_blank">
+   <img alt="" class="wp-image-86881 aligncenter" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/xray-cockroach.jpg?resize=600,1067" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/xray-cockroach.jpg?w=450 450w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/xray-cockroach.jpg?resize=169,300 169w"/>
+  </a>
+ </p>
+ <p>
+  A patient in Zimbabwe had serious chest pains, after taking x-ray at Rusape General hospital the image showed that he had a live cockroach in his chest moving about. Doctors recommended that he goes abroad preferably India.So patient had to sale his house and a few contributions from relatives. When he got to India another x-ray was taken and was told there was no cockroach in his chest but the cockroach was in the x-ray machine they used in Zimbabwe.
+ </p>
+</blockquote>

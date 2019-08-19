@@ -1,0 +1,17 @@
+<blockquote>
+ <p>
+  Liquor and wine is [sic] illegal in the U.S. unless it is radioactive. When tested, drinking alcohol is required to have at least 400 radioactive decays per minute for each 750 ml.
+ </p>
+ <p>
+  Explanation: The United States government has decided that alcohol for consumption must be made from “natural” materials, such as grains, grapes, or fruit. That rules out alcohol made from petroleum. […]
+ </p>
+ <p>
+  How can you tell the difference between natural alcohol and alcohol made from petroleum? There’s no chemical difference. The United States Bureau of Alcohol, Tobacco, Firearms and Explosives, charged with enforcing the natural alcohol rule, has only one reliable test: check for radioactivity
+ </p>
+ <p>
+  Natural alcohol gets its carbon from plants; the plants got the carbon from atmospheric carbon dioxide. Atmospheric carbon dioxide is radioactive because of the continued bombardment of cosmic rays – particles coming from space that collide with nitrogen molecules and turn it into C-14, radiocarbon. Only one atom in a trillion carbons in the atmosphere is radiocarbon, but that’s enough to be detectable. (One of the authors of this book, RM, invented the most sensitive way to detect C-14, called “Accelerator Mass Spectrometry.”)
+ </p>
+ <p>
+  Petroleum was also made from atmospheric carbon, but it was buried hundreds of millions of years ago, isolated from the radioactive atmosphere. Radiocarbon has a half-life of about 5700 years, and after a hundred million years, there is nary an atom of C-14 left.
+ </p>
+</blockquote>

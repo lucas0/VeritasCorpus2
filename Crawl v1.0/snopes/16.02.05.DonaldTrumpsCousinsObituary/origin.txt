@@ -1,0 +1,13 @@
+<blockquote>
+ <p>
+  I met this man today at the base of a very long stairway. we exchange “happy easter’s”. when i came back from a thirty minute walk, he had managed to go up three of the seven flights of stairs. he seemed very happy to be alive. he was joyful and hard of hearing. he quite happily insisted that i take his photo :-)
+ </p>
+ <p>
+  so i did.
+ </p>
+ <div style="text-align: center;">
+  <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2016/02/129649817_d650b14e7f_z.jpg" target="_blank">
+   <img alt="old man and sea" class="aligncenter size-full wp-image-17985" data-recalc-dims="1" sizes="(max-width: 640px) 100vw, 640px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2016/02/129649817_d650b14e7f_z.jpg?resize=640,480" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2016/02/129649817_d650b14e7f_z.jpg?w=640 640w, https://us-east-1.tchyn.io/snopes-production/uploads/2016/02/129649817_d650b14e7f_z.jpg?resize=300,225 300w"/>
+  </a>
+ </div>
+</blockquote>

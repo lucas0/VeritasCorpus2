@@ -1,0 +1,12 @@
+<blockquote>
+ <p>
+  As the parade was under way, many people watching coverage took to social media to say some missiles were wobbling in the wind and at least one appeared to be bent.
+ </p>
+ <p>
+  <center>
+   <a href="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/missiles-nk.jpg" target="_blank">
+    <img alt="" class="aligncenter wp-image-87293" data-recalc-dims="1" sizes="(max-width: 600px) 100vw, 600px" src="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/missiles-nk.jpg?resize=600,265" srcset="https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/missiles-nk.jpg?w=1000 1000w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/missiles-nk.jpg?resize=300,132 300w, https://us-east-1.tchyn.io/snopes-production/uploads/2017/04/missiles-nk.jpg?resize=768,339 768w"/>
+   </a>
+  </center>
+ </p>
+</blockquote>

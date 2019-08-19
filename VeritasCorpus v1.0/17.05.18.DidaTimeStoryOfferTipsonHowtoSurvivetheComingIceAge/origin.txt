@@ -1,0 +1,5 @@
+<blockquote>
+ <p class="p3">
+  Forty years ago, the same scientists that are predicting the end of the world now from global warming were predicting the end of the world from global cooling.
+ </p>
+</blockquote>

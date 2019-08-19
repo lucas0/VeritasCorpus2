@@ -1,0 +1,5 @@
+<blockquote class="note">
+ <p>
+  Updated [6 February  2018]: Added a meme example of the rumor.
+ </p>
+</blockquote>
